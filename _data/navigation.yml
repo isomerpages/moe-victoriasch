@@ -1,8 +1,8 @@
 logo: /images/vslogo_lockup1-1-1.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our Victoria
     collection: our-victoria
+  - title: Our People
+    collection: our-people
+  - title: Contact Us
+    url: /contact-us/
