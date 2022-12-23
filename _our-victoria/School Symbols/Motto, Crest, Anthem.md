@@ -8,4 +8,4 @@ third_nav_title: School Symbols
 
 
 <img src="/images/schoollogo.gif" 
-     style="width:50%">
+     style="width:30%">
