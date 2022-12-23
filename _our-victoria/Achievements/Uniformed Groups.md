@@ -57,8 +57,16 @@ description: ""
 	</li> 
 	 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Simple</label>
+    <label for="accordion7">2013</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>
+		 <li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>
+	</ul>
