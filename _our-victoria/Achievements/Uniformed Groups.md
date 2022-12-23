@@ -50,7 +50,7 @@ description: ""
 	</li>
 	 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Simple</label>
+    <label for="accordion6">2014</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
