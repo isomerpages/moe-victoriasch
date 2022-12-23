@@ -6,7 +6,13 @@ description: ""
 ---
 # **Uniformed Groups**
 
-![](/images/ach_ug-1.jpg)<ul class="jekyllcodex_accordion">
+![](/images/ach_ug-1.jpg)
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2019</label>
@@ -55,6 +61,4 @@ description: ""
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li> 
-
-
+	</li>
