@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Achievements/.keep
-      - folder-page.md
       - Victoria Online/.keep
       - Victoria Online/Victoriana.md
       - Victoria Online/Yearbooks.md
