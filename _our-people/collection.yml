@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Staff/Lead & Senior Teachers.md
       - Staff/Departments.md
       - Staff/Form Teachers.md
       - Staff/CCA Teachers.md
