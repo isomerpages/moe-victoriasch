@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  our-victoria:
     output: true
     order:
       - folder-page.md
