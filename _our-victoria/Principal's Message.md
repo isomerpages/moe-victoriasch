@@ -6,6 +6,7 @@ description: ""
 # **Principal's Message**
 
 
+<img src="/images/Mr-Chow-Principals-Message-Website.jpg" style="width:233px;height:340px;margin-left:15px;" align = "right">
 
 _Think, feel and dream_   
 _Brave new worlds, tryst with the unfamiliar, merge_   
