@@ -6,3 +6,9 @@ third_nav_title: Staff
 ---
 # **School Management Committee**
 
+
+
+![](/images/staffdirectory.jpg)
+
+
+
