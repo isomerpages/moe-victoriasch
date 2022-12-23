@@ -2,7 +2,7 @@ collections:
   our-victoria:
     output: true
     order:
-      - Achievements/folder-page.md
+      - Achievements/Uniformed Groups.md
       - Achievements/.keep
       - Victoria Online/.keep
       - Victoria Online/Victoriana.md
