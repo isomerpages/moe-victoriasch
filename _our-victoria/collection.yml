@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - folder-page.md
+      - Victoria Online/Photo Gallery.md
       - Victoria Online/Yearbooks.md
       - Victoria Online/.keep
       - Victoria Online/Victoriana.md
