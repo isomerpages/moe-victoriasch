@@ -2,6 +2,7 @@ collections:
   our-victoria:
     output: true
     order:
+      - School History/Past Principals.md
       - School History/Past Head Prefects.md
       - School History/League of Extraordinary Victorians.md
       - School History/.keep
