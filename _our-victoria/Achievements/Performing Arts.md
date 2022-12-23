@@ -35,7 +35,7 @@ third_nav_title: Achievements
     <input type="checkbox" id="accordion4">
     <label for="accordion4">2014</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Choir</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2nd Asia Cantate</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Award and Jury Prize</td></tr></thead></table></p>
     </div>
 	</li>
 	 <li>
