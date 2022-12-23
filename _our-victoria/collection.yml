@@ -2,6 +2,7 @@ collections:
   our-victoria:
     output: true
     order:
+      - Achievements/Academic.md
       - Achievements/Sports.md
       - Achievements/Clubs & Societies.md
       - Achievements/Performing Arts.md
