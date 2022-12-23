@@ -18,7 +18,7 @@ permalink: /terms-of-use/
 
 **Privacy Policy**
 
-5\. Click [here](https://victoria.moe.edu.sg/privacy-policy/) to view the Privacy Statement.
+5\. Click [here](/privacy/) to view the Privacy Statement.
 
 **Restrictions on Use of Materials**
 
