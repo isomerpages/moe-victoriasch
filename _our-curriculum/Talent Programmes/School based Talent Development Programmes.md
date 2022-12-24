@@ -48,30 +48,15 @@ third_nav_title: Talent Programmes
 	</li>
 	  <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Simple</label>
+    <label for="accordion6">Mathematics Talent Development Programme</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Victorians who excel in Mathematics are encouraged to participate in mathematical research work, where they are part of a mentorship programme and are given the opportunity to explore advanced mathematical concepts. These talented students participate in the Singapore Mathematical Olympiad (SMO), which develops their thinking skills and prepares them for more advanced study of Mathematics. Under this programme, our young mathematicians not only deepen their fascination for the subject, they also represent the school at the National Mathematics Competition (Singapore Mathematics Project Festival), the pinnacle competition for Singapore students.</p>
     </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
 	  <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Simple</label>
+    <label for="accordion7">VECTORS</label>
     <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>
-		  <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
+      <p>The programme, VECTORS, is a source of great intellectual stimulation for Victorians with strong ambitions in the field of Science. It challenges and stretches students who demonstrate ability and interest in Science. Our Victorians are given access to a wide range of opportunities to learn beyond the curriculum. These learning opportunities which take them out of their classrooms include enrichment modules (at junior colleges, polytechnics and universities), research mentorships, and participation in subject-based competitions.</p>
     </div>
 	</li>
 	</ul>
