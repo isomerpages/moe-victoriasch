@@ -79,6 +79,8 @@ Don'ts:
 
 ### Additional Tips for Parents
 
+link not found (no.1-6) 
+
 1.  [How do you help your child manage online scams?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/4%20Tip%20sheet%20for%20Parents-1.jpg)
 2.  [How do you help your child manage cyber contacts?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Cyber%20Contacts%20Tip%20Sheet-1.jpg)
 3.  [How do you help your child manage cyber bullying?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/4%20Tip%20Sheet%20on%20Cyber%20Bullying-1.png)
