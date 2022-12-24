@@ -41,14 +41,17 @@ To complement the cyber wellness curriculum in schools, parents can set a good e
      style="width:75%">
 *   Spend time with your child by carrying out family activities such as sports and outdoor activities so that your child has a healthy and balanced lifestyle.
 
-![](/images/A-1.jpg)
+<img src="/images/A-1.jpg" 
+     style="width:75%">
 *   Check out "[How do you set parental controls on your child's ICT devices?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls)" and activate them in all computing devices
 
-![](/images/R-1.jpg)
+<img src="/images/R-1.jpg" 
+     style="width:75%">
 *   Manage your own digital habits such as avoiding extensive use of technology and avoiding use of technology during meal times.
 *   Show your child safe, responsible and respectful behaviour when sharing, collaborating and creating online.
 
-![](/images/E-1.jpg)
+<img src="/images/E-1.jpg" 
+     style="width:75%">
 Some basic rules could include the following:
 
 Dos:
@@ -67,11 +70,13 @@ Don'ts:
 *   meet strangers face to face without parents’ knowledge
 *   spread rumours and say mean things online
 
-![](/images/N-1.jpg)
+<img src="/images/N-1.jpg" 
+     style="width:75%">
 *   Surf the Internet with your child so that you know what he does online and whether he is involved in age-appropriate activities. This will help to hone your child’s skills to translate his understanding into actions which he can later apply should he face similar situations.
 *   Highlight to your child not to respond to anyone who says something inappropriate and he should immediately leave any site if he feel uncomfortable.
 
-![](/images/T-1.jpg)
+<img src="/images/T-1.jpg" 
+     style="width:75%">
 *   Get your child to share with you his favourite online websites, things he do online and what is cool amongst his friends.
 *   Talk to him about his online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
 *   Let your child know that it is alright to ask you questions or talk to you if he run into problems with someone online.
