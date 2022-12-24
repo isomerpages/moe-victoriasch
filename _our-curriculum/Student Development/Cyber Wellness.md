@@ -68,4 +68,11 @@ Don'ts:
 *   spread rumours and say mean things online
 
 ![](/images/N-1.jpg)
+*   Surf the Internet with your child so that you know what he does online and whether he is involved in age-appropriate activities. This will help to hone your child’s skills to translate his understanding into actions which he can later apply should he face similar situations.
+*   Highlight to your child not to respond to anyone who says something inappropriate and he should immediately leave any site if he feel uncomfortable.
+
 ![](/images/T-1.jpg)
+*   Get your child to share with you his favourite online websites, things he do online and what is cool amongst his friends.
+*   Talk to him about his online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
+*   Let your child know that it is alright to ask you questions or talk to you if he run into problems with someone online.
+*   Download the [C-Quest game app](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/c-quest), which facilitates conversation between parents and children on cyber wellness, from the iTunes Store / Google Play.
