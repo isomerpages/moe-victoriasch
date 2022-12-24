@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development/Environmental Education.md
       - Student Development/Sexuality Education.md
       - Student Development/.keep
       - Talent Programmes/Art Elective Programme (AEP).md
