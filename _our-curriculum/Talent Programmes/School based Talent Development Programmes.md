@@ -26,9 +26,9 @@ third_nav_title: Talent Programmes
 	</li>
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">Humanities Talent Development</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The Humanities Talent Development Programme enhances the intellectual experience and achievements of our students in the Humanities, Arts and Social Sciences. In partnership with the public, private sector and government, we provide local and global opportunities for Victorians to meaningfully engage with, and enrich the community. Selected students participate in local and overseas Model United Nations conferences, attachments with the Ministry of Defence, and joint research programmes with civic societies such as the Singapore Heritage Society. Through these opportunities, students hone their knowledge and skills.</p>
     </div>
 	</li>
 	  <li>
