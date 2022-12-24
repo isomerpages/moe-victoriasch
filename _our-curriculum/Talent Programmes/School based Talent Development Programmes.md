@@ -18,9 +18,10 @@ third_nav_title: Talent Programmes
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Simple</label>
+    <label for="accordion2">Entrepreneurship Education Programme</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The Entrepreneurship Education Programme aims to develop a creative and entrepreneurial mindset, as well as to equip students with basic business and entrepreneurial knowledge. Students participate in a range of entrepreneurship competitions and attachments to gain real-world entrepreneurial exposure and experience. Students learn Social Entrepreneurship through their experiences with charitable organisations in terms of the planning and financing in their daily operations.</p>
+			<p>Our school has a tie up with the Spirit of Enterprising (SOE), which conducts programmes and organises activities, such as the Citi-YMCA Youth For Causes (YFC), for student participation. In addition, SOE arranges visits to companies and beneficiaries, most recently at the Koolwertz and Willing Hearts @ Chai Chee Community Centre respectively. At these platforms, students help out and learn how charitable organisations manage their daily manpower and financial issues. To learn from the experiences of professionals, students converse and engage with entrepreneurs, including our Old Victorians.</p>
     </div>
 	</li>
 	  <li>
