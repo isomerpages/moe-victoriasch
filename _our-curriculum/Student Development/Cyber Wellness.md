@@ -35,3 +35,12 @@ Victoria carries out CW lessons in the CLE curriculum which seeks to equip stude
 ### Tips for Parents
 
 To complement the cyber wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace
+
+
+<img src="/images/P-1.jpg" 
+     style="width:75%">
+![](/images/A-1.jpg)
+![](/images/R-1.jpg)
+![](/images/E-1.jpg)
+![](/images/N-1.jpg)
+![](/images/T-1.jpg)
