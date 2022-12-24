@@ -40,9 +40,10 @@ third_nav_title: Talent Programmes
 	</li>
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Simple</label>
+    <label for="accordion5">Malay Special Programme (MSP)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Victorians with a propensity for languages are encouraged to take up Malay language under the MOE-based Malay (Special Programme), or MSP. This third language programme has been offered to our students since 2013 and enables them to develop competence and confidence in the use of the Malay language. Through this programme, they learn to appreciate Malay traditions and culture, while making connections to their own.</p>
+			<p>For ‘O’ Level Programme students who offer MSP at the national examinations and receive a pass grade, they will be able to use the grade in lieu of a Humanities subject for admission to Junior Colleges. In addition, they are given a bonus of two points in their application to a Junior College of their choice.</p>
     </div>
 	</li>
 	  <li>
