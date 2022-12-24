@@ -33,9 +33,9 @@ third_nav_title: Talent Programmes
 	</li>
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Simple</label>
+    <label for="accordion4">Innovation Programme</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>The MOE-organised Innovation Programme allows students to develop their problem-solving and inventive skills by coming up with innovative ideas and products. In Victoria School, students adopt the Design Thinking Framework in the identification of an authentic problem and the formulation of a novel user-centred solution. The programme culminates in the Young Innovators’ Fair, where selected participants showcase their projects.</p>
     </div>
 	</li>
 	  <li>
