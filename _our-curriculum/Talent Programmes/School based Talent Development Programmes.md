@@ -57,6 +57,7 @@ third_nav_title: Talent Programmes
     <div>
       <p>Victorians who excel in Mathematics are encouraged to participate in mathematical research work, where they are part of a mentorship programme and are given the opportunity to explore advanced mathematical concepts. These talented students participate in the Singapore Mathematical Olympiad (SMO), which develops their thinking skills and prepares them for more advanced study of Mathematics. Under this programme, our young mathematicians not only deepen their fascination for the subject, they also represent the school at the National Mathematics Competition (Singapore Mathematics Project Festival), the pinnacle competition for Singapore students.</p>
     </div>
+	</li>
 	  <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">VECTORS</label>
