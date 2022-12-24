@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Special Programmes/.keep
-      - example-page.md
