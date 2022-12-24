@@ -88,5 +88,5 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 14.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 If you wish to opt your child out of the workshop provided, you can download the opt out forms below:  
-1) [Parent Opt Out Form for Sexuality Education](https://victoria.moe.edu.sg/wp-content/uploads/2022/01/Parent-Opt-Out-Form-2022-Sec.pdf)  
-2) [eTeens Parents Opt-out Form](https://victoria.moe.edu.sg/wp-content/uploads/2022/01/eTeens-Parents-Opt-out-Form-Sec-2022.pdf)
+1) [Parent Opt Out Form for Sexuality Education](/files/Parent-Opt-Out-Form-2022-Sec.pdf)  
+2) [eTeens Parents Opt-out Form](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf)
