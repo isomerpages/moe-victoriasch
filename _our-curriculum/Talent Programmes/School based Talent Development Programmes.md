@@ -8,6 +8,11 @@ third_nav_title: Talent Programmes
 
 
 
+![](/images/creativearts.jpg)
+
+
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
