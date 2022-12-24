@@ -62,3 +62,12 @@ We have partnered with various organisations for the Social Innovation Projects.
 *   Willing Hearts
 
 Our students are also encouraged to find community partners and work with them to meet the needs of the community.
+
+
+
+<img src="/images/VC-Gifts-from-the-Heart.png" 
+     style="width:50%">
+<img src="/images/Student-Initiated-Project-at-Dover-Park-Hospice.png" 
+     style="width:50%">
+<img src="/images/VC-Food-from-the-Heart-at-Willing-Hearts.png" 
+     style="width:50%">
