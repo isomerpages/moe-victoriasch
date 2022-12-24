@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Special Programmes/Boarding Programme.md
       - Special Programmes/Beyond Borders Programme.md
       - Special Programmes/.keep
