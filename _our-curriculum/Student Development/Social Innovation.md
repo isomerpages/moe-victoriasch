@@ -24,3 +24,10 @@ Through VS Social Innovation Programme, being part of VIA, using Design Thinking
 *   Encourage student initiative
 *   Foster social and personal development
 *   Provide meaningful services to our community
+
+
+##### Approach
+
+Students are encouraged to put values into practice within the context of real-life situations in the family, school, community, nation and the world. They will embrace their social roles as they interact with the world around them and act with consideration of the consequences of their actions on themselves and others.
+
+Students can be involved in Social Innovation Projects by rendering services or solutions that meet the needs of the community. Solutions presented for implementation can be of the following:
