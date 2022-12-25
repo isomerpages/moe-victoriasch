@@ -18,3 +18,10 @@ The Co-Curricular Activities develop students’ character, leadership and resil
 In all, we have almost 30 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at Zonal, National and International levels.
 
 ### Sports & Games
+* [Badminton](/our-curriculum/student-development/co-curricular-activities/sports-games/badminton/)
+* [Cricket](/our-curriculum/student-development/co-curricular-activities/sports-games/cricket/)
+* [Cross-Country](/our-curriculum/student-development/co-curricular-activities/sports-games/cross-country/)
+* [Floorball](/our-curriculum/student-development/co-curricular-activities/sports-games/floorball/)
+* [Football](/our-curriculum/student-development/co-curricular-activities/sports-games/football/)
+* [Hockey](/our-curriculum/student-development/co-curricular-activities/sports-games/hockey/)
+* [Sailing](/our-curriculum/student-development/co-curricular-activities/sports-games/sailing/)
