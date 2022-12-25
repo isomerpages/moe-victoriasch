@@ -29,7 +29,7 @@ third_nav_title: Sports
     <label for="accordion3">Teachers in-charge and Schedule</label>
     <div>
 			<p><a href="/our-people/staff/cca-teachers/"><b>Teachers-in-charge</a></p>
-			<p><a href="/our-people/staff/cca-teachers/"><b>CCA Schedule</a></p>
+			<p><a href="/cca-schedule/"><b>CCA Schedule</a></p>
     </div>
 	</li> 
 	</ul>
