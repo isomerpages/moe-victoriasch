@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/Cross Country.md
       - Sports/Floorball.md
       - Sports/Football.md
       - Sports/Hockey.md
