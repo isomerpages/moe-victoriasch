@@ -5,3 +5,5 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 # **English Drama**
+
+![](/images/English_Drama.jpg)
