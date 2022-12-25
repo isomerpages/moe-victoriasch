@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Group/NCC Land.md
       - Uniformed Group/NCC Sea.md
       - Uniformed Group/NPCC.md
       - Uniformed Group/Red Cross.md
