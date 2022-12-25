@@ -17,6 +17,13 @@ The Co-Curricular Activities develop students’ character, leadership and resil
 ### Diverse Co-Curricular Activities (CCA)
 In all, we have almost 30 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at Zonal, National and International levels.
 
+### Visual & Performing Arts
+* [Chinese Orchestra](/our-curriculum/student-development/co-curricular-activities/visual-performing-arts/corchestra/)
+* [Choir](/our-curriculum/student-development/co-curricular-activities/visual-performing-arts/choir/)
+* [Concert Band](/our-curriculum/student-development/co-curricular-activities/visual-performing-arts/concert-band/)
+* [English Drama](/our-curriculum/student-development/co-curricular-activities/visual-performing-arts/english-drama/)
+* [Photography Club](/our-curriculum/student-development/co-curricular-activities/clubs-societies/photography-club/)
+
 
 ### Uniformed Groups
 * [Boys’ Brigade](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/boys-brigade/)
