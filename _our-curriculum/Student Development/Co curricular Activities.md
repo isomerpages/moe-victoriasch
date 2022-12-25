@@ -16,3 +16,5 @@ The Co-Curricular Activities develop students’ character, leadership and resil
 
 ### Diverse Co-Curricular Activities (CCA)
 In all, we have almost 30 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at Zonal, National and International levels.
+
+### Sports & Games
