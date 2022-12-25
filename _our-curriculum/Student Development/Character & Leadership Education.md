@@ -19,6 +19,8 @@ third_nav_title: Student Development
 		<p><center>VS CLE Approach:</center><p>
 		<p><img src="/images/VS-CLE-Approach-300x256.png" style="width:50%"></p>
 		<p>The framework highlights CLE as a process that aims to<br><br><b>ENRICH</b> the lives of our Victorians’ lives through learning experiences to transmit values & good habits of mind and heart for good citizenship to thrive. These learning experiences include CLE lessons, Social Innovation Programme, Level Camps, Learning Journeys and Student Leadership Programme etc.<br><br><b>ENGAGE</b> our Victorians’ cognition (head) and affect (heart) through use of life experiences, activity based experiential approach and guided reflections through the facilitation of the teachers. Over time, our Victorians can be a critical and innovative thinker, able to empathise with the others in the community, and contribute to the community.<br><br><b>EMPOWER</b> every Victorians with skills, knowledge and attitude to initiate changes to improve the lives of others in the community, and seeing this as part of their social responsibilities and daily living, where their decisions are guided by sound principles, and anchoring on the school core values.</p>
+		<p><h4>Social Emotional Learning (SEL)</h4></p>
+		<p>VS believes the manifestation of sound character is only possible with good SEL skills.  The social and emotional well-being programme for students seeks to develop the following competencies:</p>
     </div>
   </li>
     <li>
@@ -27,14 +29,6 @@ third_nav_title: Student Development
     <div>
       <p>Over the 3 ½ years in AV Club, students learn the use of the audio and visual equipment available in AV Club. More importantly for them is that they learn crucial life skills of which are not commonly found in everyday activities. They learn the importance of teamwork and coordination, trouble-shooting, decision-making and working toward a common goal in every opportunity. Besides being trained to remain steadfast in their roles and responsibilities during events, they learn the value of Ever-Readiness, our CCA motto which AV students are always ready to spring into action and show their initiative should the need arise, whether during morning assemblies, at dynamic events, and in everyday life.</p>
 			<p><img src="/images/VS-CLE-Approach-300x256.png"></p>
-    </div>
-  </li> 
-    <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Teachers in-charge and Schedule</label>
-    <div>
-      <p><a href="/our-people/staff/cca-teachers/"><b>Teachers-in-charge</b></a></p>
-      <p><a href="/cca-schedule/"><b>CCA Schedule</b></a></p>
     </div>
   </li> 
   </ul>
