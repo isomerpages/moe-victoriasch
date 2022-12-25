@@ -24,7 +24,7 @@ third_nav_title: Uniformed Group
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>develop loyalty to the country,</li><li>develop a sense of uprightness in character,</li><li>groom leadership traits in himself and among his team members,)</li><li>maintain a sense of self discipline,</li><li>instil commitment and responsibility and care for fellow cadets,</li><li>attain an adventurous spirit and to look out for the safety of one another.</li></ul>
+			<ul><li>Develop and grow in character</li><li>Acquire life skills to solve problems and respond to challenges</li><li>Learn to collaborate and communicate with others effectively</li><li>Become loyal and responsible citizens and servant leaders</li><li>Appreciate music and heritage by learning the bagpipes or drums</li><li>Improve physical fitness and lead balanced and meaningful lives</li></ul>
     </div>
 	</li> 
 	  <li>
