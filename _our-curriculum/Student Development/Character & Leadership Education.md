@@ -21,6 +21,7 @@ third_nav_title: Student Development
 		<p>The framework highlights CLE as a process that aims to<br><br><b>ENRICH</b> the lives of our Victorians’ lives through learning experiences to transmit values & good habits of mind and heart for good citizenship to thrive. These learning experiences include CLE lessons, Social Innovation Programme, Level Camps, Learning Journeys and Student Leadership Programme etc.<br><br><b>ENGAGE</b> our Victorians’ cognition (head) and affect (heart) through use of life experiences, activity based experiential approach and guided reflections through the facilitation of the teachers. Over time, our Victorians can be a critical and innovative thinker, able to empathise with the others in the community, and contribute to the community.<br><br><b>EMPOWER</b> every Victorians with skills, knowledge and attitude to initiate changes to improve the lives of others in the community, and seeing this as part of their social responsibilities and daily living, where their decisions are guided by sound principles, and anchoring on the school core values.</p>
 		<p><h4>Social Emotional Learning (SEL)</h4></p>
 		<p>VS believes the manifestation of sound character is only possible with good SEL skills.  The social and emotional well-being programme for students seeks to develop the following competencies:</p>
+		<ol><li>Self Awareness</li><li>Self Management</li><li>Social Awareness</li><li>Relationship Management</li><li>Responsible Decision Making</li></ol>
     </div>
   </li>
     <li>
