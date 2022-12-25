@@ -22,8 +22,8 @@ third_nav_title: Infocomm Club
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Key Student Outcomes</label>
     <div>
-      <p>The CCA will enable our students to:</p>
-      <ul><li>Appreciate Chess as a life skill</li><li>Develop leadership and teamwork skills</li><li>Acquire planning skills and hence equip our boys the strategic life skills.</li><li>Cultivate the spirit of perseverance and resilience in our boys when face with life challenges.</li></ul>
+      <p>Over the 3 ½ years in AV Club, students learn the use of the audio and visual equipment available in AV Club. More importantly for them is that they learn crucial life skills of which are not commonly found in everyday activities. They learn the importance of teamwork and coordination, trouble-shooting, decision-making and working toward a common goal in every opportunity. Besides being trained to remain steadfast in their roles and responsibilities during events, they learn the value of Ever-Readiness, our CCA motto which AV students are always ready to spring into action and show their initiative should the need arise, whether during morning assemblies, at dynamic events, and in everyday life.</p>
+			<img src="/images/av-2-1024x768.jpg">
     </div>
   </li> 
     <li>
