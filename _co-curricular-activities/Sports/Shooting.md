@@ -5,3 +5,5 @@ description: ""
 third_nav_title: Sports
 ---
 # **Shooting**
+
+![](/images/Shooting.jpg)
