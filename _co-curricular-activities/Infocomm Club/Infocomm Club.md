@@ -7,3 +7,7 @@ third_nav_title: Infocomm Club
 # **Infocomm Club**
 
 ![](/images/Infocomm_Club.jpg)
+
+[**Teachers-in-charge**](/our-people/staff/cca-teachers/)
+
+[**CCA Schedule**](/cca-schedule/)
