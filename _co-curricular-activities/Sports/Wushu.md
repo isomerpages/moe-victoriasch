@@ -18,7 +18,7 @@ third_nav_title: Sports
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Key Studennt Outcomes</label>
+    <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>VS Wushu will enable our students to:</p>
 			<ul><li>Exemplify our school’s core values of Performance Excellence, Respect, Integrity, Discipline and Empathy</li><li>Develop a strong fighting spirit, focus and fitness</li><li>Appreciate the importance of humility, hard work and confidence as key to success</li><li>Build team spirit</li></ul>
