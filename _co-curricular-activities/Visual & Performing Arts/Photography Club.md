@@ -4,3 +4,4 @@ permalink: /our-curriculum/student-development/co-curricular-activities/clubs-so
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+# **Photography Club**
