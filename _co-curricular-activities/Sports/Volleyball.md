@@ -21,8 +21,8 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Key Studennt Outcomes</label>
     <div>
-			<p>VS Wushu will enable our students to:</p>
-			<ul><li>Exemplify our school’s core values of Performance Excellence, Respect, Integrity, Discipline and Empathy</li><li>Develop a strong fighting spirit, focus and fitness</li><li>Appreciate the importance of humility, hard work and confidence as key to success</li><li>Build team spirit</li></ul></p>
+			<p>The CCA will enable our students to:</p>
+			<ul><li>Learn the skills and training methods for their respective disciplines in Run, Jump, Throw and Race-walk.</li><li>Excel by improving their personal best in the events for which they are representing the school.</li><li>Experience leadership and character development through opportunities provided during the course of the CCA programme</li></ul></p>
     </div>
 	</li> 
 	  <li>
