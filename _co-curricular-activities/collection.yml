@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Infocomm Club/Infocomm Club.md
       - Infocomm Club/.keep
       - Visual & Performing Arts/Chinese Orchestra.md
       - Visual & Performing Arts/Choir.md
