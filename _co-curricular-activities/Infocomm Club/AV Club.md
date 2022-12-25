@@ -4,3 +4,6 @@ permalink: /our-curriculum/student-development/co-curricular-activities/clubs-so
 description: ""
 third_nav_title: Infocomm Club
 ---
+# **AV Club**
+
+![](/images/AV_Club_2021.jpg)
