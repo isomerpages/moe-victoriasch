@@ -27,7 +27,7 @@ third_nav_title: Visual & Performing Arts
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>Appreciate the rich traditions of choral music</li><li>Nurture and cultivate a passion for singing</li><li>Experience what it is like to perform within and outside of school</li><li>Achieve excellent results in both local and international competitions</li><li>Develop as student leaders to manage the CCA administratively as well as provide musical direction</li></ul>
+			<ul><li>Cultivate their appreciation and passion in modern Chinese Orchestra music</li><li>Cultivate their musical skills in performing a wide variety of Chinese Orchestra music genres</li><li>Develop their leadership skills, social and emotional competencies and 21st Century Competencies.</li><li>Have the opportunity to perform within and out of school.</li><li>Foster team bonding with other members and develop a sense of belonging to VSCO.</li></ul>
     </div>
 	</li> 
 	  <li>
