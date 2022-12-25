@@ -17,6 +17,15 @@ The Co-Curricular Activities develop students’ character, leadership and resil
 ### Diverse Co-Curricular Activities (CCA)
 In all, we have almost 30 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at Zonal, National and International levels.
 
+
+### Uniformed Groups
+* [Boys’ Brigade](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/boys-brigade/)
+* [NCC Land](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/ncc-land/)
+* [NCC Sea](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/ncc-sea/)
+* [NPCC](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/npcc/)
+* [Red Cross](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/red-cross/)
+* [Scouts](/our-curriculum/student-development/co-curricular-activities/uniformed-groups/scouts/)
+
 ### Sports & Games
 * [Badminton](/our-curriculum/student-development/co-curricular-activities/sports-games/badminton/)
 * [Cricket](/our-curriculum/student-development/co-curricular-activities/sports-games/cricket/)
