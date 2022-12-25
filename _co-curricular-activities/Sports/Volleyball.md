@@ -33,4 +33,4 @@ third_nav_title: Sports
 			<p><a href="/cca-schedule/"><b>CCA Schedule</b></a></p>
     </div>
 	</li> 
-	</ul>
+</ul>
