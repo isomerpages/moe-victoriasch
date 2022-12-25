@@ -32,4 +32,4 @@ third_nav_title: Student Development
 			<p><img src="/images/VS-CLE-Approach-300x256.png"></p>
     </div>
   </li> 
-  </ul>
+ </ul>
