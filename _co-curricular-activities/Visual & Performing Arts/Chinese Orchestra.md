@@ -4,3 +4,6 @@ permalink: /our-curriculum/student-development/co-curricular-activities/visual-p
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+# **Chinese Orchestra**
+
+![](/images/Chinese_Orchestra.jpg)
