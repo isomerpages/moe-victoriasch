@@ -4,13 +4,16 @@ permalink: /our-curriculum/student-development/co-curricular-activities/sports-g
 description: ""
 third_nav_title: Sports
 ---
+# **Track & Field**
+
+![](/images/TrackField.jpg)
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Background / History of CCA</label>
     <div>
-      <p>Volleyball has a long history in Victoria School around 1965. The team was previously disbanded for a number of years and then revived when an old boy and ex-volleyball player (Mr Liong Huai Yu), joined the school as an Art teacher in 2003. The coach Mr Yap Ah Kuan was roped in and since then, the team has gone on to achieve many Zonal Top 4 position in B and C Divisions Competitions.<br><br>The team also managed to achieve National Top 4 position 3 times in the past 12 years.</p>
+      <p>Track & Field in Victoria School was formed in 1939. As there was not many inter-school competitions at that time, the athletes often competed against organisations like the British Army. VS Track & Field relay team won the Sir Arthur Young Cup six times between 1939 and 1955. In the 1960’s, the VS Track & Field teams were always in the top 2 positions in the Serangoon District Championships. From 1990’s to the present, the B and C Division teams were consistently in the Top 4 positions, with the C Division team being National Champions in 1981, 1992 and 2000.</p>
     </div>
 	</li>
 	  <li>
