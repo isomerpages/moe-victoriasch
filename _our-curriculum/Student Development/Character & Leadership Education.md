@@ -6,8 +6,6 @@ third_nav_title: Student Development
 ---
 # **Character & Leadership Education**
 
-![](/images/VS-CLE-Approach-300x256.png)
-
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -22,6 +20,7 @@ third_nav_title: Student Development
 		<p><h4>Social Emotional Learning (SEL)</h4></p>
 		<p>VS believes the manifestation of sound character is only possible with good SEL skills.  The social and emotional well-being programme for students seeks to develop the following competencies:</p>
 		<ol><li>Self Awareness</li><li>Self Management</li><li>Social Awareness</li><li>Relationship Management</li><li>Responsible Decision Making</li></ol>
+		<p><img src="/images/SEL.png" style="width:70%"></p>
     </div>
   </li>
     <li>
