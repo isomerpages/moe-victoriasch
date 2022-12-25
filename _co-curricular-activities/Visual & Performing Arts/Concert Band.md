@@ -4,3 +4,6 @@ permalink: /our-curriculum/student-development/co-curricular-activities/visual-p
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+# **Concert Band**
+
+![](/images/Concert_Band_2.jpg)
