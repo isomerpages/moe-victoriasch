@@ -23,7 +23,7 @@ third_nav_title: Sports
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>Learn and use the necessary skills, knowledge and attitudes expected of a shooter.</li><li>Develop students with good character, one that embodies the core values, vision and mission of Victoria School through trainings and competitions.</li><li>Acquire and develop mental resilience through sharpening and deepening level of concentration.</li><li>Build physical discipline through increased stamina, strength, hand-eye coordination, and fine motor skills that apply, not only to this sport, but to all of life.</li><li>Cultivate personal responsibility in safety and skill development.</li><li>Develop positive mental attitude through in house competitions within the club.</li><li>Experience and appreciate the passion for sports in general and shooting in particular.</li></ul>
+			<ul><li>Cultivate a sense of appreciation, passion and love for Hockey, and sports in general, as they contribute towards a vibrant school sports culture.</li><li>Learn the necessary skills, knowledge and attitudes that are required of a Hockey</li><li>Acquire and develop physical strength, agility as well as mental resilience over the years, through Hockey training, competitions and Twinning Programmes with Penang Free School.</li><li>Develop good character and exhibit model Sportsman qualities, such as Sportsmanship, Teamwork and Fair Play, which is in line with the Vision of Victoria School.</li><li>Grow as individuals who embody the core values (P-R-I-D-E [Performance Excellence, Respect, Integrity, Discipline, Empathy]) of Victoria School.</li></ul>
     </div>
 	</li> 
 	  <li>
