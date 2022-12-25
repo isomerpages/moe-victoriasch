@@ -21,8 +21,9 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Key Student Outcomes</label>
     <div>
-			<p>The CCA will enable our students to:</p>
-			<ul><li>Learn and use the necessary skills, knowledge and attitudes expected of a shooter.</li><li>Develop students with good character, one that embodies the core values, vision and mission of Victoria School through trainings and competitions.</li><li>Acquire and develop mental resilience through sharpening and deepening level of concentration.</li><li>Build physical discipline through increased stamina, strength, hand-eye coordination, and fine motor skills that apply, not only to this sport, but to all of life.</li><li>Cultivate personal responsibility in safety and skill development.</li><li>Develop positive mental attitude through in house competitions within the club.</li><li>Experience and appreciate the passion for sports in general and shooting in particular.</li></ul>
+			<p>The CCA will enable our students to develop in terms of character, including discipline, perseverance and resilience because of the long hours of training and commitment they would need to have. They will also learn to appreciate the value of performance excellence where they striving to do their best in all their endeavours</p>
+			<p>In terms of skills, they develop their sailing and decision-making abilities when they are out at sea during competitions. This helps them to improve as sailors.</p>
+			<p>In addition, attending training sessions diligently also helps to foster social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
     </div>
 	</li> 
 	  <li>
