@@ -21,9 +21,7 @@ third_nav_title: Uniformed Group
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Key Student Outcomes</label>
     <div>
-			<p>The CCA will enable our students to develop in terms of character, including discipline, perseverance and resilience because of the long hours of training and commitment they would need to have. They will also learn to appreciate the value of performance excellence where they striving to do their best in all their endeavours</p>
-			<p>In terms of skills, they develop their sailing and decision-making abilities when they are out at sea during competitions. This helps them to improve as sailors.</p>
-			<p>In addition, attending training sessions diligently also helps to foster social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
+			<p>At the end of the 4 years of Scouting,<br><br>our Scout must be fully aware of his responsibilities, well-informed, civic-conscious and ready to step into the adult world to meet the challenges of life. Equipped with knowledge, skills and experience, he is a confident person and is prepared to serve his country as a loyal and dedicated citizen.</p>
     </div>
 	</li> 
 	  <li>
