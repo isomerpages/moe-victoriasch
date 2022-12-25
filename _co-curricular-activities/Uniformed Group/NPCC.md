@@ -23,9 +23,9 @@ third_nav_title: Uniformed Group
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Key Student Outcomes</label>
     <div>
-			<p>Victoria School Red Cross Unit (VSRCCU) is a CCA that integrates character-building, leadership, essential lifesaving skills and blood donation knowledge, local community service and overseas humanitarian projects in its curriculum, with the Red Cross ethos and service to humanity as a core focus.</p>
-			<p>We aim to bring out the best in our Cadets and to prepare them for leadership with a heart. At the community level, VSRCCU participates regularly with the Red Cross Youth Club which provides a sustainable platform for our cadets to serve the vulnerable in our communities.  This includes volunteering at various blood donation drives and other community-service projects.</p>
-			<p>VSRCCU strives to instil the Red Cross Youth spirit and strengthen core values such as compassion, passion and professionalism in all members. By participating in providing Singapore Red Cross humanitarian services, the cadets are groomed to become good citizens with a strong sense of civic responsibility. They are trained to be adaptable, resilient and confident team players.</p>
+			<p>The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force (SPF) to fight crime and keep Singapore safe.</p>
+			<p>The vision of the National Police Cadet Corps is to become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>
+			<p>In accordance with our mission and observing our objectives, we believe in:</p>
     </div>
 	</li> 
 	  <li>
