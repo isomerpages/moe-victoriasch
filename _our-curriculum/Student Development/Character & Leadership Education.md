@@ -21,7 +21,7 @@ third_nav_title: Student Development
 		<p>VS believes the manifestation of sound character is only possible with good SEL skills.  The social and emotional well-being programme for students seeks to develop the following competencies:</p>
 		<ol><li>Self Awareness</li><li>Self Management</li><li>Social Awareness</li><li>Relationship Management</li><li>Responsible Decision Making</li></ol>
 		<p><img src="/images/SEL.png" style="width:70%"></p>
-		<p>The CLE curriculum aims to develop our Victorians to have a good sense of self-awareness, a sound moral compass, and the necessary skills and knowledge to take on challenges of the future. He is responsible to his family, community and nation. He appreciates the beauty of the world around him, possesses a healthy mind and body, and has a zest for life.</p>
+		<p>The CLE curriculum aims to develop our Victorians to have a good sense of self-awareness, a sound moral compass, and the necessary skills and knowledge to take on challenges of the future. He is responsible to his family, community and nation. He appreciates the beauty of the world around him, possesses a healthy mind and body, and has a zest for life.<br><br>In sum, he is:</p>
     </div>
   </li>
     <li>
