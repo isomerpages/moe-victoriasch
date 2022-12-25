@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - Student Development/Cyber Wellness.md
       - Student Development/Physical Development.md
       - Student Development/Social Innovation.md
