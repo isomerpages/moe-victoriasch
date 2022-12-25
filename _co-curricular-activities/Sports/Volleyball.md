@@ -19,7 +19,7 @@ third_nav_title: Sports
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Key Studennt Outcomes</label>
+    <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
 			<ul><li>Learn the skills and training methods for their respective disciplines in Run, Jump, Throw and Race-walk.</li><li>Excel by improving their personal best in the events for which they are representing the school.</li><li>Experience leadership and character development through opportunities provided during the course of the CCA programme</li></ul></p>
