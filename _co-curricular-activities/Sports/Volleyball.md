@@ -22,15 +22,15 @@ third_nav_title: Sports
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>Learn the skills and training methods for their respective disciplines in Run, Jump, Throw and Race-walk.</li><li>Excel by improving their personal best in the events for which they are representing the school.</li><li>Experience leadership and character development through opportunities provided during the course of the CCA programme</li></ul></p>
+			<ul><li>Learn the skills and training methods for their respective disciplines in Run, Jump, Throw and Race-walk.</li><li>Excel by improving their personal best in the events for which they are representing the school.</li><li>Experience leadership and character development through opportunities provided during the course of the CCA programme</li></ul>
     </div>
 	</li> 
 	  <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Teachers in-charge and Schedule</label>
     <div>
-			<p><a href="/our-people/staff/cca-teachers/"><b>Teachers-in-charge</a></p>
-			<p><a href="/cca-schedule/"><b>CCA Schedule</a></p>
+			<p><a href="/our-people/staff/cca-teachers/"><b>Teachers-in-charge</b></a></p>
+			<p><a href="/cca-schedule/"><b>CCA Schedule</b></a></p>
     </div>
 	</li> 
 	</ul>
