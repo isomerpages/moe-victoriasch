@@ -96,11 +96,13 @@ third_nav_title: Academic Development
 		<p></p><h4>Philosophy</h4><p></p>
 			<p>The Aesthetics &amp; Design Department emphasizes on the development of Design-Thinking skills in students and encourages the use of design thinking processes in solving authentic situations through Art, Design and Technology (D&amp;T), Food and Nutrition (F&amp;N) and Music. The teaching and learning of Design-Thinking through this grouping of subjects involves research and the reasoned application of knowledge and skills in the respective elective subject areas and is focused on the needs, wants and desires of end users.</p>
 			<p></p><h4>Department Objectives</h4><p></p>
-			<p>The Aesthetics &amp; Design Department aims to:</p><ul><li>develop design thinking and communication skills (Confident Communicator);</li><li>develop an appreciation of the aesthetics through art, design, food and nutrition, as well as music (Self-directed learner &amp; Critical Thinker);</li><li>develop an awareness of art, design, nutrition and music in the contexts of society, culture and environment (Social Innovator); and</li><li>acquire knowledge and skills of the subject through the contexts of the authentic design-thinking projects (Social Innovator, Self-directed learner, Confident Communicator &amp; Critical Thinker).</li></ul><p></p>
+			<p>The Aesthetics &amp; Design Department aims to:</p>
+			<ul><li>develop design thinking and communication skills (Confident Communicator);</li><li>develop an appreciation of the aesthetics through art, design, food and nutrition, as well as music (Self-directed learner &amp; Critical Thinker);</li><li>develop an awareness of art, design, nutrition and music in the contexts of society, culture and environment (Social Innovator); and</li><li>acquire knowledge and skills of the subject through the contexts of the authentic design-thinking projects (Social Innovator, Self-directed learner, Confident Communicator &amp; Critical Thinker).</li></ul>
 			<p></p><h4>Teaching Approach</h4><p></p>
-			<p>The core subject model adopted in the Aesthetics &amp; Design Department is Design-Thinking. However, various other subject models will also be employed in the teaching and learning. These include:</p><ol><li>Teaching for Understanding<br>(a) Collaborative Learning<br>(b) Problem Based Learning<br> (c) Socratic Questioning<br> (d) See, Think &amp; Wonder</li><li>Student-Centred and Independent Learning</li></ol><p></p>
-			<p></p><h4>Assessment Principles</h4><p></p>
-			<p></p><ol><li>Summative and Holistic. Eg. Courseworks, Examinations.</li><li>Continual. Eg. Project Based Assignments.</li><li>Informal Assessment. Eg. Peer Assessment, Teachers’ feedback, Industrial Partners’ feedback, Participants’ Survey.</li><li>Learning through reflections. Eg. Learning Journals and Interviews.</li></ol><p></p>
+			<p>The core subject model adopted in the Aesthetics &amp; Design Department is Design-Thinking. However, various other subject models will also be employed in the teaching and learning. These include:</p>
+			<ol><li>Teaching for Understanding<br>(a) Collaborative Learning<br>(b) Problem Based Learning<br> (c) Socratic Questioning<br> (d) See, Think &amp; Wonder</li><li>Student-Centred and Independent Learning</li></ol>
+			<p><h4>Assessment Principles</h4></p>
+			<ol><li>Summative and Holistic. Eg. Courseworks, Examinations.</li><li>Continual. Eg. Project Based Assignments.</li><li>Informal Assessment. Eg. Peer Assessment, Teachers’ feedback, Industrial Partners’ feedback, Participants’ Survey.</li><li>Learning through reflections. Eg. Learning Journals and Interviews.</li></ol>
 	</div>
 	</li>
 	<li>
@@ -112,7 +114,8 @@ third_nav_title: Academic Development
 		<p></p><h4>Philosophy</h4>
 		<p>In Victoria School, Humanities education is the study of the understanding and appreciation of the relevance of the humanities for personal growth and active participation in society. In this programme, we strive to enrich, develop and nurture each Victorian to be an ethical, capable and gracious citizen of society, who can live, play and work with others with an open and critically inquiring mind.</p>
 		<p></p><h4>Curriculum</h4><p></p>
-		<p>Knowledge</p><ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul></p>
+		<p>Knowledge</p>
+	<ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul>
 	</div>
 	</li>
   </ul>
