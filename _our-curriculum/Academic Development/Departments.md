@@ -116,6 +116,8 @@ third_nav_title: Academic Development
 		<p></p><h4>Curriculum</h4><p></p>
 		<p>Knowledge</p>
 	<ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul>
+	<p>Skills</p>
+	<ul><li>Geography – conduct fieldwork, offer solutions/alternatives, recognise patterns, deduce relationships, make decisions</li><li>History & Social Studies – construct arguments, make informed judgments, see connections</li></ul>
 	</div>
 	</li>
   </ul>
