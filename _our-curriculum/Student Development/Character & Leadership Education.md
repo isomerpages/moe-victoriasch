@@ -24,13 +24,13 @@ third_nav_title: Student Development
 		<p>The CLE curriculum aims to develop our Victorians to have a good sense of self-awareness, a sound moral compass, and the necessary skills and knowledge to take on challenges of the future. He is responsible to his family, community and nation. He appreciates the beauty of the world around him, possesses a healthy mind and body, and has a zest for life.<br><br>In sum, he is:</p>
     </div>
   </li>
-    <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Key Student Outcomes</label>
-    <div>
-      <p>Over the 3 ½ years in AV Club, students learn the use of the audio and visual equipment available in AV Club. More importantly for them is that they learn crucial life skills of which are not commonly found in everyday activities. They learn the importance of teamwork and coordination, trouble-shooting, decision-making and working toward a common goal in every opportunity. Besides being trained to remain steadfast in their roles and responsibilities during events, they learn the value of Ever-Readiness, our CCA motto which AV students are always ready to spring into action and show their initiative should the need arise, whether during morning assemblies, at dynamic events, and in everyday life.</p>
-			<p><img src="/images/VS-CLE-Approach-300x256.png"></p>
-			<ul><li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively.</li><li>a self-directed learner who questions, reflects, perseveres and takes responsibility for his own learning.</li></ul>
-    </div>
-  </li> 
+  <li>
+   <input type="checkbox" id="accordion2">
+   <label for="accordion2">Key Student Outcomes</label>
+   <div>
+     <p>Over the 3 ½ years in AV Club, students learn the use of the audio and visual equipment available in AV Club. More importantly for them is that they learn crucial life skills of which are not commonly found in everyday activities. They learn the importance of teamwork and coordination, trouble-shooting, decision-making and working toward a common goal in every opportunity. Besides being trained to remain steadfast in their roles and responsibilities during events, they learn the value of Ever-Readiness, our CCA motto which AV students are always ready to spring into action and show their initiative should the need arise, whether during morning assemblies, at dynamic events, and in everyday life.</p>
+		<p><img src="/images/VS-CLE-Approach-300x256.png"></p>
+		<ul><li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively.</li><li>a self-directed learner who questions, reflects, perseveres and takes responsibility for his own learning.</li></ul>
+	</div>
+ </li> 
  </ul>
