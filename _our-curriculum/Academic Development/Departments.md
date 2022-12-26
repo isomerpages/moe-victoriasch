@@ -127,6 +127,7 @@ third_nav_title: Academic Development
 			<p></p><h4>Assessment</h4><p></p>
 			<p>The assessment principles are based on the belief that assessment is a mechanism to provide timely feedback to address learning gaps to pupils so that they can adjust learning tactics, and for teachers to consider their intervention strategies. The Humanities teachers believe in the use of holistic and authentic assessment to assess 21st century competencies, and in a balance of formative and summative assessment and assessment for, of and as learning.<br><br>Assessment modes include:</p>
 			<ul><li>self & peer assessment</li><li>performance task</li><li>test & examination</li><li>oral presentation (and defense)</li><li>open book test</li><li>assessment of individual class and online participation</li><li>portfolio assessment</li></ul>
+			<p></p><h4>Historia – History journal by VS students</h4><p></p>
 	</div>
 	</li>
   </ul>
