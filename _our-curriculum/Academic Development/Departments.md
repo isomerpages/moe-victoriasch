@@ -114,10 +114,12 @@ third_nav_title: Academic Development
 		<p></p><h4>Philosophy</h4>
 		<p>In Victoria School, Humanities education is the study of the understanding and appreciation of the relevance of the humanities for personal growth and active participation in society. In this programme, we strive to enrich, develop and nurture each Victorian to be an ethical, capable and gracious citizen of society, who can live, play and work with others with an open and critically inquiring mind.</p>
 		<p></p><h4>Curriculum</h4><p></p>
-		<p>Knowledge</p>
+		<p>Knowledge:</p>
 	<ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul>
-	<p>Skills</p>
+	<p>Skills:</p>
 	<ul><li>Geography – conduct fieldwork, offer solutions/alternatives, recognise patterns, deduce relationships, make decisions</li><li>History & Social Studies – construct arguments, make informed judgments, see connections</li></ul>
+			<p>Values:</p>
+	<ul><li>Responsibility to self and society in thought leadership & character mastery</li><li>Empathy and sensitivity of concerned global citizen rooted to Singapore</li><li>Intellectual curiosity and rigour in critical and inventive (creative) thinking and actively making sense of the world around you</li><li>Respect for others and acceptance of and tolerance for divergent points of view</li></ul>
 	</div>
 	</li>
   </ul>
