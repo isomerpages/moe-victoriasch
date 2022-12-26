@@ -150,6 +150,8 @@ third_nav_title: Academic Development
 			<ul><li>Instruction to the class as a whole group</li><li>Instruction and demonstration in small groups</li><li>Peer instruction (between students)</li><li>Drills in small groups</li><li>Small-sided games</li></ul>
 			<p><h4>Assessment</h4></p>
 			<ul><li>PE Theory  Written Test (MCQ, short answers) – Sec 1 and 2</li><li>Athletic Standards Tests – Sec 2 and 3</li><li>Game Assessments  – Sec 2 and 3</li><li>FITT Programme Plan – Sec 2</li><li>NAPFA Test – Sec 1 to 4</li></ul>
+	<p><h4>Enrichment</h4></p>
+			<ul><li>Swim Safer Course – Sec 1</li><li>Inter-class / Inter-House Games in Victorian Experience</li><li>Sports Education Modules (eg, Dance, Archery) in Victorian Experience</li></ul>
 	</div>
 	</li>
   </ul>
