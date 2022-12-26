@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development/Arts Education.md
       - Student Development/Character & Leadership Education.md
       - Student Development/Co curricular Activities.md
       - Student Development/Cyber Wellness.md
