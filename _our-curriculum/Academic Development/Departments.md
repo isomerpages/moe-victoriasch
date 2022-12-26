@@ -68,4 +68,13 @@ third_nav_title: Academic Development
 	<p><ul><li>science fair project</li><li>oral presentation</li><li>Project work</li><li>Written Tests</li><li>Performance based assignments</li><li>Science practical assessments</li></ul></p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">MTL</label>
+    <div>
+			<p><h3>Mother Tongue Languages</h3></p>
+			<img src="/images/mtldept.jpg">
+		<p><h4>Philosophy</h4></p>
+			<p>Bilingualism is a cornerstone of our education policy and the key objective of positioning Mother Tongue Languages as a means of staying culturally rooted remains relevant. However the developments in Singapore and around the world indicate that we need also to help our young acquire the proficiency and ability to communicate in MTL, develop an unique identity through a deeper appreciation of their culture, traditions, literature and history, and to make connections with other communities in Asia and beyond. Appropriate emphasis is needed to equip students with the skills to apply their MTL in real life settings and to use it for communication. With the ability to use a second language developed, the students will also possessed cross-cultural literacy which are regarded as necessary 21st Century competencies in a globalised world.</p>
+		<p><h4>Curriculum</h4></p>
   </ul>
