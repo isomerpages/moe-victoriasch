@@ -64,8 +64,8 @@ third_nav_title: Academic Development
 		<p><h4>Curriculum</h4></p>
 		<p>By the end of the course, a student should be able to:<br><ul><li>think critically in science-related research and technology and writings</li><li>possess deep understanding of scientific ideas</li><li>able to draw on scientific and research skills to tackle problems of a scientific nature which can positively impact on environment and community</li><li>able to communicate scientific ideas with ease and clarity</li><li>possesses scientific attitudes and habits of mind</li><li>produce imaginative and creative work arising from mathematical ideas.</li></ul></p>
 			<p><h4>Assessment</h4></p>
-			<p>The Mathematic Department employs the Mastery Learning approach through regular work assignments, ongoing assessment and lesson reinforcement comprising of:</p>
-	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul><br>All work assignments submission are closely monitored to encourage consistent work and revision and to allow teachers to monitor the students’ progress.</p>
+			<p>To ensure fidelity to the high expectations in terms of knowledge, skills and attitudes, various types of assessments are carried out:</p>
+	<p><ul><li>science fair project</li><li>oral presentation</li><li>Project work</li><li>Written Tests</li><li>Performance based assignments</li><li>Science practical assessments</li></ul></p>
     </div>
   </li>
   </ul>
