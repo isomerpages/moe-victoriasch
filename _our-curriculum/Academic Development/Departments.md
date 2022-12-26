@@ -33,7 +33,7 @@ third_nav_title: Academic Development
     <label for="accordion2">Mathematics</label>
     <div>
 			<p></p><h3>Mathematics</h3><p></p>
-			<img src="/images/eldept.jpg">
+			<img src="/images/mathdept.jpg">
 		<p></p><h4>Philosophy</h4><p></p>
 			<p>Mathematics is an excellent vehicle for the development and improvement of a person’s intellectual competency in logical reasoning, spatial visualisation, analysis and abstract thought. Students develop numeracy, reasoning, thinking skills, and problem solving skills through the learning and application of Mathematics. These are valued not only in Science and Technology, but also in everyday living and in the workplace. The development of a highly skilled scientifically and technologically based manpower requires a strong grounding in Mathematics. An emphasis on Mathematics education will ensure that we have an increasingly competitive workforce to meet the challenges of the 21st century.<br><br>Mathematics is also a subject of enjoyment and excitement, which offers students opportunities for creative work and moments of enlightenment and joy. When ideas are discovered and insights gained, students are spurred to pursue Mathematics beyond the classroom walls.</p>
 		<p></p><h4>Curriculum</h4><p></p>
