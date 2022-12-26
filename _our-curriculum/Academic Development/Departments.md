@@ -101,16 +101,18 @@ third_nav_title: Academic Development
 			<p>The core subject model adopted in the Aesthetics &amp; Design Department is Design-Thinking. However, various other subject models will also be employed in the teaching and learning. These include:</p><ol><li>Teaching for Understanding<br>(a) Collaborative Learning<br>(b) Problem Based Learning<br> (c) Socratic Questioning<br> (d) See, Think &amp; Wonder</li><li>Student-Centred and Independent Learning</li></ol><p></p>
 			<p></p><h4>Assessment Principles</h4><p></p>
 			<p></p><ol><li>Summative and Holistic. Eg. Courseworks, Examinations.</li><li>Continual. Eg. Project Based Assignments.</li><li>Informal Assessment. Eg. Peer Assessment, Teachers’ feedback, Industrial Partners’ feedback, Participants’ Survey.</li><li>Learning through reflections. Eg. Learning Journals and Interviews.</li></ol><p></p>
-	</div></li>
+	</div>
+	</li>
 	<li>
     <input id="accordion6" type="checkbox">
     <label for="accordion6">Humanities</label>
     <div>
-			<p></p><h3>Humanities</h3><p></p>
-			<img src="/images/humanities.jpg">
-		<p></p><h4>Philosophy</h4><p></p>
-			
+		<p></p><h3>Humanities</h3><p></p>
+		<img src="/images/humanities.jpg">
+		<p></p><h4>Philosophy</h4>
+		<p>In Victoria School, Humanities education is the study of the understanding and appreciation of the relevance of the humanities for personal growth and active participation in society. In this programme, we strive to enrich, develop and nurture each Victorian to be an ethical, capable and gracious citizen of society, who can live, play and work with others with an open and critically inquiring mind.</p>
 		<p></p><h4>Curriculum</h4><p></p>
-		<p>Knowledge</p><ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul><p></p>
-	</div></li>
+		<p>Knowledge</p><ul><li>Geography – deep understanding of physical and human environments – dynamism and change; place and characteristics; use of resources; sustainability</li><li>History – deep understanding of diverse approaches and purposes to different interpretations of history – patterns and trends; present and past; cause and effect; change and continuity</li><li>Social Studies – deep understanding of Singapore, its constraints, policies and challenges</li></ul></p>
+	</div>
+	</li>
   </ul>
