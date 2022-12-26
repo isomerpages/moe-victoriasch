@@ -23,6 +23,7 @@ third_nav_title: Student Development
 		<p><img src="/images/SEL.png" style="width:70%"></p>
 		<p>The CLE curriculum aims to develop our Victorians to have a good sense of self-awareness, a sound moral compass, and the necessary skills and knowledge to take on challenges of the future. He is responsible to his family, community and nation. He appreciates the beauty of the world around him, possesses a healthy mind and body, and has a zest for life.<br><br>In sum, he is:</p>
 		<ul><li>a <b>confident person</b> who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively.</li><li>a <b>self-directed learner</b> who questions, reflects, perseveres and takes responsibility for his own learning.</li><li>an <b>active contributor</b> who is able to work effectively in teams, is innovative, exercises initiative, takes calculated risks and strives for excellence.</li><li>a <b>concerned citizen</b> who is rooted to Singapore, has a strong sense of civic responsibility, is informed about Singapore and the world, and takes an active part in bettering the lives of others around him.</li></ul>
+		<p>Source: <a href="https://www.moe.gov.sg/education/education-system/21st-century-competencies">https://www.moe.gov.sg/education/education-system/21st-century-competencies</a>
     </div>
   </li>
   <li>
