@@ -40,7 +40,8 @@ third_nav_title: Academic Development
 		<p><h4>Curriculum</h4></p>
 		<p>By the end of the course, a student should be able to:<br><ul><li>acquire the necessary mathematical concepts and skills for everyday life, and for continuous learning in Mathematics and related disciplines.</li><li>develop the necessary process skills for the acquisition and application of mathematical concepts and skills.</li><li>develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems.</li><li>recognise and use connections among mathematical ideas, and between Mathematics and other disciplines.</li><li>make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of Mathematics.</li><li>produce imaginative and creative work arising from mathematical ideas.</li><li>develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.</li></ul></p>
 			<p><h4>Pedagogy</h4></p>
-			<p>The Mathematics Department aims to establish a high-quality Mathematics instructional programme based on a sound curriculum and pedagogy that creates thinking, IT competent and self-directed learners who appreciate interdisciplinary learning. The Department focuses on the design of engaging learning activities via the following approaches:</p>
+			<p>The Mathematics Department aims to establish a high-quality Mathematics instructional programme based on a sound curriculum and pedagogy that creates thinking, IT competent and self-directed learners who appreciate interdisciplinary learning. The Department focuses on the design of engaging learning activities via the following approaches:<ul><li>Teaching for Understanding framework</li><li>Collaborative Learning Strategies</li><li>Mathematical Modeling
+</li><li>Socratic Questioning</li></ul></p>
 			<p><h4>Assessment</h4></p>
 			<p>The Mathematic Department employs the Mastery Learning approach through regular work assignments, ongoing assessment and lesson reinforcement comprising of:</p>
 	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul><br>All work assignments submission are closely monitored to encourage consistent work and revision and to allow teachers to monitor the students’ progress.</p>
@@ -48,10 +49,19 @@ third_nav_title: Academic Development
   </li>
     <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Teachers in-charge and Schedule</label>
-    <div>
-      <p><a href="/our-people/staff/cca-teachers/"><b>Teachers-in-charge</b></a></p>
-      <p><a href="/cca-schedule/"><b>CCA Schedule</b></a></p>
+    <label for="accordion3">Science</label>
+<div>
+			<p><h3>Science</h3></p>
+			<img src="/images/sciences2.jpg">
+		<p><h4>Philosophy</h4></p>
+			<p>Students are taught for an appreciation of the big ideas in Science and then articulate to Biology, Chemistry and Physics with increasing complexity and elaboration. It is hoped that the curriculum allows the discipline to serve as a means for furthering intellectual growth of students, and facilitating them in becoming constructive agents of change for them community and beyond.</p>
+		<p><h4>Curriculum</h4></p>
+		<p>By the end of the course, a student should be able to:<br><ul><li>acquire the necessary mathematical concepts and skills for everyday life, and for continuous learning in Mathematics and related disciplines.</li><li>develop the necessary process skills for the acquisition and application of mathematical concepts and skills.</li><li>develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems.</li><li>recognise and use connections among mathematical ideas, and between Mathematics and other disciplines.</li><li>make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of Mathematics.</li><li>produce imaginative and creative work arising from mathematical ideas.</li><li>develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.</li></ul></p>
+			<p><h4>Pedagogy</h4></p>
+			<p>The Mathematics Department aims to establish a high-quality Mathematics instructional programme based on a sound curriculum and pedagogy that creates thinking, IT competent and self-directed learners who appreciate interdisciplinary learning. The Department focuses on the design of engaging learning activities via the following approaches:</p>
+			<p><h4>Assessment</h4></p>
+			<p>The Mathematic Department employs the Mastery Learning approach through regular work assignments, ongoing assessment and lesson reinforcement comprising of:</p>
+	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul><br>All work assignments submission are closely monitored to encourage consistent work and revision and to allow teachers to monitor the students’ progress.</p>
     </div>
-  </li> 
+  </li>
   </ul>
