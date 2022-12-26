@@ -43,7 +43,7 @@ third_nav_title: Academic Development
 			<p>The Mathematics Department aims to establish a high-quality Mathematics instructional programme based on a sound curriculum and pedagogy that creates thinking, IT competent and self-directed learners who appreciate interdisciplinary learning. The Department focuses on the design of engaging learning activities via the following approaches:</p>
 			<p><h4>Assessment</h4></p>
 			<p>The Mathematic Department employs the Mastery Learning approach through regular work assignments, ongoing assessment and lesson reinforcement comprising of:</p>
-	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul></p>
+	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul><br>All work assignments submission are closely monitored to encourage consistent work and revision and to allow teachers to monitor the students’ progress.</p>
     </div>
   </li>
     <li>
