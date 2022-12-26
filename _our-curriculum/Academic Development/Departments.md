@@ -133,4 +133,23 @@ third_nav_title: Academic Development
 	<ul><li><a href="http://victoriaschoolmun2.wixsite.com/vsmun2017">2017 VS Model United Nations Conference</a></li><li><a href="https://vsmun2016.wixsite.com/vsmuniii">2016 VS Model United Nations Conference</a></li><li><a href="https://victoriaschool.wix.com/vsmun">2015 VS Model United Nations Conference</a></li><li><a href="https://vsmun.co.nf/">2014 VS Model United Nations Conference</a></li></ul>
 	</div>
 	</li>
+	<li>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">Physical Edu</label>
+		<div>
+			<p></p><h3>Physical Education (PE)</h3><p></p>
+			<img src="/images/pedept.jpg">
+		<p></p><h4>Philosophy</h4><p></p>
+			<p>Physical Education is offered through 2 programmes. The broad-based PE programme is offered to all students from Sec 1 to Sec 4. A specialised programme, GCE “O” Level PE is offered to a select group of students at Sec 3 and 4 who demonstrate talent through the broad-based programme and CCA.<br><br>Physical Education plays an important in the overall development of the student. Through this subject, the student should be able to:</p>
+			<ul><li>Understand the importance and benefits of physical activity</li><li>Actively participate and enjoy a variety of physical activities</li><li>Demonstrate positive personal traits like sportsmanship, teamwork and fairplay</li><li>Attain a level of fitness to maintain an active lifestyle</li><li>Participate in physical activity in a safe manner</li></ul>
+			<p></p><h4>Curriculum</h4><p></p>
+			<p>The following topics are taught as a channel to attain the objectives of PE:</p>
+			<ul><li>PE Theory (Sec 1 and Sec 2)</li><li>Fitness Management</li><li>Athletics</li><li>Games</li></ul>
+			<p></p><h4>Pedagogy</h4><p></p>
+			<p>Key strategies used in physical education include:</p>
+			<ul><li>Instruction to the class as a whole group</li><li>Instruction and demonstration in small groups</li><li>Peer instruction (between students)</li><li>Drills in small groups</li><li>Small-sided games</li></ul>
+			<p><h4>Assessment</h4></p>
+			<ul><li>PE Theory  Written Test (MCQ, short answers) – Sec 1 and 2</li><li>Athletic Standards Tests – Sec 2 and 3</li><li>Game Assessments  – Sec 2 and 3</li><li>FITT Programme Plan – Sec 2</li><li>NAPFA Test – Sec 1 to 4</li></ul>
+	</div>
+	</li>
   </ul>
