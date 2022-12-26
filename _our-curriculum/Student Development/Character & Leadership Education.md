@@ -63,7 +63,7 @@ The Student Leadership Practices in VS is built upon Jim Kouzes and Barry Posner
 (Adopted from The Leadership Challenge Model by Jim Kouzes and Barry Posner)
 
 
-#### **Student Leaders’ Pledge**
+#### Student Leaders’ Pledge
 
 We hereby pledge as Leaders,
 
@@ -84,5 +84,3 @@ We live neither in the past nor in the future but in the moment.
 And our moment is Now.  
 Victoria, we are something more.  
 Victoria, thy sons are we.
-
-
