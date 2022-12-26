@@ -33,13 +33,19 @@ third_nav_title: Academic Development
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Mathematics</label>
     <div>
-      <p>Over the 3 ½ years in AV Club, students learn the use of the audio and visual equipment available in AV Club. More importantly for them is that they learn crucial life skills of which are not commonly found in everyday activities. They learn the importance of teamwork and coordination, trouble-shooting, decision-making and working toward a common goal in every opportunity. Besides being trained to remain steadfast in their roles and responsibilities during events, they learn the value of Ever-Readiness, our CCA motto which AV students are always ready to spring into action and show their initiative should the need arise, whether during morning assemblies, at dynamic events, and in everyday life.</p>
-			<p><h4>Assessment Plan / Assessment Framework</h4></p>
-			<p>Assessment plays a key role in differentiating the curriculum for the ‘O’ Level and IP programme. The IP curriculum has greater focus on developing higher order thinking which is seen in performance tasks where students have to apply their learning in challenging and authentic tasks. The ‘O’ Level curriculum is more focused on developing Linguistic and Oral competency and is more structured in its approach to develop thinking skills.<br><br>The assessment framework follows from the three dimensions of the ICM where each dimension is assessed using a basket of formative and summative assessment modes. The use of a variety of assessment modes will allow for better matching of performance tasks with outcomes.</p>
-	<p><b>Assessment modes include:</b><ul><li>Self, peer and teacher assessment</li><li>Portfolio (Oral and writing)</li><li>Journal reflection</li><li>Oral presentation</li><li>Observational checklist</li><li>Group projects</li><li>Test and examination</li></ul></p>
-			<img src="/images/av-2-1024x768.jpg">
+			<p><h3>Mathematics</h3></p>
+			<img src="/images/eldept.jpg">
+		<p><h4>Philosophy</h4></p>
+			<p>Mathematics is an excellent vehicle for the development and improvement of a person’s intellectual competency in logical reasoning, spatial visualisation, analysis and abstract thought. Students develop numeracy, reasoning, thinking skills, and problem solving skills through the learning and application of Mathematics. These are valued not only in Science and Technology, but also in everyday living and in the workplace. The development of a highly skilled scientifically and technologically based manpower requires a strong grounding in Mathematics. An emphasis on Mathematics education will ensure that we have an increasingly competitive workforce to meet the challenges of the 21st century.<br><br>Mathematics is also a subject of enjoyment and excitement, which offers students opportunities for creative work and moments of enlightenment and joy. When ideas are discovered and insights gained, students are spurred to pursue Mathematics beyond the classroom walls.</p>
+		<p><h4>Curriculum</h4></p>
+		<p>By the end of the course, a student should be able to:<br><ul><li>acquire the necessary mathematical concepts and skills for everyday life, and for continuous learning in Mathematics and related disciplines.</li><li>develop the necessary process skills for the acquisition and application of mathematical concepts and skills.</li><li>develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems.</li><li>recognise and use connections among mathematical ideas, and between Mathematics and other disciplines.</li><li>make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of Mathematics.</li><li>produce imaginative and creative work arising from mathematical ideas.</li><li>develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.</li></ul></p>
+			<p><h4>Pedagogy</h4></p>
+			<p>The Mathematics Department aims to establish a high-quality Mathematics instructional programme based on a sound curriculum and pedagogy that creates thinking, IT competent and self-directed learners who appreciate interdisciplinary learning. The Department focuses on the design of engaging learning activities via the following approaches:</p>
+			<p><h4>Assessment</h4></p>
+			<p>The Mathematic Department employs the Mastery Learning approach through regular work assignments, ongoing assessment and lesson reinforcement comprising of:</p>
+	<p><ul><li>Daily written assignments</li><li>topical worksheets (differentiated)</li><li>topical class tests/quizzes</li><li>Alternative Assessment</li></ul></p>
     </div>
-  </li> 
+  </li>
     <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Teachers in-charge and Schedule</label>
