@@ -86,4 +86,14 @@ third_nav_title: Academic Development
 			<p><h4>Syllabus Outline</h4></p>
 			<p>To address the Learner Outcomes listed earlier, 3 domains of core skills are listed in the syllabus. These 3 domains are namely, Integrated Linguistics Application, Humanistic Literacy and General Competencies.<br><br><b>Integrated Linguistic Application</b> underscores the importance of nurturing proficient users who are capable of learning MTL and using it to communicate effectively in real-life settings. The proficiency will be a vehicle for the more able students in IP to expand their learning into areas such as history and studies of a country or region to gain understanding and insight into the people’s mindset and relate to them in the future.<br><br><b>Humanistic Literacy</b> comprises of values, cultures, care for others and awareness of society and the world adds value by building on students’ cultural understanding. This raises the humanistic literacy of students in areas of cultural sensitivities and negotiating the complexities of a globalised world, aside from transmitting the traditional culture and values.<br><br><b>General Competencies</b> cover independent learning, ICT skills, thinking skills and social and emotional learning. These areas address the intangible and unsynchronised development of students’ general disposition, and are skills and disposition needed to face the challenges of the 21st century.</p>
 		</li>
+		<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Aesthetics</label>
+<div>
+			<p><h3>Aesthetics</h3></p>
+			<img src="/images/aesthetics.jpg">
+		<p><h4>Philosophy</h4></p>
+			<p>The Aesthetics & Design Department emphasizes on the development of Design-Thinking skills in students and encourages the use of design thinking processes in solving authentic situations through Art, Design and Technology (D&T), Food and Nutrition (F&N) and Music. The teaching and learning of Design-Thinking through this grouping of subjects involves research and the reasoned application of knowledge and skills in the respective elective subject areas and is focused on the needs, wants and desires of end users.</p>
+			<p><h4>Department Objectives</h4></p>
+			<p>The Aesthetics & Design Department aims to:<ul><li>develop design thinking and communication skills (Confident Communicator);</li><li>develop an appreciation of the aesthetics through art, design, food and nutrition, as well as music (Self-directed learner & Critical Thinker);</li><li>develop an awareness of art, design, nutrition and music in the contexts of society, culture and environment (Social Innovator); and</li><li>acquire knowledge and skills of the subject through the contexts of the authentic design-thinking projects (Social Innovator, Self-directed learner, Confident Communicator & Critical Thinker).</li></ul></p>
   </ul>
