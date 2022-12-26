@@ -15,3 +15,5 @@ The Victoria-Cedar Alliance is made up of three schools, Victoria School, Cedar 
 We warmly welcome you to embark on this exciting 6-year journey with us.
 
 <img src="/images/ehandbooktn-1.jpg" style="width:183px;height:150px;margin-left:15px;" align = "right">
+
+Click [here](https://victoria.moe.edu.sg/wp-content/uploads/2022/04/VCA-IP-E-Handbook-2022.pdf) - file exceeds 5MB to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.
