@@ -17,19 +17,19 @@ third_nav_title: Admission to VS
 
 **Victoria School: Dual-Track – O Level Programme and Victoria-Cedar Alliance Integrated Programme**
 
-3.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
-4.  As a dual-track school, students choose between our 4-year ‘O’ Level Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).  Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
+3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
+4\.  As a dual-track school, students choose between our 4-year ‘O’ Level Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).  Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
 
 **DSA-Sec to Victoria School: Domains and Criteria**
 
-5.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering & Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2023.
-6.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
+5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering & Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2023.
+6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
     a.  High intellectual potential and ability,
 		b.  High levels of motivation and commitment to excellence in academic and co-curricular areas (including but not limited to co-curricular activities and community involvement),
     c.  Leadership potential with the commitment to serve others,       
 		d.  A passion for life and learning, and   
     e.  Potential to contribute to the VS community.
-7.  Talented boys who are interested in VS are encouraged to apply for Direct School Admission through the following DSA domains:
+7\.  Talented boys who are interested in VS are encouraged to apply for Direct School Admission through the following DSA domains:
 
 
 
