@@ -28,7 +28,7 @@ For more information on our ‘O’ Level Programme and the VCA IP, please refer
 
 – Prospectus: Click [**here**](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/2020-VS-Prospectus.pdf) to download - file exceeds 5MB.  
 – Information on the Integrated Programme: Click [**here**](/our-curriculum/academic-development/integrated-programme/).  
-– Frequently Asked Questions: Click [**here**](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/FAQs.pdf) to download.  
+– Frequently Asked Questions: Click [**here**](/files/FAQs.pdf) to download.  
 – 95.8 FM Radio Interview on VCA-IP. Click [**here**](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/FM-958-VCA-Interview-23112011.mp3) - unable to upload MP3 file.
 
 Should you have any general queries, please contact the General Office at Tel: 6291 2965 during office hours.
