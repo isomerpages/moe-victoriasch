@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admission to VS/Returning Sporean and Int Students.md
       - Admission to VS/.keep
       - Financial Information & Assistance.md
