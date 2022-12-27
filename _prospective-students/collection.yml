@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admission to VS/Admission to Integrated Programme at Year 3.md
       - Admission to VS/Returning Sporean and Int Students.md
       - Admission to VS/.keep
       - Financial Information & Assistance.md
