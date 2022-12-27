@@ -54,11 +54,14 @@ Entry into the school
 
 Higher Mother Tongue Languages (HMTL) \[Click **[here](/files/18-2022-Sec-1-registration-MTL_updated-20122022.pdf)** for more details\]
 
-13.  All students in Year 1 (Integrated Programme) will be offered HMTL.
-14.  Secondary 1 (O Level Programme) students will be offered HMTL if they meet the criteria by MOE to take up HMTL. The offer letter will be emailed to you. If your decision is to accept the offer, no action is needed. If your decision is to reject the offer, please fill up the offer letter and return to your Form teacher by 6 Jan 2023.
-15.  For Secondary 1 (O Level Programme) students who do not meet the criteria, you will be offered standard MTL instead of HMTL. For students who wish to offer HMTL, please proceed to this link (**[https://go.gov.sg/vsappealhmtl](https://go.gov.sg/vsappealhmtl)**) to submit an appeal application by 5 Jan 2023. Placement tests will be conducted when school reopens for these applicants to determine their eligibility.
+13\.  All students in Year 1 (Integrated Programme) will be offered HMTL.
 
-Art Elective Programme (AEP) and Regional Studies Programme (RSP)
+14\.  Secondary 1 (O Level Programme) students will be offered HMTL if they meet the criteria by MOE to take up HMTL. The offer letter will be emailed to you. If your decision is to accept the offer, no action is needed. If your decision is to reject the offer, please fill up the offer letter and return to your Form teacher by 6 Jan 2023.
 
-16.  Students who wish to apply for AEP or RSP are to register their interest via this link ( **[https://go.gov.sg/vsaeprsp2022](https://go.gov.sg/vsaeprsp2022)**) by 28 Dec 2022, 5pm. As for RSP, interested students will attend an interview. The selection process for both AEP and RSP will be administered when school reopens. You will be informed on the application outcome about a week after the selection process.
-17.  Please refer to these documents for more information on:
+15\.  For Secondary 1 (O Level Programme) students who do not meet the criteria, you will be offered standard MTL instead of HMTL. For students who wish to offer HMTL, please proceed to this link (**[https://go.gov.sg/vsappealhmtl](https://go.gov.sg/vsappealhmtl)**) to submit an appeal application by 5 Jan 2023. Placement tests will be conducted when school reopens for these applicants to determine their eligibility.
+
+**Art Elective Programme (AEP) and Regional Studies Programme (RSP)**
+
+16\.  Students who wish to apply for AEP or RSP are to register their interest via this link ( **[https://go.gov.sg/vsaeprsp2022](https://go.gov.sg/vsaeprsp2022)**) by 28 Dec 2022, 5pm. As for RSP, interested students will attend an interview. The selection process for both AEP and RSP will be administered when school reopens. You will be informed on the application outcome about a week after the selection process.
+
+17\.  Please refer to these documents for more information on:
