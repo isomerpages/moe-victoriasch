@@ -76,13 +76,10 @@ third_nav_title: Admission to VS
 
 19\.  **Flowchart of activities.**The timeline and process for VS are shown below:
 
-![](/images/DSA-Flowchart-2022.jpg)
+[![](/images/DSA-Flowchart-2022.jpg)](https://www.moe.gov.sg/secondary/dsa)
 
-[![](https://victoria.moe.edu.sg/wp-content/uploads/2022/05/DSA-Flowchart-2022.jpg)](https://www.moe.gov.sg/secondary/dsa)
-
-20.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact**:**  
-    Tel – 6291 2965 (General Office)Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.
-    
-    Email - [victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg) (please indicate **“DSA Enquiries – Name of Applicant”** in the email subject field)
-    
-    Website - [victoria.moe.edu.sg](https://victoria.moe.edu.sg/)
+20\.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact:  
+* Tel – 6291 2965 (General Office)   
+* Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.   
+* Email - [victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg) (please indicate **“DSA Enquiries – Name of Applicant”** in the email subject field)   
+* Website - [https://staging.d35imuqofga1kr.amplifyapp.com/](https://staging.d35imuqofga1kr.amplifyapp.com/)
