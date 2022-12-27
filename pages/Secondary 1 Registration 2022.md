@@ -68,3 +68,19 @@ Higher Mother Tongue Languages (HMTL) \[Click **[here](/files/18-2022-Sec-1-reg
 *   [AEP slides](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/10a.-2022-AEP-slides.pdf) - file exceeds 5MB
 *   [AEP brochure](/files/10b-2022-AEP-Brochure.pdf)
 *   [RSP brochure](/files/11-2022-RSP-brochure.pdf)
+
+**Foreign Languages at MOE Language Centre (MOELC)- French, German, Japanese, Arabic, Spanish**
+
+18\.  If you have applied to study a foreign language, you will receive email notification. If you are successful, please register online (**[https://www.moelc.moe.edu.sg/](https://www.moelc.moe.edu.sg/)**) with MOE Language Centre from 22 Dec 2022 to 5 Jan 2023. Please note that if you do not register by the scheduled date, it will be assumed that you do not wish to accept the offer.
+
+19\.  Students applying for foreign language at MOELC are strongly encouraged to opt for Monday 3.30pm or later slot for their respective language classes to ensure that the timetable is able to accommodate the travelling time required to go to the MOELC.
+
+**Asian Languages**
+
+a\.  For **Chinese Special Programme (CSP),** please visit Changkat Changi Secondary School website ([**https://changkatchangisec.moe.edu.sg/**](https://changkatchangisec.moe.edu.sg/)) for details and register by the scheduled date. Those who miss to register by the scheduled date will be considered as not taking up the offer.
+
+b\.  For Malay Special Programme (MSP), please register online via (**[https://go.gov.sg/vs-msp](https://go.gov.sg/vs-msp)**) by 27 Dec 22.
+
+**2023** **Secondary/Year 1** **Orientation Programme**
+
+20.  To help you learn more about the school, our senior Victorians and teachers have planned an Orientation Programme for you. The key activities include:
