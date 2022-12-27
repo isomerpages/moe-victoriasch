@@ -120,5 +120,5 @@ b\.  For Malay Special Programme (MSP), please register online via (**[https://g
 
 **Frequently Asked Questions (FAQs)**
 
-Please click [here](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/14.-Sec-1-Registration-FAQs-_.pdf) for FAQs.  
-If you have further queries, please contact the school @ 6291 2965 or via email (Victoria\_sch@moe.edu.sg).
+Please click [here](/files/14-Sec-1-Registration-FAQs-_.pdf) for FAQs.  
+If you have further queries, please contact the school @ 6291 2965 or via email ([Victoria_sch@moe.edu.sg](mailto:Victoria_sch@moe.edu.sg)).
