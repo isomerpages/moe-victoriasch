@@ -104,19 +104,19 @@ b\.  For Malay Special Programme (MSP), please register online via (**[https://g
 <img src="/images/Sec-Year-1-2023-Booklist-QR-Code.png" 
      style="width:25%">
 		 
-24\.  Please refer to these booklist ([O-Level](/files/4a-VS-S1-O-Level-booklist-2023.pdf) / [IP](/files/4b-VS-S1-IP-booklist-2023.pdf) and [uniform](/files/4c-VS-Uniform.pdf) list.
+24\.  Please refer to these booklist ([O-Level](/files/4a-VS-S1-O-Level-booklist-2023.pdf) / [IP](/files/4b-VS-S1-IP-booklist-2023.pdf)) and [uniform](/files/4c-VS-Uniform.pdf) list.
 
 **Financial Assistance Scheme**
 
-25\.  For students who wish to apply for financial assistance, please refer to the attached brochures ( [MOE](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/8a.-MOE-FAS-pamplet.pdf) / [VS](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/FAS-brochure_Dec-2022.pdf) ) and email the completed [application form](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/8b.-MOE-FAS-Application-Form.pdf) to [**victoria\_sch@moe.edu.sg**](mailto:victoria_sch@moe.edu.sg) by **Tuesday, 27 Dec 2022**.
+25\.  For students who wish to apply for financial assistance, please refer to the attached brochures ( [MOE](/files/8a-MOE-FAS-pamplet.pdf) / [VS](/files/FAS-brochure_Dec-2022.pdf) ) and email the completed [application form](/files/8b-MOE-FAS-Application-Form-1.pdf) to [**victoria\_sch@moe.edu.sg**](mailto:victoria_sch@moe.edu.sg) by **Tuesday, 27 Dec 2022**.
 
 **Victoria School Parent Support Group (VSPSG)**
 
-26\.  The VSPSG has a strong partnership with the school and is run entirely by a group of passionate parent volunteers and funded from membership fees. The membership fee is a flat $40 (non-refundable). Parents are encouraged to join as a member via ([https://go.gov.sg/vs-psg-membership](https://go.gov.sg/vs-psg-membership)) and take part in the many activities. The first event for VSPSG members in 2023 will be a Coffee Talk session on "[Transiting Your Child into Victoria School](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/coffee-talk-poster-1.pdf)".  Parents can volunteer time and/or expertise to enrich the boys’ education at VS. You may want to purchase [VSPSG Tote Bags here](https://go.gov.sg/vs-psg-tote). Please refer to this [Welcome Letter](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/VSPSG-welcome-letter-1.pdf) and [slides for more information on VSPSG](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/19.-PSG-Self-Introduction.pdf).
+26\.  The VSPSG has a strong partnership with the school and is run entirely by a group of passionate parent volunteers and funded from membership fees. The membership fee is a flat $40 (non-refundable). Parents are encouraged to join as a member via ([https://go.gov.sg/vs-psg-membership](https://go.gov.sg/vs-psg-membership)) and take part in the many activities. The first event for VSPSG members in 2023 will be a Coffee Talk session on "[Transiting Your Child into Victoria School](/files/coffee-talk-poster-1.pdf)".  Parents can volunteer time and/or expertise to enrich the boys’ education at VS. You may want to purchase [VSPSG Tote Bags here](https://go.gov.sg/vs-psg-tote). Please refer to this [Welcome Letter](/files/VSPSG-welcome-letter-1.pdf) and [slides for more information on VSPSG](/files/19-PSG-Self-Introduction.pdf).
 
 **Application for Lockers**
 
-27\.  If you would like to have a locker in the school, please refer to this [file](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/15.-Locker-Application-Form.pdf).
+27\.  If you would like to have a locker in the school, please refer to this [file](/files/15-Locker-Application-Form.pdf).
 
 **Frequently Asked Questions (FAQs)**
 
