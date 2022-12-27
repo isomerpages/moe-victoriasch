@@ -2,4 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admission to VS/.keep
       - Financial Information & Assistance.md
