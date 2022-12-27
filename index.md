@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Secondary 1 Registration
           description: Important highlight A is important
-          url: https://google.com
+          url: /sec-1-registration-2022/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
