@@ -12,23 +12,27 @@ third_nav_title: Admission to VS
 
 **Direct School Admission – Secondary (DSA-Sec) Exercise**
 
-1.  The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
-2.  Primary 6 students have a choice of whether or not to participate in the DSA-Sec Exercise. If they choose not to participate in the DSA-Sec Exercise, they will continue to participate in the Secondary One Posting Exercise after the release of the PSLE results. For more information on the DSA-Sec Exercise, refer to: [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+1\.  The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+2\.  Primary 6 students have a choice of whether or not to participate in the DSA-Sec Exercise. If they choose not to participate in the DSA-Sec Exercise, they will continue to participate in the Secondary One Posting Exercise after the release of the PSLE results. For more information on the DSA-Sec Exercise, refer to: [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 **Victoria School: Dual-Track – O Level Programme and Victoria-Cedar Alliance Integrated Programme**
 
 3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
+
 4\.  As a dual-track school, students choose between our 4-year ‘O’ Level Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).  Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
 
 **DSA-Sec to Victoria School: Domains and Criteria**
 
 5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering & Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2023.
+
 6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
-    a.  High intellectual potential and ability,
-		b.  High levels of motivation and commitment to excellence in academic and co-curricular areas (including but not limited to co-curricular activities and community involvement),
+    a.  High intellectual potential and ability,      
+		b.  High levels of motivation and commitment to excellence in   academic and co-curricular areas (including but not limited to co-curricular activities and community involvement),      
     c.  Leadership potential with the commitment to serve others,       
 		d.  A passion for life and learning, and   
     e.  Potential to contribute to the VS community.
+	
 7\.  Talented boys who are interested in VS are encouraged to apply for Direct School Admission through the following DSA domains:
 
 
@@ -41,3 +45,44 @@ third_nav_title: Admission to VS
 \*Students admitted under DSA/Aesthetics for Art will be placed in the Art Elective Programme (AEP). Art forms covered in the AEP include 2D (2-dimensional), 3D (3-dimensional), media (eg. photography) and time-based (e.g. video) works such as drawing and painting for 2D, sculpting and ceramics for 3D, photography and computer art for media and video for time-based\]
 
 \# Students with gymnastics background may apply for Track & Field, as they will be considered strongly for the Pole Vault event.
+
+
+**Application Process**
+
+8\.  **Online application (5 May 2022, 11am to 1 June 2022, 3pm)** through the online DSA-Sec Portal. The application is free-of-charge and will be open from (5 May to 1 June).  For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).  Only one parent’s SingPass is needed to login to the portal. Find out [how to register for a SingPass](https://www.singpass.gov.sg/singpass/common/supportmain) if you don't have one - [https://www.singpass.gov.sg/singpass/common/supportmain](https://www.singpass.gov.sg/singpass/common/supportmain).  Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at: [_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application).     
+
+9\.  There is no need to submit any supporting documents during the online application stage. Your child's primary school records (for example, P5 and P6 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools. You may provide information for up to 10 non-school based activities and achievements which are related to your child's chosen talent areas.
+
+10\.  An applicant can indicate up to 3 choices. Each choice consists of a secondary school and a talent area offered by the secondary school.  Of the 3 choices, an applicant may use a maximum of 2 choices to apply to the same school, for two different talent areas of that school.
+
+11\.  As Victoria School is a dual track school, applicants are to indicate a preference for O Level or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
+
+12\.  You can update, withdraw and re-submit your application during the application period. Application closes on **1 June (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+13\.  **Sports trials, auditions, selection tests and interviews (July to August).** Sports trials, auditions, selection tests and interviews will be conducted for shortlisted applicants for DSA/Sports and DSA/Aesthetics in July to August.  Shortlisted applicants will be notified of the dates and timings.
+
+14\.  Interviews will be conducted for shortlisted DSA applicants during the sports trials, auditions and interviews. Shortlisted applicants will be informed if we need them to provide the following supporting documents:
+    h.  Certified true copies or documentary proof of non-school based activities and achievements.     
+    i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).      
+    j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
+		
+15\.  **Notification of outcome by school (by 12 September 2022).** Applicants will be notified of the outcomes by 12 September 2022.  The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
+
+16\.  **Exercise School Preference (by 4 Nov 2022,3pm – administered by MOE).** In October (date to be confirmed by MOE), all applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form by MOE through their primary schools. The form will include instructions on how to submit your child’s preferences.
+
+17\.  Fill out the School Preference Form with your child, listing a **maximum of 3 schools in order of preference**. Parents can submit their child’s school preference(s) either electronically via the DSA-Sec Internet System or physically at their child’s primary school. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
+
+18\.  Successful DSA-Sec applicant will receive their results on the school they are allocated to, via their primary schools, on the day they receive their PSLE results.
+
+19\.  **Flowchart of activities.**The timeline and process for VS are shown below:
+
+![](/images/DSA-Flowchart-2022.jpg)
+
+[![](https://victoria.moe.edu.sg/wp-content/uploads/2022/05/DSA-Flowchart-2022.jpg)](https://www.moe.gov.sg/secondary/dsa)
+
+20.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact**:**  
+    Tel – 6291 2965 (General Office)Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.
+    
+    Email - [victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg) (please indicate **“DSA Enquiries – Name of Applicant”** in the email subject field)
+    
+    Website - [victoria.moe.edu.sg](https://victoria.moe.edu.sg/)
