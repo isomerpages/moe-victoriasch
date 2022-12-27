@@ -82,7 +82,7 @@ third_nav_title: Admission to VS
 * Tel – 6291 2965 (General Office)   
 * Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.   
 * Email - [victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg) (please indicate **“DSA Enquiries – Name of Applicant”** in the email subject field)   
-* Website - [https://staging.d35imuqofga1kr.amplifyapp.com/](https://staging.d35imuqofga1kr.amplifyapp.com/)
+* Website - [https://staging.d35imuqofga1kr.amplifyapp.com/](https://staging.d35imuqofga1kr.amplifyapp.com/) - change link when website is launched
 
 **Frequently Asked Questions**   
 Refer to the list of [**FAQs here**](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=15904) - link not found.
