@@ -65,3 +65,6 @@ Higher Mother Tongue Languages (HMTL) \[Click **[here](/files/18-2022-Sec-1-reg
 16\.  Students who wish to apply for AEP or RSP are to register their interest via this link ( **[https://go.gov.sg/vsaeprsp2022](https://go.gov.sg/vsaeprsp2022)**) by 28 Dec 2022, 5pm. As for RSP, interested students will attend an interview. The selection process for both AEP and RSP will be administered when school reopens. You will be informed on the application outcome about a week after the selection process.
 
 17\.  Please refer to these documents for more information on:
+*   [AEP slides](https://victoria.moe.edu.sg/wp-content/uploads/2022/12/10a.-2022-AEP-slides.pdf) - file exceeds 5MB
+*   [AEP brochure](/files/10b-2022-AEP-Brochure.pdf)
+*   [RSP brochure](/files/11-2022-RSP-brochure.pdf)
