@@ -83,3 +83,35 @@ third_nav_title: Admission to VS
 * Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.   
 * Email - [victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg) (please indicate **“DSA Enquiries – Name of Applicant”** in the email subject field)   
 * Website - [https://staging.d35imuqofga1kr.amplifyapp.com/](https://staging.d35imuqofga1kr.amplifyapp.com/)
+
+**Frequently Asked Questions**   
+Refer to the list of [**FAQs here**](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=15904) - link not found.
+
+Information for Children not in Mainstream Primary School, including Returning Singaporeans and International Students:
+1)         Applicants who are currently not studying in MOE schools, including Returning Singaporeans (Citizens or PRs) and International Students, are required to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at: https://go.gov.sg/nmsdsa-sec-application before applying for DSA.
+
+2)         International Students are required to take part in the Admissions Exercise for International Student (AEIS) conducted by MOE. For more information on AEIS, please visit the AEIS website : https://www.moe.gov.sg/international-students/admission.
+
+Important Notes to all DSA applicants:
+1)         Students who have opted for a school under DSA-Sec Exercise must achieve PSLE results that would enable them to be eligible for admission to a course being offered by their opted DSA-Sec schools. MOE will release the PSLE & DSA results in November.
+
+2)         Students admitted to a school through DSA-Sec Exercise will not be allowed to participate in the Secondary One Posting Exercise as places have already been reserved for them in the DSA-Sec schools.
+
+3)         Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.
+
+4)         Successful DSA-Sec students admitted to VS via the 4-year DSA /Sports are expected to honour their commitment to the CCA when they are in VS.
+
+5)         Successful DSA-Sec students admitted to the VCA IP via the 6-year DSA/Sports and DSA /Aesthetics are expected to honour their commitment to the CCA during their four-year course of study in VS.
+
+Application to VS during the Secondary 1 Posting Exercise
+(for unsuccessful DSA applicants or students who did not take part in DSA)
+
+Applicants who are unsuccessful in the DSA Exercise or who did not take part in the DSA-Sec Exercise may still apply to the O Level Programme or Integrated Programme at VS using their PSLE results under MOE’s Secondary 1 Posting Exercise.
+
+There are different option codes for the ‘O’ level Programme and Integrated Programme at VS. Students should indicate if they are selecting the
+
+‘O’ level programme (3014) or
+Integrated Programme (9151).
+For example, a student may choose VS (Integrated Programme) as the first choice and VS (‘O’ Level Programme) as the second choice.  The PSLE cut-off achievement level scores for both tracks vary every year depending on the PSLE achievement level scores of the applicants in that year.
+
+Refer to https://www.moe.gov.sg/admissions/secondary-one-posting-exercise for more information.
