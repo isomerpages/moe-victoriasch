@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group/Vision And Mission.md
       - Parent Support Group/Latest Announcements.md
       - Parent Support Group/Home.md
       - Parent Support Group/Parent Support Group.md
