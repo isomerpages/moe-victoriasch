@@ -39,3 +39,26 @@ Entry into the school
 8\.  Please refer to the Map below for the traffic arrangements around the school:
 
 ![](/images/VS-Traffic-Map-Dec-2022-Updated-768x531.png)
+
+**Traffic Arrangements when School Re-opens**
+
+9\.  On days with **good weather**, parents’ vehicles will not be allowed to enter the school campus to drop off their son. This is to ensure safety of our students who are walking into the school. **Students who take their parents’ car to school** should alight at the drop-off bay just before Gate 1a at Siglap Link.  After being dropped off, Victorians should walk and enter the school via the pedestrian path alongside Gate 1a. Please refer to school website or facebook for latest update on traffic arrangements nearer to the school re-opening date.
+
+10\.  For **students who take bus to school**, they should enter the school via Side Gate A or Side Gate B, The additional gate next to Side Gate A will be open to ease human traffic during morning school hours (Mon, Tue, Wed & Fri - 6:30am to 7:35am; Thu - 7:30am to 8:35am).  This gate will be manned by a school staff to ensure school security when it is open.
+
+11\.  On **wet weather** days, parents’ cars may enter via Gate 1a. Parents should drop their sons at the school foyer, and exit via Gate 2. Please follow the traffic directional signs and drive slowly within the school compound.
+
+**Deemed Consent for Use of Photographs or Video Images**
+
+12\.  Photographs or video images of students may be taken during school activities and events. The school may use and publish such photographs, or video recordings in school publications, the school’s website, social media channels or other communication channels.  Please email to the school ([**victoria\_sch@moe.edu.sg**](mailto:victoria_sch@moe.edu.sg)) if you do not give consent.
+
+Higher Mother Tongue Languages (HMTL) \[Click **[here](/files/18-2022-Sec-1-registration-MTL_updated-20122022.pdf)** for more details\]
+
+13.  All students in Year 1 (Integrated Programme) will be offered HMTL.
+14.  Secondary 1 (O Level Programme) students will be offered HMTL if they meet the criteria by MOE to take up HMTL. The offer letter will be emailed to you. If your decision is to accept the offer, no action is needed. If your decision is to reject the offer, please fill up the offer letter and return to your Form teacher by 6 Jan 2023.
+15.  For Secondary 1 (O Level Programme) students who do not meet the criteria, you will be offered standard MTL instead of HMTL. For students who wish to offer HMTL, please proceed to this link (**[https://go.gov.sg/vsappealhmtl](https://go.gov.sg/vsappealhmtl)**) to submit an appeal application by 5 Jan 2023. Placement tests will be conducted when school reopens for these applicants to determine their eligibility.
+
+Art Elective Programme (AEP) and Regional Studies Programme (RSP)
+
+16.  Students who wish to apply for AEP or RSP are to register their interest via this link ( **[https://go.gov.sg/vsaeprsp2022](https://go.gov.sg/vsaeprsp2022)**) by 28 Dec 2022, 5pm. As for RSP, interested students will attend an interview. The selection process for both AEP and RSP will be administered when school reopens. You will be informed on the application outcome about a week after the selection process.
+17.  Please refer to these documents for more information on:
