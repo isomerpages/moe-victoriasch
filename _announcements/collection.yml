@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - "2016/East Zone AStar Science Festival: Bronze.md"
       - "2016/NCC Sea Bends & Hitches Competition: 2nd.md"
       - 2016/140th Anniversary Gala Dinner – Former Teachers of VS Invitation.md
       - 2016/VS 140th (VS140) Anniversary Celebration.md
