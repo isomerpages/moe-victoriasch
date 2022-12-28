@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/Sec 1 Registration on Thursday, 22 December 2016.md
       - 2016/Appeal for Primary 6 students for Admission to 2017 Secondary 1.md
       - 2016/YDSP Science & Technology Camp.md
       - 2016/9th National Patrol Camp – Scouts – Gold Award.md
