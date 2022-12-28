@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/National Public Speaking Competition 2016.md
       - "2016/Nanyang Polytechnic (NYP) Science & Technology Challenge: Overall
         Double Champions.md"
       - 2016/Bull’s Eye Competition.md
