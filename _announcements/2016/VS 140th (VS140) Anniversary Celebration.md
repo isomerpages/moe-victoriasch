@@ -43,6 +43,6 @@ Please refer to the following links to download the forms:
 
 7\.    We sincerely hope that you will respond favourably to our donation appeal by filling in the attached reply form and returning it together with your donation. Donations can be made via cheque or cash. For donations in cheque, please write it in favour of Victoria School.
 
-8\.    For further enquiries, you may contact Mr Adrian Teo (Year Head/Lower Sec) at 62912965 Ext 213 or teo\_tick\_gay@moe.edu.sg.
+8\.    For further enquiries, you may contact Mr Adrian Teo (Year Head/Lower Sec) at 62912965 Ext 213 or [teo\_tick\_gay@moe.edu.sg](mailto:teo\_tick\_gay@moe.edu.sg).
 
 Nil Sine Labore. Viva Victoria!
