@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/9th National Patrol Camp – Scouts – Gold Award.md
       - 2016/Victoria School – School Distinction Award.md
       - 2016/Victoria School Open House & Integrated Programme Symposium 2016.md
       - 2016/Admission to Year 3 Integrated Programme.md
