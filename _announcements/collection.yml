@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/Bull’s Eye Competition.md
       - 2016/Victoria School 140th Anniversary Gala Dinner Letter.md
       - 2016/VS140 Dinner – Alumni Montage.md
       - 2016/.keep
