@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - "2016/NPCC Inter Unit Annual 22 Shooting Competition 2016: 5th.md"
       - 2016/.keep
