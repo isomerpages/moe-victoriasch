@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - "2016/Nanyang Polytechnic (NYP) Science & Technology Challenge: Overall
+        Double Champions.md"
       - 2016/Bull’s Eye Competition.md
       - 2016/Victoria School 140th Anniversary Gala Dinner Letter.md
       - 2016/VS140 Dinner – Alumni Montage.md
