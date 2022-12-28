@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - "2016/C Division National Inter School Cricket Championships: 3rd.md"
       - "2016/C Division National Inter School Volleyball Championships: 2nd.md"
       - 2016/NCC (Sea) National Canoe Slalom Championships – 3 Golds and 1
         Silver.md
