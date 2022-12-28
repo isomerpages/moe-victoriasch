@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/Singapore Mathematics Project Festival (Senior Section) & Singapore
+        Mathematical Olympiad.md
       - "2016/National Schools Group Storytelling Competition: 2nd.md"
       - "2016/East Zone AStar Science Festival: Bronze.md"
       - "2016/NCC Sea Bends & Hitches Competition: 2nd.md"
