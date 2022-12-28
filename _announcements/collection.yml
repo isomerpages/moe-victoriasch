@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - "2016/C Division East Zone Inter School Volleyball Championships: 2nd.md"
       - 2016/Hair for Hope 2016 – Make a Bald Statement (15 July 2016 @ VS
         Auditorium).md
       - "2016/NPCC Inter Unit Annual 22 Shooting Competition 2016: 5th.md"
