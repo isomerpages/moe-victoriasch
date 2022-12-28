@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/NCC (Sea) National Canoe Slalom Championships – 3 Golds and 1
+        Silver.md
       - 2016/Chief Commissioner’s Award – Scouts.md
       - 2016/National Malay Boggle (Pintar Kata) Competition.md
       - "2016/C Division East Zone Inter School Volleyball Championships: 2nd.md"
