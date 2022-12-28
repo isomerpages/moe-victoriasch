@@ -2,9 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - 2016/English Masters 2016.md
+      - 2016/.keep
       - 2016/Singapore Mathematics Project Festival (Senior Section) & Singapore
         Mathematical Olympiad.md
+      - 2016/English Masters 2016.md
       - "2016/National Schools Group Storytelling Competition: 2nd.md"
       - "2016/East Zone AStar Science Festival: Bronze.md"
       - "2016/NCC Sea Bends & Hitches Competition: 2nd.md"
@@ -20,4 +21,3 @@ collections:
       - 2016/Hair for Hope 2016 – Make a Bald Statement (15 July 2016 @ VS
         Auditorium).md
       - "2016/NPCC Inter Unit Annual 22 Shooting Competition 2016: 5th.md"
-      - 2016/.keep
