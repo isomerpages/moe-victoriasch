@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Secondary 1 Registration
-          description: Important highlight A is important
+          description: Click here for more
           url: /sec-1-registration-2022/
         - title: Highlight B
           description: Important highlight B is equally important
@@ -21,10 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: Latest Announcements
+      button: Read More
 ---
