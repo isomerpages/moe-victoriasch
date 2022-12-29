@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+# **Singapore Mathematical Olympiad – Silver Award**
+
+For the 2018 Singapore Mathematical Olympiad, a total of 55 Victorians received the individual Gold, Silver, Bronze and Honourable Mention awards. In recognition of the good performance, Victoria School was awarded the School Silver Award by the Singapore Mathematical Society. Nil Sine Labore.
