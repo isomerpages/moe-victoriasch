@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+# **Secondary 1 Registration 2022**
+
+Please visit this [link](/sec-1-registration-2022) for more information.
