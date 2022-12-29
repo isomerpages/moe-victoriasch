@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/SUTD Electric Vehicle Design Challenge 2017 – 1st.md
       - 2017/Red Cross First Aid Competition.md
       - 2017/East Zone Badminton Championship.md
       - 2017/Red Cross Excellent Unit Competition Gold – 10th consecutive year.md
