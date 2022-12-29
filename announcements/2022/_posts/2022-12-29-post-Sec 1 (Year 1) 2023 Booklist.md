@@ -10,6 +10,6 @@ image: ""
 
 **Instructions For Purchase of Textbooks, Stationery, Uniforms & PE Attires**
 
-Please refer to these booklist ([O-Level](https://staging.d35imuqofga1kr.amplifyapp.com/files/4a-VS-S1-O-Level-booklist-2023.pdf) / [IP](https://staging.d35imuqofga1kr.amplifyapp.com/files/4b-VS-S1-IP-booklist-2023.pdf)) and [uniform](https://staging.d35imuqofga1kr.amplifyapp.com/files/4c-VS-Uniform.pdf) list.
+Please refer to these booklist ([O-Level](/files/4a-VS-S1-O-Level-booklist-2023.pdf) / [IP](/files/4b-VS-S1-IP-booklist-2023.pdf)) and [uniform](/files/4c-VS-Uniform.pdf) list.
 
 [![](/images/Instructions-2023SY1-Booklist.png)](https://www.picktime.com/popularschool)
