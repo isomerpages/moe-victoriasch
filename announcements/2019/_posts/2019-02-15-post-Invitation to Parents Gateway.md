@@ -33,7 +33,8 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 3\.  Download and install the app onto your phone.   
 4\.  Enable ‘**Allow Notifications’** to receive push notifications.
 
-![](/images/pg1.png)
+<img src="/images/pg1.png" 
+     style="width:40%">
 
 **Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or later**
 
@@ -41,22 +42,27 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 1\. Tap on “Log in with SingPass”
 
-![](/images/pg2.png)
+<img src="/images/pg2.png" 
+     style="width:40%">
 
 2\. Log in with your SingPass (2FA)
 
-![](/images/pg3.png)
+<img src="/images/pg3.png" 
+     style="width:40%">
 
 3\. Tap on “Retrieve” to retrieve your child(ren)’s information
 
-![](/images/pg4.png)
+<img src="/images/pg4.png" 
+     style="width:40%">
 
 4\. Tap on "Done" to complete on-boarding
 
-![](/images/pg5.png)
+<img src="/images/pg5.png" 
+     style="width:40%">
 
 5\. You should see your child(ren)'s school announcements and acitivits (if any)
 
-![](/images/pg6-1.png)
+<img src="/images/pg6-1.png" 
+     style="width:40%">
 
 ### [Click here to watch the Parents Gateway Onboarding video.](https://www.youtube.com/watch?v=tW9jwyuovOo&feature=youtu.be)
