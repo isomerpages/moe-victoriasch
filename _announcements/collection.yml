@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/Collection of 2016 O Level Certificates and School Graduation
+        Folders.md
       - 2017/Singapore Quality Class (SQC) and the People Developer Standard
         (PDS) Award.md
       - 2017/SUTD Electric Vehicle Design Challenge 2017 – 1st.md
