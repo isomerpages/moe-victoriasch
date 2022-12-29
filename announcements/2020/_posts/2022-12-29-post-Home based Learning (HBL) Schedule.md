@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+# **Home-based Learning (HBL) Schedule**
+
+Home-based Learning (HBL) schedule for each class has been sent to parents on 7 April 2020 via Parents Gateway and to students via email and SLS announcement.
