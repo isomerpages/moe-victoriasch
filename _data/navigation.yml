@@ -10,5 +10,5 @@ links:
     collection: our-community
   - title: Prospective Students
     collection: prospective-students
-  - title: Announcements
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us
