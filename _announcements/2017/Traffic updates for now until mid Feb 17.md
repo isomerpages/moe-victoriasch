@@ -17,3 +17,5 @@ In **wet weather** (when it is raining), parents’ cars should **enter** v
 For parents who drive, please drive slowly and follow the directions from our traffic marshals.  
 
 Thank you.
+
+![](/images/Traffic-Updates-Map.jpg)
