@@ -6,3 +6,22 @@ layout: post
 description: ""
 image: ""
 ---
+# **Victoria School (VS) Open House 2017 on Saturday, 27 May 2017**
+
+![](/images/Open-House-2017.jpg)
+
+**Welcome to VS Open House**  
+Established in 1876, Victoria School is known for the focus on character and leadership.  We nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
+
+At our Open House, immerse yourself in the Victorian Experience and discover how our broad-based and holistic Victorian Education develops every Victorian to his full potential.  Walk around our campus with our student guides, explore the engaging and unique programmes, and chat with our dedicated teachers to find out more about what we do.
+
+**When is it?**  
+Saturday, 27 May 2017, 8.00am – 1.00pm
+
+(Note: Victoria School will have only one Open House in 2017.)
+
+**Where will it be held?**  
+Victoria School, 2 Siglap Link, Singapore 448880
+
+**Getting to Victoria School**   
+Due to MRT construction and other road works, visitors are strongly encouraged to use the public transport. Please see map (below) for public transport information.
