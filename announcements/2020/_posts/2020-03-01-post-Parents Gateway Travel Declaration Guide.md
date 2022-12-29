@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Parents Gateway Travel Declaration Guide
+# **Parents Gateway Travel Declaration Guide**
 
 Dear Parents/Guardians,
 
