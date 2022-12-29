@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/NPCC Annual Parade.md
       - "2017/Boys’ Brigade: J M Fraser Gold Award (19th Gold Award).md"
       - 2017/We are C Division National 2nd and B Division National 4th for
         Cross Country!.md
