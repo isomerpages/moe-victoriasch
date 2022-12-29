@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+# **VS Sea and Land at Fitness Challenge 2017 (Top 3)**
+
+![](/images/NCC-Sea-1.jpg)
+Congratulations to our NCC (Land) and NCC (Sea) Units!
