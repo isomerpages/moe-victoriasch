@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/Side Gate B Access from Monday 27 February 17.md
       - 2017/B Div East Zone Volleyball Championship – 4th.md
       - 2017/Double Champion! B and C Div East Zone Table Tennis Championships.md
       - 2017/Gryphon Youth Outreach Programme Award Ceremony.md
