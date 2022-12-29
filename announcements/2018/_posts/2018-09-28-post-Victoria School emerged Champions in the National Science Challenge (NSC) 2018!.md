@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+# **Victoria School emerged Champions in the National Science Challenge (NSC) 2018!**
+
+![](/images/nsc.jpg)
