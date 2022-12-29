@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - 2016/91st Cadet Inspector Basic Training Course (CIBTC) Investiture
+        Ceremony.md
       - 2016/13th Boys Brigade Pipes & Drums Festival.md
       - 2016/Choir Music & Cross Cultural Exchange Trip to Hong Kong.md
       - 2016/Sec 1 Registration on Thursday, 22 December 2016.md
