@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-# **VS NPCC is National 4th in the Inter-Unit .22 Revolver Shooting Competition 2017!**
+# **VS NPCC is National 4th in the Inter-Unit 22 Revolver Shooting Competition 2017!**
 
 ![](/images/NPCC-2.jpg)
 
