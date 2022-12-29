@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/Level 1 Submit CCA On Line Application.md
       - 2017/An excellent performance by our Class of 2016!.md
       - 2017/NPCC Unit Overall Proficiency Award (UOPA) Gold – 17th consecutive
         year.md
