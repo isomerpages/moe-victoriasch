@@ -8,4 +8,4 @@ image: ""
 ---
 # **VS146 Speech Day e-Booklet**
 
-Please click [](/files/VS-146-Speech-Day-e-Booklet.pdf) to view/download the VS146 Speech Day e-Booklet.
+Please click [here](/files/VS-146-Speech-Day-e-Booklet.pdf) to view/download the VS146 Speech Day e-Booklet.
