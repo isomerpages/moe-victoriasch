@@ -25,3 +25,20 @@ Victoria School, 2 Siglap Link, Singapore 448880
 
 **Getting to Victoria School**   
 Due to MRT construction and other road works, visitors are strongly encouraged to use the public transport. Please see map (below) for public transport information.
+
+![](/images/School-Map.jpg)
+
+**What about parking?**  
+There are limited car park lots in the school. Parking will be on a first-come-first-serve basis. If the car park is full, visitors will be directed to park at the public car parks near the school.
+
+(\*The nearby public car parks are at Car Park E1 in front of East Coast Seafood Centre, and the car park along Upper East Coast Road which is next to Shell Station. These car parks are about 10 minutes’ walk from Victoria School.)
+
+**What are the highlights of the Open House programme?**
+
+![](/images/Open-House-Programme.png)
+
+**What do our parents of Victorians have to say about VS?**   
+Find out more by chatting with members of the **VS Parent Support Group (VSPSG)** at the foyer.
+
+**What if I have queries?**   
+Meet up with our key personnel in the foyer and they will clarify your doubts.
