@@ -30,3 +30,5 @@ image: ""
 *   On rainy days, **parents’ cars** should enter via Gate 1. Parents should drop their sons at the school foyer, and exit via Gate 2.  Please follow the traffic directional signs and drive slowly within the school compound.
 
 *   For **students who take bus to school**, they should enter the school via Side Gate A or Side Gate B.
+
+![](/images/ATT06633-1.jpg)
