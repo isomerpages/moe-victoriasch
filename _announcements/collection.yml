@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/SPF NPCC Badge Presentation Ceremony.md
       - 2017/C Div East Zone Football Championships – 4th.md
       - 2017/Red Cross Youth’s World Red Cross Day Celebrations.md
       - 2017/NPCC Annual Parade.md
