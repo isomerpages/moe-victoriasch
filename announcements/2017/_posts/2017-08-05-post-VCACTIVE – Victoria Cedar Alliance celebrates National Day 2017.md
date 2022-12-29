@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+# **VCACTIVE – Victoria-Cedar Alliance celebrates National Day 2017**
+
+![](/images/IMG-20170804-WA0000.jpg)
