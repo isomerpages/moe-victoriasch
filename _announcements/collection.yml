@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/East Zone Badminton Championship.md
       - 2017/Red Cross Excellent Unit Competition Gold – 10th consecutive year.md
       - 2017/Side Gate B Access from Monday 27 February 17.md
       - 2017/B Div East Zone Volleyball Championship – 4th.md
