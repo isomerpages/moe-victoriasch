@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+# **President’s Award for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) 2023**
+
+Do you know of an outstanding teacher? Show your appreciation by nominating him/her for the President's Award for Teachers (PAT) or Outstanding Youth in Education Award (OYEA) 2023!
+
+![](/images/pat2023-01.jpg)
+
+![](/images/oyea2023-poster.png)
