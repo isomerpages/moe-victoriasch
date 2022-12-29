@@ -45,8 +45,18 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 2\. Log in with your SingPass (2FA)
 
+![](/images/pg3.png)
+
 3\. Tap on “Retrieve” to retrieve your child(ren)’s information
+
+![](/images/pg4.png)
 
 4\. Tap on "Done" to complete on-boarding
 
+![](/images/pg5.png)
+
 5\. You should see your child(ren)'s school announcements and acitivits (if any)
+
+![](/images/pg6-1.png)
+
+### [Click here to watch the Parents Gateway Onboarding video.](https://www.youtube.com/watch?v=tW9jwyuovOo&feature=youtu.be)
