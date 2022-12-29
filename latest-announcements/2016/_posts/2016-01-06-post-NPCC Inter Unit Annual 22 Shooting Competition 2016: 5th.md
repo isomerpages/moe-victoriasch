@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+# **NPCC Inter-Unit Annual 22 Shooting Competition 2016 – 5th**
+
+![](/images/NPCC-Shooting.jpg)
+
+Our VSNPCC Shooting Team 2 has achieved National 5th in the Inter-Unit Annual .22 Shooting Competition 2016. Congratulations, Victorians!
+
+Nil Sine Labore.
