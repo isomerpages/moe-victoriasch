@@ -28,7 +28,7 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 **Step 2 – Download Parents Gateway Mobile App**
 
-1.  Open the Apple App Store or Google Play Store app on your mobile phone.
-2.  Search for the ‘Parents Gateway’ mobile app.
-3.  Download and install the app onto your phone.
-4.  Enable ‘**Allow Notifications’** to receive push notifications.
+1\.  Open the Apple App Store or Google Play Store app on your mobile phone.   
+2\.  Search for the ‘Parents Gateway’ mobile app.   
+3\.  Download and install the app onto your phone.   
+4\.  Enable ‘**Allow Notifications’** to receive push notifications.   
