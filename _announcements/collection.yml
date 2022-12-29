@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - 2017/10th National Chinese Culture and General Knowledge Quiz – Team 2nd
+        and 3rd.md
       - 2017/VS sailors Achievements.md
       - 2017/Boys’ Brigade – Best Seniors’ Programme Company.md
       - 2017/SPF NPCC Badge Presentation Ceremony.md
