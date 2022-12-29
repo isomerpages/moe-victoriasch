@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+# **Our NCC (Sea) are champions of the 2017 Sea Challenge!**
+
+
+![](/images/NCC-Sea.jpg)
+
+Our NCC (Sea) are champions of the 2017 Sea Challenge.
+
+Congratulations, Victorians! Nil Sine Labore.
