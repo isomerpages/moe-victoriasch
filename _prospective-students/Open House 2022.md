@@ -30,8 +30,6 @@ insert anchor markdown
 
 <h3><b>Prospectus / Sharing</b></h3>
 
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -51,7 +49,7 @@ insert anchor markdown
     <input type="checkbox" id="accordion3">
     <label for="accordion3">IP HANDBOOK</label>
     <div>
-     <p>Click here to view he IP Handbook. - file exceeds 5MB</p>
+     <p>Click here to view the IP Handbook. - file exceeds 5MB</p>
     </div>
   </li>
 </ul>
@@ -148,22 +146,46 @@ insert anchor markdown
   </li>
 </ul>
 
+<h3><b>Highlights</b></h3>
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">PRINCIPAL'S SHARING</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">PROSPECTUS</label>
+    <div>
+      <p>(insert content)</p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">IP HANDBOOK</label>
+    <div>
+     <p>Click here to view the IP Handbook. - file exceeds 5MB</p>
+    </div>
+  </li>
+</ul>
 
 
 <h3><b>Victoria Junior College / OVA</b></h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15">Contact Details of Victoria Junior College</label>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">Contact Details of Victoria Junior College</label>
     <div>
       <p><img src="/images/VJC-Logo.gif" style="width:300px;height:300px;margin-left:15px;" align = "right"></p>
 			<p>Website: <a href="https://victoriajc.moe.edu.sg/">https://victoriajc.moe.edu.sg/</a><br>Facebook: <a href="https://www.facebook.com/livelikeavictorian/">https://www.facebook.com/livelikeavictorian/</a><br> Instragram: <a href="https://www.instagram.com/victoriajc_official/">	https://www.instagram.com/victoriajc_official/</a></p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16">Contact Details of Old Victorians' Associations</label>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">Contact Details of Old Victorians' Associations</label>
     <div>
       <p><img src="/images/OVA-Logo.png" style="width:200px;height:200px;margin-left:15px;" align = "right"></p>
 			<p>Facebook: <a href="https://www.facebook.com/oldvictoriansassociation/
@@ -181,8 +203,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion17">
-    <label for="accordion17">About Victoria-Cedar Alliance Integrated Programme (VCA IP)</label>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">About Victoria-Cedar Alliance Integrated Programme (VCA IP)</label>
     <div>
       <ol><li><b>What are the unique features of the VCA IP? How is it different from the IP offered in other schools?</b></li><p>The VCA IP draws on the outstanding academic track records of VS and Cedar Girls’ Secondary School (CGSS) and builds on the very successful Victoria Integrated Programme (VIP) in VJC which was launched since 2005. It will be a programme that stretches students’ potential, demands their full participation and develops their individual voice and identity.<br><br>Besides the core curriculum, a signature programme of the VCA is the Imagineering Programme, which aims to inspire students to become social innovators with the passion, attributes and ability to imagine and engineer innovative solutions to social problems. Other key programmes include the Helmsman programme for character development and life skills; the Beyond Borders programme for overseas exposure; and the Electives, consisting of a wide range of subject interests which students can choose from to further develop their creativity, communication and thinking skills which are all important 21st century competencies.<br><br>In the co-curricular arena, students in VS and CGSS will experience the ethos and privilege of an all-boys and an all-girls education respectively and at the same time, they will also participate in joint programmes to broaden their social outlook. In addition, the students will enjoy the full range of co-curricular activities such as sports, performing arts, uniformed groups and experience the schools’ leadership development programme.</p>
 				<li><b>For VS, how is the IP curriculum different from the ‘O’ Level curriculum?</b></li><p>The vision of VS is to nurture every Victorian as a Gentleman, a Professional and a Sportsman. To grow the potential of each and every student towards this vision, the total curriculum in VS will comprise 5 main domains, that is, character, cognitive, community, aesthetics and physical. Each student develops and matures in his exposure through carefully planned programmes in each domain.<br><br>Adolescence is both an exciting yet uncertain time of discovery, exploration and growth. While we are keenly aware that each student is different and develops at his own unique pace, ultimately, our purpose is to create the best array of options to secure each student’s future. To this end, the IP and the ‘O’ Level curriculum in VS will each serve to deliver a holistic educational experience that will provide the maximal exposure and post-secondary options for our students, in a manner best suited for their pace of learning and developmental needs.<br><br>The IP curriculum in VS will be tailored for students who are clearly JC-bound. The curriculum puts emphasis on applying intellectual abilities to engage and solve societal issues, both present and future, through the Imagineering, Helmsman, Beyond Borders and Elective Programmes. The ‘O’ Level curriculum in VS on the other hand seeks to further raise the overall potential of students who, although having demonstrated significantly above average results at PSLE, would benefit from a structured environment that not only puts focus on knowledge acquisition and developing deep understanding, but also balances the time in academic learning with co-curricular activities. In other words, learning in the IP curriculum has greater flexibility and less defined boundaries between disciplines and programmes, while learning in the ‘O’ Level curriculum has greater structure and teacher facilitation.</p>
@@ -196,8 +218,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion18">
-    <label for="accordion18">Admission through Direct School Admission (DSA) Exercise</label>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21">Admission through Direct School Admission (DSA) Exercise</label>
     <div>
 			<ol>
 				<li><b>Can I apply for admission to VS through more than one DSA domain?</b></li><p>You may use a maximum of two choices to apply to the same school, for two different talent areas of the school. We encourage students to apply for the DSA domain they are strong in, with evidence of participation and achievement in the talent area.</p>
@@ -217,8 +239,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion19">
-    <label for="accordion20">Admission through MOE Central Posting System (Joint-Admission Exercise, JAE)</label>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22">Admission through MOE Central Posting System (Joint-Admission Exercise, JAE)</label>
     <div>
 			<ol>
 				<li><b>How do I apply to Victoria School?</b></li><p>When making your choice for Secondary Schools with your PSLE results, there is a separate school code of each programme in Victoria School. You can choose:<br><br>- School code: 9151 for Victoria School – Integrated Programme<br><br>- School code: 3014 for Victoria School – ‘O’ Level Programme</p>
@@ -230,8 +252,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion21">
-    <label for="accordion21">Academic Talent Development Programmes</label>
+    <input type="checkbox" id="accordion23">
+    <label for="accordion23">Academic Talent Development Programmes</label>
     <div>
 			<ol>
       <li><b>General</b></li><p>Academic Talent Development Programme may begin as early as Secondary 1.</p>
@@ -243,8 +265,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion22">
-    <label for="accordion22">Academic Development</label>
+    <input type="checkbox" id="accordion24">
+    <label for="accordion24">Academic Development</label>
     <div>
       <ol>
 				<li><b>Mathematics</b></li><p>Victorians are generally geared towards Math and have continually shown a strong aptitude for it. Thus, in terms of subject combinations, both Additional and Elementary Mathematics are offered to all Express students at Secondary 3. For the Integrated Programme (IP), Integrated Mathematics (a customised, integrative approach to Math learning) is offered to all IP students at Year 3.</p>
@@ -254,8 +276,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion23">
-    <label for="accordion23">Co-Curricular Activities</label>
+    <input type="checkbox" id="accordion25">
+    <label for="accordion25">Co-Curricular Activities</label>
     <div>
       <ol>
 				<li><b>Are non-school-based Co-curricular Activities (CCA) recognized?</b></li><p>Every secondary school student must have a school-based CCA, unless they are involved in the Singapore National Youth Orchestra (SNYO) or the Singapore Youth Chinese Orchestra (SYCO). Our Victorians benefit from the progressive development of their skills, knowledge, leadership, character and 21CC through the school-based CCAs. School-based CCAs also serve as a social integration platform to bring Victorians together, allowing them to engender a sense of belonging to the school.<br><br>Victorians may continue to participate in external activities, but not in lieu of their school-based CCAs. These external activities will be mainly interest-driven and will not be recognised as their school-based CCA. However, they can be considered for school representation in the National School Games (NSG) if the sport is one of those in the NSG calendar but is not offered by the school as a CCA (usually for individual sports like Bowling, Golf, Taekwondo).<br><br>In view of an expanded secondary school curriculum (academic, CCA, enrichment and possibly 3rd language lessons, talent development and leadership training), Sec 1 students with external activities are advised to consider their external commitments carefully so that they are able to strike a balance and cope better in their first year.</p>
