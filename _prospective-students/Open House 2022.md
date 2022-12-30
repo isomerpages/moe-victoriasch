@@ -46,11 +46,21 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Admission through Direct School Admission (DSA) Exercise</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+			<ol>
+				<li><b>Can I apply for admission to VS through more than one DSA domain?</b></li><p>You may use a maximum of two choices to apply to the same school, for two different talent areas of the school. We encourage students to apply for the DSA domain they are strong in, with evidence of participation and achievement in the talent area.</p>
+				<li><b>Would the school assign a DSA applicant to either the O Level or IP track if he is not certain which track he is more suitable for during the DSA exercise?</b></li><p>The DSA selection panel will decide on the suitability of the applicants for O Level or IP track.</p>
+				<li><b>Can you please explain the stages of the DSA selection process?</b></li><p>The DSA selection process may be broadly grouped into the following stages:<br><br>i. Students will be shortlisted for a DSA interview based on their performance and records in the academics and DSA talent areas with their primary schools and/or outside involvements. The school does not look for records of specific achievements with specific organizations or events.<br><br>ii. At the DSA interview, students may be asked to comment on various aspects and perform tasks (trials or auditions) related to the talent area.<br><br>iii. The interview panel may then hold a discussion to decide and finalize the confirmed offer to successful DSA applicants before they are notified by the school. All this may take the duration of a month or more.</p>
+        <li><b>My son is strong in more than one talent area, e.g. Sports (football), Mathematics and exemplary in character. How would he be assessed? Would the school offer him the DSA vacancy of another talent area if the quota for the one he applied under is filled?</b></li><p>The school will shortlist based on the DSA domains applicants applied for.</p>
+				<li><b>If I am successful in my application for the Integrated Programme but my PSLE score does not meet VS cut-off for admission to school’s Integrated Programme under MOE central posting system, will I be transferred to the ‘O’ Level Programme instead?</b></li><p>Your place in the Integrated Programme is confirmed as long as (i) you have been offered a place in Integrated Programme under the DSA scheme, (ii) you have accepted the offer, and (iii) you meet the PSLE cut-off for a place in the Express course.</p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
     </div>
   </li>
   <li>
