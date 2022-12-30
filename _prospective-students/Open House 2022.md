@@ -48,62 +48,58 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 ### The VS Experience
 
-##### **Voice of Victorians**
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-##### **Sec 1 Orientation Camp**
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-##### **Victoria Challenge**
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-##### **The Victorian Anthem**
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DsPZoxXya5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-##### **VS145 Celebratory Video**
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-##### **Campus Tour**
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-##### **CCA Experiences**
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Voice of Victorians</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Sec 1 Orientation Camp</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Victoria Challenge</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">The Victorian Anthem</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DsPZoxXya5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">VS145 Celebratory Video</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Campus Tour</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">CCA Experiences</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+</ul>
 
 
 
