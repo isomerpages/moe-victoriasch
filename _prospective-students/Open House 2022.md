@@ -189,9 +189,9 @@ insert anchor markdown
 	</li>  
   <li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16">PROSPECTUS</label>
+    <label for="accordion16">Student Leadership Highlights</label>
     <div>
-      <p>(insert content)</p>
+      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><img src="/images/Prefectorial-Board-284x300-1.png" alt="Image" width="100" height="100"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Monitors-Council-284x300-1.png" alt="Image" width="100" height="100"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Peer-Leader-284x300-1.png" alt="Image" width="100" height="100"></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Senior-Leadership-Board-284x300-1.png" alt="Image" width="100" height="100"></td></tr></thead></table></p>
     </div>
   </li>
 	  <li>
