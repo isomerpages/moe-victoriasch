@@ -104,7 +104,14 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 
 
-### FAQ
+<h3>Performing Arts Showcase</h3>
+
+
+
+
+
+
+<h3>FAQ</h3>
 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
 
