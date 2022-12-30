@@ -28,6 +28,18 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 insert anchor markdown
 
 
+### Prospectus / Sharing
+
+##### **PRINCIPAL'S SHARING**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
 ### FAQ
 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
