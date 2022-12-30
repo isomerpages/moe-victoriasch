@@ -135,12 +135,6 @@ Click here to view he IP Handbook. - file exceeds 5MB
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">VS145 Celebratory Video</label>
-    <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-    </div>
-  </li>
 </ul>
 
 
