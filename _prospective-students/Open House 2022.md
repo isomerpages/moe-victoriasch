@@ -75,8 +75,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
 				<li><b>What are the respective Cut-off Points (COP) for VCA IP and VS O Level?</b></li><p>The COP for VCA IP and VS O Level are respectively around 252 (AL 5-8) and 248 (AL 6-9).</p>
 				<li><b>I am posted to the Victoria School – ‘O’ Level Programme as it was my first choice. But my PSLE score is higher than the Victoria School – Integrated Programme cut-off. Can I be transferred to the Integrated Programme?</b></li><p>You may appeal for a transfer to Victoria School’s Integrated Programme.</p>
 				<li><b>If I am not posted to Victoria School, how else can I apply for admission to VS?</b></li><p>If you are not successful in your posting to VS, you may appeal to be considered for transfer to VS on the Integrated Programme or the ‘O’ Level Programme. Students appealing for admission to VS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COPs). The PSLE cut-off scores for both the Integrated Programme and the ‘O’ Level Programme vary every year depending on the PSLE T-scores of the applicants in that year.<br><br>Some applicants may be placed on the waiting list. Places may be available if students posted to VS choose to be transferred to other schools. Students on the waitlists will be selected based on academic results, sporting talents and interviews.</p>
-    </div>
 			</ol>
+    </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion4">
