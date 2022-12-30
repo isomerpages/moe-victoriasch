@@ -28,22 +28,34 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 insert anchor markdown
 
 
-### Prospectus / Sharing
-
-##### **PRINCIPAL'S SHARING**
+<h3><b>Prospectus / Sharing</b></h3>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PRINCIPAL'S SHARING</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">PROSPECTUS</label>
+    <div>
+      <p>(insert content)</p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">IP HANDBOOK</label>
+    <div>
+     <p>Click here to view he IP Handbook. - file exceeds 5MB</p>
+    </div>
+  </li>
+</ul>
 
-##### **PROSPECTUS**
-
-(insert content)
-
-
-##### **IP HANDBOOK**
-
-Click here to view he IP Handbook. - file exceeds 5MB
 
 
 <h3><b>The VS Experience</b></h3>
@@ -134,7 +146,6 @@ Click here to view he IP Handbook. - file exceeds 5MB
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Zx5dfB9V28A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
-  <li>
 </ul>
 
 <h3><b>FAQ</b></h3>
