@@ -199,6 +199,7 @@ insert anchor markdown
     <label for="accordion17">CCA Highlights</label>
     <div>
      <p>
+			 <b>Gentleman</b>
 			<ul>
 				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
 				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
@@ -209,10 +210,26 @@ insert anchor markdown
 				<li><a href="https://www.instagram.com/officialvsav">Audi Visual Club</a></li>
 				<li><a href="https://www.instagram.com/vsifc/">Infocomm Club</a></li>
 				<li><a href="https://www.instagram.com/vsphotogclub">Photograghy Club</a></li>
-				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
-				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
-				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
-				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<b>Professional</b>
+				<li><a href="https://www.instagram.com/officialvsarrowscouts">Scouts</a></li>
+				<li><a href="https://www.instagram.com/bb2ndcoysg">Boys Brigade</a></li>
+				<li><a href="https://www.instagram.com/vs_npcc">NPCC</a></li>
+				<li><a href="https://www.facebook.com/vssea/">NCC Sea</a></li>
+				<li><a href="https://www.instagram.com/officialvsredcross/">Red Cross</a></li>
+				<b>Sportsman</b>
+				<li><a href="https://youtu.be/cL6Bf2MUDYU">Badminton</a></li>
+				<li><a href="https://www.instagram.com/victoria_School_cricket">Cricket</a></li>
+				<li><a href="https://www.instagram.com/vs.crosscountry">Cross Country</a></li>
+				<li><a href="https://www.instagram.com/official.vsfloorball/">Floorball</a></li>
+				<li><a href="https://youtu.be/VEvcR9d9Q7E">Football</a></li>
+				<li><a href="https://www.youtube.com/watch?v=xEAX2i7xnLI">Hockey</a></li>
+				<li><a href="https://www.youtube.com/watch?v=wZvVNaiPVLg">Sailing</a></li>
+				<li><a href="https://www.instagram.com/vs.shooting.club/">Shooting</a></li>
+				<li><a href="https://youtu.be/Dl26cbtHyTc">Table Tennis</a></li>
+				<li><a href="https://www.instagram.com/victoriaschool.tennis/">Tennis</a></li>
+				<li><a href="https://youtu.be/MOpgoZUOqJk">Track & Field</a></li>
+				<li><a href="https://www.instagram.com/victoriaschool_volleyball/">Volleyball</a></li>
+				<li><a href="https://www.instagram.com/vswushu/">Wushu</a></li>
 			</ul>
 			</p>
     </div>
