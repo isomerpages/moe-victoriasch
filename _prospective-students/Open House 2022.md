@@ -175,15 +175,15 @@ insert anchor markdown
 				<li><b>Art Elective Programme</b></li>
 				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/69O1zpTtmB4?start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Regional Studies Programme</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oqLaAfvvN6U?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Aesthetics Education Programme</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/zAV25ReFMxc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Innovation Programme</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RjThey7-n2M?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>IP Cultural Immersion Trip</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oooOiaTtNVo?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>ICT@VS</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gaPsQviX-sw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 			</ul>
     </div>
 	</li>  
