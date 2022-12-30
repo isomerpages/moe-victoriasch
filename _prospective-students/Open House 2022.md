@@ -103,11 +103,11 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
   </li>
 		<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Multi-line Folded</label>
+    <label for="accordion7">Co-Curricular Activities</label>
     <div>
       <ol>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
+				<li><b>Are non-school-based Co-curricular Activities (CCA) recognized?</b></li><p>Every secondary school student must have a school-based CCA, unless they are involved in the Singapore National Youth Orchestra (SNYO) or the Singapore Youth Chinese Orchestra (SYCO). Our Victorians benefit from the progressive development of their skills, knowledge, leadership, character and 21CC through the school-based CCAs. School-based CCAs also serve as a social integration platform to bring Victorians together, allowing them to engender a sense of belonging to the school.<br><br>Victorians may continue to participate in external activities, but not in lieu of their school-based CCAs. These external activities will be mainly interest-driven and will not be recognised as their school-based CCA. However, they can be considered for school representation in the National School Games (NSG) if the sport is one of those in the NSG calendar but is not offered by the school as a CCA (usually for individual sports like Bowling, Golf, Taekwondo).<br><br>In view of an expanded secondary school curriculum (academic, CCA, enrichment and possibly 3rd language lessons, talent development and leadership training), Sec 1 students with external activities are advised to consider their external commitments carefully so that they are able to strike a balance and cope better in their first year.</p>
+				<li><b>Can a non-DSA students change CCA in his 4 years in VS?</b></li><p>We encourage students to develop themselves in the same CCA for 4 years as doing so will allow them to benefit from continuous and long-term progress of their knowledge, skills, attitudes and the 21CC. It is also advantageous for them to do so as they will be able to achieve a higher attainment level in the Participation domain in LEAPS 2.0.<br><br>However, students are allowed to change their CCAs with valid reasons (medical, CCA closure or school transfer). Change of CCA should take place at the beginning of a student’s Sec 2 or Sec 3 year. When a valid medical reason is presented the change of CCA can take place any time during the school year.<br><br>Students in Uniformed Group CCAs are not permitted to change their CCAs during the secondary school years, unless on valid medical grounds and supported by medical documents.</p>
 				<li><b></b></li><p></p>
 			</ol>
     </div>
