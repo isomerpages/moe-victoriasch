@@ -79,13 +79,13 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
   </li>
 	<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Multi-line Folded</label>
+    <label for="accordion4">Academic Talent Development Programmes</label>
     <div>
 			<ol>
-      <li><b></b></li><p></p>
-			<li><b></b></li><p></p>
-			<li><b></b></li><p></p>
-			<li><b></b></li><p></p>
+      <li><b>General</b></li><p>Academic Talent Development Programme may begin as early as Secondary 1.</p>
+			<li><b>Mathematics</b></li><p>Keen to uncover your aptitude in Math? Or perhaps delve into mathematical solutioning to solve real-life problems? Have a go at our Math Talent Development Programme that exposes you to the Singapore Mathematical Olympiad experiences. You will also be involved in a Mathematics Research Programme where your projects may be submitted for the Singapore Mathematics Project Festival each year. If you’ve participated in your primary school Mathematics Olympiad and related competitions or are generally interested to build up your acumen in this subject, our teachers will get to know more about you and your interests and how you can be mentored to embark on your learning journey.</p>
+			<li><b>The Sciences</b></li><p>For our young budding Scientists, you can look forward to challenging projects and experiments that cut across the diverse science disciplines and concepts, geared towards authentic problem-solving in real world contexts. Students are selected based on their aptitude and interests, with recommendation from their teachers through various activities conducted in the school’s Science curriculum. These could include coding for drones and robotics, among other current technologies.</p>
+			<li><b>Art Elective Programme (AEP)</b></li><p>Interested students may apply for the AEP via the DSA. They may also apply to be enrolled into Victoria School and then apply to be in the AEP. There is a total of about 20 AEP vacancies per year for both O Level track and IP track combined. Interested students may indicate their preference for the O Level or IP track. The school will decide which track a successful applicant would be assigned to.<br><br>To qualify for AEP, a student must be passionate about and has a strong aptitude for Art. He will be evaluated to find out if he is able to:<br> - recognise and differentiate fine details in visuals (art) and sound (music)<br>- use art tools and materials,competently to create art<br>- analyse, talk about and present ideas about Art/Music works fluently<br> - able to engage in and persist in Art/Music activities over longer periods of time.</p>
 			<li><b></b></li><p></p>
 			</ol>
     </div>
