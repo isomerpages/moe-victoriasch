@@ -202,9 +202,6 @@ insert anchor markdown
     </div>
   </li>
 </ul>
-
-
-
 <br>
 <br>
 <h3><b>Victoria Junior College / OVA</b></h3>
