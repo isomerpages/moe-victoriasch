@@ -165,13 +165,13 @@ insert anchor markdown
 				<li><b>Math</b></li>
 				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/lY8Dh5hVGuY?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>The Sciences</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/aPORfoAiHxM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>The Humanities</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/TQFod4makb4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Aesthetics & Design</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/sRTm478BtU8?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Physical Education</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/weuMW4DtKtM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Art Elective Programme</b></li>
 				<p>yt link</p>
 				<li><b>Regional Studies Programme</b></li>
