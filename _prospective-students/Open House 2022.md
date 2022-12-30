@@ -62,7 +62,15 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ##### **Victoria Challenge**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ##### **The Victorian Anthem**
 ##### **VS145 Celebratory Video**
