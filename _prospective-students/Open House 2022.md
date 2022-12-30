@@ -173,7 +173,7 @@ insert anchor markdown
 				<li><b>Physical Education</b></li>
 				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/weuMW4DtKtM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Art Elective Programme</b></li>
-				<p>yt link</p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/69O1zpTtmB4?start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 				<li><b>Regional Studies Programme</b></li>
 				<p>yt link</p>
 				<li><b>Aesthetics Education Programme</b></li>
