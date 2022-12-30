@@ -9,4 +9,8 @@ description: ""
 
 ### Welcome
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wsEiDEYRKgg" align = "right" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsEiDEYRKgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
+
+Meet our principal, Mr Chow who prepared this short welcome video that will bring you directly to the heart of education in VS.
