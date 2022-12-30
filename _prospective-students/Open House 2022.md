@@ -62,50 +62,50 @@ insert anchor markdown
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Voice of Victorians</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Voice of Victorians</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Sec 1 Orientation Camp</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Sec 1 Orientation Camp</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Victoria Challenge</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Victoria Challenge</label>
     <div>
      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">The Victorian Anthem</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">The Victorian Anthem</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DsPZoxXya5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">VS145 Celebratory Video</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">VS145 Celebratory Video</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Campus Tour</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Campus Tour</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">CCA Experiences</label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">CCA Experiences</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
@@ -119,29 +119,29 @@ insert anchor markdown
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Band</label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Band</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/65Pr8CC2zZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Chinese Orchestra</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Chinese Orchestra</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/IAxoqPIjhaI?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Choir</label>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">Choir</label>
     <div>
      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/TOS1XwvuCeE?start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Drama Society</label>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">Drama Society</label>
     <div>
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Zx5dfB9V28A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
@@ -154,16 +154,16 @@ insert anchor markdown
 <h3><b>Victoria Junior College / OVA</b></h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Contact Details of Victoria Junior College</label>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">Contact Details of Victoria Junior College</label>
     <div>
       <p><img src="/images/VJC-Logo.gif" style="width:300px;height:300px;margin-left:15px;" align = "right"></p>
 			<p>Website: <a href="https://victoriajc.moe.edu.sg/">https://victoriajc.moe.edu.sg/</a><br>Facebook: <a href="https://www.facebook.com/livelikeavictorian/">https://www.facebook.com/livelikeavictorian/</a><br> Instragram: <a href="https://www.instagram.com/victoriajc_official/">	https://www.instagram.com/victoriajc_official/</a></p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Contact Details of Old Victorians' Associations</label>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">Contact Details of Old Victorians' Associations</label>
     <div>
       <p><img src="/images/OVA-Logo.png" style="width:200px;height:200px;margin-left:15px;" align = "right"></p>
 			<p>Facebook: <a href="https://www.facebook.com/oldvictoriansassociation/
