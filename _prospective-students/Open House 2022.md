@@ -3,6 +3,23 @@ title: Open House 2022
 permalink: /prospective-students/openhouse-2022/
 description: ""
 ---
+![](/images/Concert-Band-Button-284x300-1%20(1).png)
+![](/images/CO-284x300-1.png)
+![](/images/Choir-284x300-1.png)
+![](/images/Chess-Club-2021-1.png)
+![](/images/VS-Debate-2021.png)
+![](/images/Drama-Society-284x300-1.png)
+![](/images/AV-Club-284x300-1.png)
+![](/images/Infocomm-Club-2021.png)
+![](/images/Photography-Club-284x300-1.png)
+
+
+
+
+
+
+
+
 # **Open House 2022**
 
 ![](/images/2022-eOH-microsite-head-banner-wwww.jpg)
@@ -196,7 +213,7 @@ insert anchor markdown
   </li>
 	  <li>
     <input type="checkbox" id="accordion17">
-    <label for="accordion17">IP HANDBOOK</label>
+    <label for="accordion17">CCA Highlights</label>
     <div>
      <p>Click here to view the IP Handbook. - file exceeds 5MB</p>
     </div>
