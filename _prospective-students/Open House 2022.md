@@ -77,19 +77,9 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
 				<li><b>If I am not posted to Victoria School, how else can I apply for admission to VS?</b></li><p>If you are not successful in your posting to VS, you may appeal to be considered for transfer to VS on the Integrated Programme or the ‘O’ Level Programme. Students appealing for admission to VS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COPs). The PSLE cut-off scores for both the Integrated Programme and the ‘O’ Level Programme vary every year depending on the PSLE T-scores of the applicants in that year.<br><br>Some applicants may be placed on the waiting list. Places may be available if students posted to VS choose to be transferred to other schools. Students on the waitlists will be selected based on academic results, sporting talents and interviews.</p>
     </div>
   </li>
-  <li>
+	<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Multi-line Folded</label>
     <div>
 			<ol>
       <li><b></b></li><p></p>
@@ -101,8 +91,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Multi-line Folded</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Multi-line Folded</label>
     <div>
       <ol>
 				<li><b></b></li><p></p>
@@ -112,8 +102,8 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">Multi-line Folded</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Multi-line Folded</label>
     <div>
       <ol>
 				<li><b></b></li><p></p>
