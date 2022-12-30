@@ -69,10 +69,12 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Admission through MOE Central Posting System (Joint-Admission Exercise, JAE)</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+			<ol>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
     </div>
   </li>
   <li>
@@ -89,20 +91,35 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Multi-line Folded</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+			<ol>
+      <li><b></b></li><p></p>
+			<li><b></b></li><p></p>
+			<li><b></b></li><p></p>
+			<li><b></b></li><p></p>
+			<li><b></b></li><p></p>
+			</ol>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Multi-line Folded</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <ol>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+			</ol>
+    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Multi-line Folded</label>
+    <div>
+      <ol>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+				<li><b></b></li><p></p>
+			</ol>
     </div>
   </li>
 	</ul>
