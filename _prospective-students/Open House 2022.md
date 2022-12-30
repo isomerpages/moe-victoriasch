@@ -83,8 +83,30 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 
 ##### **VS145 Celebratory Video**
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 ##### **Campus Tour**
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 ##### **CCA Experiences**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ### FAQ
 
