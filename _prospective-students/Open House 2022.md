@@ -46,8 +46,7 @@ insert anchor markdown
 Click here to view he IP Handbook. - file exceeds 5MB
 
 
-### The VS Experience
-
+<h3><b>The VS Experience</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -104,14 +103,50 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 
 
-<h3>Performing Arts Showcase</h3>
+<h3><b>Performing Arts Showcase</b></h3>
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Band</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/65Pr8CC2zZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Chinese Orchestra</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/IAxoqPIjhaI?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Choir</label>
+    <div>
+     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/TOS1XwvuCeE?start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Drama Society</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Zx5dfB9V28A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">VS145 Celebratory Video</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+  </li>
+</ul>
 
 
 
 
-
-
-<h3>FAQ</h3>
+<h3><b>FAQ</b></h3>
 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
 
