@@ -163,15 +163,18 @@ insert anchor markdown
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Chinese Orchestra</label>
+    <label for="accordion2">Contact Details of Old Victorians' Associations</label>
     <div>
-      <p></p>
+      <p><img src="/images/OVA-Logo.png" style="width:200px;height:200px;margin-left:15px;" align = "right"></p>
+			<p>Facebook: <a href="https://www.facebook.com/oldvictoriansassociation/
+">https://www.facebook.com/oldvictoriansassociation/</a></p>
     </div>
   </li>
 </ul>
 
 
-
+<br>
+<br>
 <h3><b>FAQ</b></h3>
 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
