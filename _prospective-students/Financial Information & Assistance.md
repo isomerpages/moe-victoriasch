@@ -56,3 +56,39 @@ The scholarship recognises our Victorians with strong CCA achievements at an ind
 The GPS Bursary, with a value of S$500 each, is an initiative by Victoria School and the Old Victorians’ Association to support our Victorians in achieving their goals. The criteria for application is based on gross household income, background, personal circumstances and exemplary academic, leadership and CCA records.
 
 The application form can be obtained from the school General Office or downloaded [here](/files/GPS-Bursary-Application-Form.pdf). Successful applicants will be informed of the outcome by end-November.
+
+
+
+
+
+![](/images/Concert-Band-Button-284x300-1%20(1).png)
+![](/images/CO-284x300-1.png)
+![](/images/Choir-284x300-1.png)
+![](/images/Chess-Club-2021-1.png)
+![](/images/VS-Debate-2021.png)
+![](/images/Drama-Society-284x300-1.png)
+![](/images/AV-Club-284x300-1.png)
+![](/images/Infocomm-Club-2021.png)
+![](/images/Photography-Club-284x300-1.png)
+
+
+![](/images/Arrow-Scouts-284x300-1.png)
+![](/images/BB-284x300-1.png)
+![](/images/NPCC-300x300-1.png)
+![](/images/NCC-Land-2020-284x300-1.png)
+![](/images/NCC-Sea-1-284x300-1.png)
+![](/images/Red-Cross-2021.png)
+
+
+![](/images/Badminton-1-284x300-1.png)
+![](/images/Cricket-284x300-1.png)
+![](/images/Cross-Country-284x300-1.png)
+![](/images/Football-1-284x300-1.png)
+![](/images/Hockey-1-284x300-1.png)
+![](/images/Sailing-1-284x300-1.png)
+![](/images/Shooting-2021.png)
+![](/images/Table-Tennis-1-284x300-1.png)
+![](/images/Tennis-2021.png)
+![](/images/Track-_-Field-1-284x300-1.png)
+![](/images/Volleyball-2021.png)
+![](/images/Wushu-2021.png)
