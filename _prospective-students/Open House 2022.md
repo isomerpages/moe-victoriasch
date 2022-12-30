@@ -157,8 +157,8 @@ insert anchor markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Contact Details of Victoria Junior College</label>
     <div>
-      <p><img src="/images/VJC-Logo.gif" style="width:200px;height:200px;margin-left:15px;" align = "right"></p>
-			<p>Website: <a href="https://victoriajc.moe.edu.sg/">https://victoriajc.moe.edu.sg/</a><br>Facebook: <a href="https://www.facebook.com/livelikeavictorian/">https://www.facebook.com/livelikeavictorian/</a></p>
+      <p><img src="/images/VJC-Logo.gif" style="width:300px;height:300px;margin-left:15px;" align = "right"></p>
+			<p>Website: <a href="https://victoriajc.moe.edu.sg/">https://victoriajc.moe.edu.sg/</a><br>Facebook: <a href="https://www.facebook.com/livelikeavictorian/">https://www.facebook.com/livelikeavictorian/</a><br> Instragram: <a href="https://www.instagram.com/victoriajc_official/">	https://www.instagram.com/victoriajc_official/</a></p>
     </div>
 	</li>  
   <li>
