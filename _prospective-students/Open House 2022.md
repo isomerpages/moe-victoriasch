@@ -199,7 +199,20 @@ insert anchor markdown
     <label for="accordion17">CCA Highlights</label>
     <div>
      <p>
-			<ul><li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+			<ul>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<li><a href="https://www.instagram.com/officialvsco_">Chinese Orchestra</a></li>
+				<li><a href="https://www.instagram.com/victoriaschoolchoir">Choir</a></li>
+				<li><a href="https://www.youtube.com/watch?v=6U-wh41U4oM">Chess Club</a></li>
+				<li><a href="https://www.instagram.com/vsdrama/">Drama Society</a></li>
+				<li><a href="https://www.instagram.com/officialvsav">Audi Visual Club</a></li>
+				<li><a href="https://www.instagram.com/vsifc/">Infocomm Club</a></li>
+				<li><a href="https://www.instagram.com/vsphotogclub">Photograghy Club</a></li>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
+				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
 			</ul>
 			</p>
     </div>
