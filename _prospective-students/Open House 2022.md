@@ -137,9 +137,6 @@ Click here to view he IP Handbook. - file exceeds 5MB
   <li>
 </ul>
 
-
-
-
 <h3><b>FAQ</b></h3>
 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
