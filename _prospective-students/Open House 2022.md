@@ -70,7 +70,7 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     <label for="accordion3">Admission through MOE Central Posting System (Joint-Admission Exercise, JAE)</label>
     <div>
 			<ol>
-				<li><b></b></li><p></p>
+				<li><b>How do I apply to Victoria School?</b></li><p>When making your choice for Secondary Schools with your PSLE results, there is a separate school code of each programme in Victoria School. You can choose:<br><br>- School code: 9151 for Victoria School – Integrated Programme<br><br>- School code: 3014 for Victoria School – ‘O’ Level Programme</p>
 				<li><b></b></li><p></p>
 				<li><b></b></li><p></p>
 				<li><b></b></li><p></p>
