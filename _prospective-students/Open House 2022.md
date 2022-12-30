@@ -92,12 +92,12 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
   </li>
 	<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Multi-line Folded</label>
+    <label for="accordion5">Academic Development</label>
     <div>
       <ol>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
+				<li><b>Mathematics</b></li><p>Victorians are generally geared towards Math and have continually shown a strong aptitude for it. Thus, in terms of subject combinations, both Additional and Elementary Mathematics are offered to all Express students at Secondary 3. For the Integrated Programme (IP), Integrated Mathematics (a customised, integrative approach to Math learning) is offered to all IP students at Year 3.</p>
+				<li><b>The Sciences</b></li><p>Victorians are given a choice to do 2 or 3 sciences (Physics, Chemistry & Biology) depending on their aptitude.</p>
+				<li><b>Higher Mother Tongue Languages (HMTL)</b></li><p>VS offers all IP students the opportunity to take HMTL with the exception of special cases such as students granted MTL Exemption by MOE. The school conducts milestone assessments to ascertain students’ suitability to continue with HMT and students may be advised to switch to MT or MTB if they do not meet the criteria for the milestone checks.</p>
 			</ol>
     </div>
   </li>
