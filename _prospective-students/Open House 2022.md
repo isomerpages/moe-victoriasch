@@ -151,9 +151,40 @@ insert anchor markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion15">
-    <label for="accordion15">PRINCIPAL'S SHARING</label>
+    <label for="accordion15">Academic Highlights</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+			<ul>
+				<li><b>English & English Literature</b></li>
+				<p>yt link</p>
+				<li><b>MTL-  Chinese</b></li>
+				<p>yt link</p>
+				<li><b>MTL - Malay</b></li>
+				<p>yt link</p>
+				<li><b>MTL - Tamil</b></li>
+				<p>yt link</p>
+				<li><b>Math</b></li>
+				<p>yt link</p>
+				<li><b>The Sciences</b></li>
+				<p>yt link</p>
+				<li><b>The Humanities</b></li>
+				<p>yt link</p>
+				<li><b>Aesthetics & Design</b></li>
+				<p>yt link</p>
+				<li><b>Physical Education</b></li>
+				<p>yt link</p>
+				<li><b>Art Elective Programme</b></li>
+				<p>yt link</p>
+				<li><b>Regional Studies Programme</b></li>
+				<p>yt link</p>
+				<li><b>Aesthetics Education Programme</b></li>
+				<p>yt link</p>
+				<li><b>Innovation Programme</b></li>
+				<p>yt link</p>
+				<li><b>IP Cultural Immersion Trip</b></li>
+				<p>yt link</p>
+				<li><b>ICT@VS</b></li>
+				<p>yt link</p>
+			</ul>
     </div>
 	</li>  
   <li>
