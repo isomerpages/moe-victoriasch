@@ -71,10 +71,10 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     <div>
 			<ol>
 				<li><b>How do I apply to Victoria School?</b></li><p>When making your choice for Secondary Schools with your PSLE results, there is a separate school code of each programme in Victoria School. You can choose:<br><br>- School code: 9151 for Victoria School – Integrated Programme<br><br>- School code: 3014 for Victoria School – ‘O’ Level Programme</p>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
-				<li><b></b></li><p></p>
+				<li><b>Can I choose both the Integrated Programme and the ‘O’ Level Programme among my school choices?</b></li><p>You may choose both the Victoria School – Integrated Programme and the ‘O’ Level Programme among your 6 choices of schools. You will be posted to the programme based on merit of your PSLE score. You will not be able to switch between the two programmes in Secondary One once you are allocated to the specific programme by MOE.</p>
+				<li><b>What are the respective Cut-off Points (COP) for VCA IP and VS O Level?</b></li><p>The COP for VCA IP and VS O Level are respectively around 252 (AL 5-8) and 248 (AL 6-9).</p>
+				<li><b>I am posted to the Victoria School – ‘O’ Level Programme as it was my first choice. But my PSLE score is higher than the Victoria School – Integrated Programme cut-off. Can I be transferred to the Integrated Programme?</b></li><p>You may appeal for a transfer to Victoria School’s Integrated Programme.</p>
+				<li><b>If I am not posted to Victoria School, how else can I apply for admission to VS?</b></li><p>If you are not successful in your posting to VS, you may appeal to be considered for transfer to VS on the Integrated Programme or the ‘O’ Level Programme. Students appealing for admission to VS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COPs). The PSLE cut-off scores for both the Integrated Programme and the ‘O’ Level Programme vary every year depending on the PSLE T-scores of the applicants in that year.<br><br>Some applicants may be placed on the waiting list. Places may be available if students posted to VS choose to be transferred to other schools. Students on the waitlists will be selected based on academic results, sporting talents and interviews.</p>
     </div>
   </li>
   <li>
