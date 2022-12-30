@@ -50,9 +50,17 @@ Click here to view he IP Handbook. - file exceeds 5MB
 
 ##### **Voice of Victorians**
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ##### **Sec 1 Orientation Camp**
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Victoria Challenge**
 
