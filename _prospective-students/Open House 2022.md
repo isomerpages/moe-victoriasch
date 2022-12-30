@@ -23,6 +23,10 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 ![](/images/2022-Open-House-Programme.png)
 
+### The VS Experience
+
+insert anchor markdown
+
 
 ### FAQ
 
