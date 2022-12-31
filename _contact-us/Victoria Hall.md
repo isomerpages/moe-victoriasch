@@ -7,6 +7,11 @@ description: ""
 
 (insert pictures)
 
+![](/images/Study-Room-1.jpeg)
+![](/images/Study-Room-2.jpg)
+![](/images/TV-Lounge-1.jpg)
+![](/images/Dining-Hall-Photocopier.jpeg)
+![](/images/Outdoor-Study-Area.jpg)
 
 <ul class="jekyllcodex_accordion">
   <li>
