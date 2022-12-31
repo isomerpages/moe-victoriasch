@@ -11,10 +11,10 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 6.00am - 8.00pm
-        description: "*All staff and students are to leave by 7.30pm"
+        description: "*All staff and students are to leave by 7.30pm."
       - days: Sat
         time: 7.30am - 2.00pm
-        description: "*All staff and students are to leave by 1.30pm (Closed on Sundays
+        description: "*All staff and students are to leave by 1.30pm. (Closed on Sundays
           and PHs)"
     maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.30830803913152&lng=103.928197539607
     title: Address
@@ -34,4 +34,10 @@ contacts:
       - email: victoria_sch@moe.edu.sg
       - other: ""
     title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: visit <a
+          href="/contact-us/school-office-opening-hours/">/contact-us/school-office-opening-hours/</a>
+    title: For more information,
 ---
