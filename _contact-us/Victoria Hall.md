@@ -19,11 +19,9 @@ description: ""
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Dormitories, Facilities & Services</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p><b>Student Dormitories</b><br>Each hostel block consists of 4-bedded and 2-bedded dormitories.  All our student dormitories are non-air-conditioned. Each dormitory comes with an attached bathroom and washroom.<br><br>Each boarder is provided with a single bed, wardrobe, bookshelf, study desk and chair.<br><br>No choice of roommate is allowed and 2-bedded dormitories are reserved for deserving graduating boarders only, subject to availability.</p>
     </div>
   </li>
   <li>
