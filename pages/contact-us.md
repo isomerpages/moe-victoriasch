@@ -37,7 +37,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: visit <a
-          href="/contact-us/school-office-opening-hours/">/contact-us/school-office-opening-hours/</a>
+      - other: visit <a href="/contact-us/location-map/">/contact-us/location-map/</a>
     title: For more information,
 ---
