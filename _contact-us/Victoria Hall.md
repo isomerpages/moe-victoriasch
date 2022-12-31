@@ -12,6 +12,11 @@ description: ""
 ![](/images/TV-Lounge-1.jpg)
 ![](/images/Dining-Hall-Photocopier.jpeg)
 ![](/images/Outdoor-Study-Area.jpg)
+![](/images/Pantry.jpg)
+![](/images/Music-Discussion-Room.jpg)
+
+
+
 
 <ul class="jekyllcodex_accordion">
   <li>
