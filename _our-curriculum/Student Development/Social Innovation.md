@@ -46,7 +46,7 @@ Students are encouraged to initiate Social Innovation Projects based on their as
 
 ##### Submission of VIA Projects
 
-Students who have completed Social Innovation Projects are to download and submit the VIA Project Submission Form. Click [here](https://victoria.moe.edu.sg/wp-content/uploads/2018/10/04-VIA-Cockpit-Submission-Entry-Form-2019a.docx) to download.
+Students who have completed Social Innovation Projects are to download and submit the VIA Project Submission Form. Click [here](https://victoria.moe.edu.sg/wp-content/uploads/2018/10/04-VIA-Cockpit-Submission-Entry-Form-2019a.docx) - file in .docx format to download.
 
 ##### Community Partners for Social Innovation Programme
 
