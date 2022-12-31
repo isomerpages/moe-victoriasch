@@ -43,7 +43,7 @@ Victoria School grew, just like her students. She grew from Singapore’s coloni
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Geylang Barhu (1984-2003)</label>
     <div>
-      <p><img src="/images/Geylang-Bahru.jpg"><br>
+      <p><img src="/images/Geylang-Bahru.jpg"><br>In 1984, Victoria School moved to Geylang Bahru while Victoria Junior College was established in Marine Parade, offering the GCE ‘A’ level programme. In 1985, Victoria School conducted her last pre-university classes and from 1986 onwards, Victoria School catered to only secondary students.<b>[30]</b> In 1985, Victoria School started the Art Elective Programme, and was provided with Arts, Print-Making, Pottery and 3D Activity Studios. The school’s first computer laboratory was also set up in 1986.<br><br><b>[30]</b> “A Brief History of Victoria School”, The Victorian, 1986, 3.
       </p>
     </div>
   </li>
