@@ -240,7 +240,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 </ul>
 <br>
 <br>
-<h3><b><a name="Victoria Junior College / OVA"></a>Victoria Junior College / OVA</b></h3>
+<h3><b><a name="VictoriaJuniorCollege/OVA"></a>Victoria Junior College/OVA</b></h3>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion18">
