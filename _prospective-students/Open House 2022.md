@@ -240,8 +240,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 </ul>
 <br>
 <br>
-
-<h3><b>Victoria Junior College / OVA</b></h3>
+<h3><b><a name="Victoria Junior College / OVA"></a>Victoria Junior College / OVA</b></h3>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion18">
@@ -265,8 +264,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 <br>
 <br>
-<h3><b>FAQ</b></h3>
-
+<h3><b><a name="FAQ"></a>FAQ</b></h3>
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
 
 <ul class="jekyllcodex_accordion">
