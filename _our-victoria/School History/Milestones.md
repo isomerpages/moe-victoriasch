@@ -52,11 +52,9 @@ Victoria School grew, just like her students. She grew from Singapore’s coloni
   </li>
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Multi-line Folded</label>
+    <label for="accordion5">Siglap Link (2003-present)</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+      <p><img src="/images/Photos-35.jpg">The Siglap Link campus was uniquely designed, guided by the school’s rich history, tradition and learning philosophy, which focused on the school mission to develop students into well balanced and all-rounded individuals.<br><br>To symbolise the love for lifelong learning in our school crest, the roofs are shaped like open books. The school’s motto “Nil Sine Labore” was crafted into an overhanging feature on top of the parade square. When the sun is overhead, the words “Nil Sine Labore” can be seen clearly on the Parade Square and reminds Victorians of the school motto.<br><br>To emphasise the importance of learning, the library is at the school’s centre. In 2003, the 300-seater library was Singapore’s biggest government secondary school library. The Eco-street, which is the central green lung of the school, was designed to become an active learning space for life science projects, where students could engage in experiments and investigation. The ecological garden also helps to balance the concrete structures and built-up design of the campus. The plants, trees and water features provides an oasis of calm within the school compound where Victorians could relax, surrounded by the classroom and science laboratory blocks.<br><br>In order to maximise the use of space, the 11-storey 500-bedder hostel was conceived as a shared zone with the school to create synergy through the sharing of facilities. The hostel houses additional communal facilities such as a music room and activity room. The auditorium, located within the school, was conceived as a shared resource to be used by the school and hostel. To maximize the use of space, the school has seven storeys and the Parade Square is situated on the fifth storey, above the school Hall. As sport is important, space was made available for a full-size school field.[33] The field was replaced with an Astro Turf field in 2007 and an indoor sports hall was added in 2009.<br><br><b>[33]</b> “Speech by Dr. Ong Chit Chung, Chairman, Victoria Executive & Advisory Committees at Victoria School’s 127th Speech Day, 26 July 2003,” The Victorian, 2003, 72.
       </p>
     </div>
   </li>
