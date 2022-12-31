@@ -41,11 +41,9 @@ Victoria School grew, just like her students. She grew from Singapore’s coloni
   </li>
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Multi-line Folded</label>
+    <label for="accordion4">Geylang Barhu (1984-2003)</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+      <p><img src="/images/Geylang-Bahru.jpg"><br>
       </p>
     </div>
   </li>
