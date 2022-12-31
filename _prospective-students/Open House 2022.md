@@ -25,12 +25,12 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 ### The VS Experience
 
-[Prospectus/Sharing](#Prospectus/Sharing)
-[The VS Experience](#TheVSExperience)
-[Perofrming Arts Showcase](#PerofrmingArtsShowcase)
-[Highlights](#Highlights)
-[Victoria Junior College/OVA](#VictoriaJuniorCollege/OVA)
-[FAQ](#FAQ)
+* [Prospectus/Sharing](#Prospectus/Sharing)
+* [The VS Experience](#TheVSExperience)
+* [Performing Arts Showcase](#PerformingArtsShowcase)
+* [Highlights](#Highlights)
+* [Victoria Junior College/OVA](#VictoriaJuniorCollege/OVA)
+* [FAQ](#FAQ)
 
 
 <h3><b><a name="Prospectus/Sharing"></a>Prospectus/Sharing</b></h3>
@@ -60,7 +60,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 </ul>
 
 
-<h3><b><a name="The VS Experience"></a>The VS Experience</b></h3>
+<h3><b><a name="TheVSExperience"></a>The VS Experience</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
