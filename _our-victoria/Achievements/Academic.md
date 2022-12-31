@@ -8,9 +8,6 @@ third_nav_title: Achievements
 ![](/images/ach_academic-2020.jpg)
 
 
-- only got records of 2021?
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
