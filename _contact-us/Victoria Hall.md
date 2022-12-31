@@ -50,9 +50,9 @@ description: ""
 	</li> 
 		  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Simple</label>
+    <label for="accordion5">Log OUt from VH Wireless</label>
     <div>
-      <p>This is a simple one line item</p>
+			<p>Click <a href="http://2.2.2.2/logout">here</a> to access</p>
     </div>
 	</li> 
 </ul>
