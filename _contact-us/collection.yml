@@ -2,7 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - Contact Us.md
       - Location Map.md
       - School & Office Opening Hours.md
       - Victoria Hall.md
