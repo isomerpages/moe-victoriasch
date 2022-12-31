@@ -7,10 +7,6 @@ description: ""
 
 (insert pictures)
 
-![](/images/2-bed-layout-1.jpg)
-![](/images/4-bed-layout-1.jpg)
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
