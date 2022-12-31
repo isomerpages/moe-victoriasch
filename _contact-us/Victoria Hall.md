@@ -38,4 +38,21 @@ description: ""
 	<p><b>Withdrawal of Boarding</b><br>Boarders who wish to withdraw from their stay at Victoria Hall subsequently are to arrange for their parents to write in or email to the hostel at least two weeks prior to the date of permanent check-out.<br><br>All outstanding payments must be cleared and all Hall property must be returned before permanent check-out. Any repair and replacement costs of damaged Hall property will be borne by the boarder.</p>
     </div>
   </li>
+	  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Contact Us</label>
+    <div>
+			<p><b>Address</b><br>4 Siglap Link<br>Singapore 448879</p>
+			<p><b>Getting Here</b><img src="/images/map-25517.png"></p>
+			<p><b>Contact Number</b><br>(65) 6245 6369</p>
+			<p><b>Email Address</b><br><a href="MOE_vshostel@moe.edu.sg">MOE_vshostel@moe.edu.sg</a></p>
+    </div>
+	</li> 
+		  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li> 
 </ul>
