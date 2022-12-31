@@ -11,9 +11,9 @@ Victoria School grew, just like her students. She grew from Singapore’s coloni
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Kampong Glam (1876 - 1900)</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><img src="/images/Kampong-Glam.jpg"><br>Victoria School is the second oldest government secondary school in Singapore. It originated as an English class established in 1876 in Kampong Glam Malay Branch School.<br><br>Early colonial era education was more of a private, rather than government, concern. Charitable organisations, public-minded individuals and missionary bodies were among the early pioneers of formal Malay and English education. By the 1870s, the Straits Settlements Government decided to improve English language standards in schools.<b>[1]</b> The chief function of a “Branch English School” was to teach English language and the vernacular language (Malay for the case of Kampong Glam Malay School). This was part of the effort of the Straits Settlements to relieve the pressure of overcrowding at major schools like Raffles Institution in Singapore, and the Free Schools in Penang and Malacca. The branch schools catered to boys of all social classes who stayed further away from the larger English schools. The Kampong Glam Malay Branch School aimed to help Malays benefit from English education.<b>[2]</b><br><br><b>[1]</b> Ernest Cheong, “Victoria School in Singapore 1976-1987” (BA Honours Thesis, National University of Singapore 1987/88), 5.<br><b>[2]</b> Cheong, “Victoria School.”, 8.</p>
     </div>
 	</li>  
   <li>
