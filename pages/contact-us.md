@@ -37,6 +37,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: visit <a href="/contact-us/location-map/">/contact-us/location-map/</a>
+      - other: visit <a href="/contact-us/location-map/">here.</a>
     title: For more information,
 ---
