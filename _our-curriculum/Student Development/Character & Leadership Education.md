@@ -63,7 +63,7 @@ The Student Leadership Practices in VS is built upon Jim Kouzes and Barry Posner
 (Adopted from The Leadership Challenge Model by Jim Kouzes and Barry Posner)
 
 
-#### Student Leaders’ Pledge
+### Student Leaders’ Pledge
 
 We hereby pledge as Leaders,
 
