@@ -25,7 +25,12 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 ### The VS Experience
 
-insert anchor markdown
+[Prospectus/Sharing](#Prospectus/Sharing)
+[The VS Experience](#TheVSExperience)
+[Perofrming Arts Showcase](#PerofrmingArtsShowcase)
+[Highlights](#Highlights)
+[Victoria Junior College/OVA](#VictoriaJuniorCollege/OVA)
+[FAQ](#FAQ)
 
 
 <h3><b>Prospectus / Sharing</b></h3>
