@@ -33,7 +33,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 [FAQ](#FAQ)
 
 
-<h3><b>Prospectus / Sharing</b></h3>
+<h3><b><a name="Prospectus/Sharing"></a>Prospectus/Sharing</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -60,8 +60,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 </ul>
 
 
-
-<h3><b>The VS Experience</b></h3>
+<h3><b><a name="The VS Experience"></a>The VS Experience</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -117,8 +116,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 
 
-
-<h3><b>Performing Arts Showcase</b></h3>
+<h3><b><a name="Performing Arts Showcase"></a>Performing Arts Showcase</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -151,7 +149,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
   </li>
 </ul>
 
-<h3><b>Highlights</b></h3>
+<h3><b><a name="Highlights"></a>Highlights</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -242,6 +240,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 </ul>
 <br>
 <br>
+
 <h3><b>Victoria Junior College / OVA</b></h3>
 <ul class="jekyllcodex_accordion">
   <li>
