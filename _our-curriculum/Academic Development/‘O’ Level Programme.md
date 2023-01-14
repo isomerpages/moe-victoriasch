@@ -41,7 +41,6 @@ Physical Education
 
 
 <h3>Subject Tutors</h3>
-	
 <ul class="jekyllcodex_accordion">
 <li>
 	<input type="checkbox" id="accordion30">
@@ -139,8 +138,7 @@ Physical Education
     <label for="accordion37">General Paper</label>
     <div>
 			<p><b> Mr Benjamin Chew </b> benjamin.chew@ejc.edu.sg <br> 
-			<b> Ms Cham Bei Qing </b> cham.bei.qing@ejc.edu.sg <br> 
-			<b> Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg <br> 
+			<b> Ms Cham Bei Qing </b> cham.bei.qing@ejc.edu.sg <br> <b> Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg <br> 
 			<b> Mrs Danielle Low </b> danielle.marie.low@ejc.edu.sg <br> 
 			<b> Mr Darren Chong </b> darren.chong@ejc.edu.sg <br>
 			<b> Mrs Elaine Toh-Tan </b> elaine.toh@ejc.edu.sg <br> 
@@ -156,8 +154,8 @@ Physical Education
 			<b> Ms Renuka Satianathan </b> renuka.satianathan@ejc.edu.sg <br><b> Mr Samuel Wong </b> samuel.wong@ejc.edu.sg <br>
 			<b> Ms Stephanie Hua </b> stephanie.hua@ejc.edu.sg <br> 
 			<b> Mr Timothy Ng </b> timothy.ng@ejc.edu.sg<p>
-			</div>
-</li>
+	</div>
+	</li>
 <li>
 	<input type="checkbox" id="accordion38">
 	<label for="accordion38">Geography</label>
@@ -166,9 +164,9 @@ Physical Education
 			<b> Mr Jared Goh </b> jared.goh@ejc.edu.sg <br>
 			<b> Ms Leong Wymin </b> leong.wymin@ejc.edu.sg <br>
 			<b> Ms Rachel Lim </b> rachel.lim@ejc.edu.sg</p>
-			</div>
-</li>
-<li>
+	</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion39">
 	<label for="accordion39">History</label>
     <div>
@@ -176,16 +174,16 @@ Physical Education
 			<b> Mr Azhar Amin </b> azhar.amin@ejc.edu.sg <br>
 			<b> Mr Justin Lee </b> justin.lee@ejc.edu.sg <br>
 			<b> Mr Mahmood Fahmi Ahamed</b> mahmood.fahmi@ejc.edu.sg<p>
-			</div>
-</li>
-<li>
+		</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion40">
 	<label for="accordion40">Knowledge and Inquiry</label>
     <div>
 			<p><b> Mr Perrin Singarayar </b> perrin.singarayar@ejc.edu.sg</p>
 			</div>
-</li>	
-<li>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion41">
 	<label for="accordion41">Literature in English</label>
     <div>
@@ -193,16 +191,16 @@ Physical Education
 			<b> Mr Marc Kenji Lim </b> marc.kenji.lim@ejc.edu.sg <br>
 			<b> Ms Ng Hui Qi </b> ng.hui.qi@ejc.edu.sg <br>
 			<b> Ms Sandra Chan </b> sandra.chan@ejc.edu.sg</p>
-			</div>
+		</div>
 	</li>
-<li>
+	<li>
 	<input type="checkbox" id="accordion42">
 	<label for="accordion42">Malay Language / Malay Language and Literature</label>
     <div>
 			<p><b> Ms Nadira Mohamed Sedik </b> nadira.md.sedik@ejc.edu.sg</p>
 			</div>
 </li>
-<li>
+	<li>
 	<input type="checkbox" id="accordion43">
 	<label for="accordion43">Mathematics / Further Mathematics</label>
     <div>
@@ -246,9 +244,9 @@ Physical Education
 			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br>
 			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
 			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg</p>
-			</div>
-</li>
-<li>
+	</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion46">
 	<label for="accordion46">Physics</label>
     <div>
@@ -261,9 +259,9 @@ Physical Education
 			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br>
 			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
 			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg</p>
-			</div>
-</li>
-<li>
+		</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion47">
 	<label for="accordion47">Project Work</label>
     <div>
@@ -276,23 +274,23 @@ Physical Education
 			<b> Mr Omar Basri Sulaimir </b> omar.basri.sulaimir@ejc.edu.sg <br><b> Ms Nadira Mohamed Sedik </b> nadira.md.sedik@ejc.edu.sg <br><b> Ms Rachel Yau </b> rachel.yau@ejc.edu.sg <br>
 			<b> Ms Vivien Ng </b> vivien.ng@ejc.edu.sg <br> 
 			<b> Ms Zulaiha Said </b> zulaiha.said@ejc.edu.sg</p>
-			</div>
-</li>
-<li>
+		</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion48">
 	<label for="accordion48">Tamil Language / Tamil Language and Literature</label>
     <div>
 			<p><b> Mdm Elavarasi Sundararaju </b> ela.sundararaju@ejc.edu.sg <br> 
-			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg</p>
-			</div>
-</li>	
-<li>
+			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg</p
+		</div>
+	</li>
+	<li>
 	<input type="checkbox" id="accordion49">
 	<label for="accordion49">Translation (Chinese)</label>
     <div>
 			<p><b> Mr Chng Tsu Pang </b> chng.tsu.pang@ejc.edu.sg <br> 
 			<b> Mdm Ng Lai Sze </b> ng.lai.sze@ejc.edu.sg <br> 
-			<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg</p>
-			</div>
-</li>
-	</ul>
+				<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg</p>
+		</div>
+	</li>
+</ul>
