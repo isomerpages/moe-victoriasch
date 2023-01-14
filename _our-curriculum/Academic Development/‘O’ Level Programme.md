@@ -54,7 +54,7 @@ Physical Education
 	<input type="checkbox" id="accordion31">
 	<label for="accordion31">Biology</label>
     <div>
-			<p><b>Mr Benjamin Choo</b> benjamin.choo@ejc.edu.sg <br> <b>Mr Chan Ter Yue </b> chan.ter.yue@ejc.edu.sg <br> <b>Ms Emeline Choo </b> emeline.choo@ejc.edu.sg <br> <b>Mr Gabriel Woon </b> gabriel.woon@ejc.edu.sg <br> <b> Ms Lu Huiping </b> lu.huiping@ejc.edu.sg <br> 
+			<p><b>Mr Benjamin Choo</b> benjamin.choo@ejc.edu.sg <br> <b>Mr Chan Ter Yue </b> chan.ter.yue@ejc.edu.sg <br><b>Ms Emeline Choo </b> emeline.choo@ejc.edu.sg <br><b>Mr Gabriel Woon </b> gabriel.woon@ejc.edu.sg <br><b> Ms Lu Huiping </b> lu.huiping@ejc.edu.sg <br> 
 			<b>Ms Ng Siow Ying </b> ng.siow.ying@ejc.edu.sg <br> 
 			<b> Ms Zulaiha Said</b>  zulaiha.said@ejc.edu.sg</p>
 			</div>
@@ -265,7 +265,7 @@ Physical Education
 	<label for="accordion48">Tamil Language / Tamil Language and Literature</label>
     <div>
 			<p><b> Mdm Elavarasi Sundararaju </b> ela.sundararaju@ejc.edu.sg <br> 
-			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg</p
+				<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg</p>
 		</div>
 	</li>
 	<li>
