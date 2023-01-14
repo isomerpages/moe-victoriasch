@@ -35,3 +35,214 @@ Art & Design
 Food and Consumer Education  
 Music  
 Physical Education
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">22-A2</label>
+    <div>
+      <p><b>Mr Justin Lim</b> justin.lim@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+ <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+ <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">22-A1</label>
+    <div>
+      <p><b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg</p>
+    </div>
+	</li>
+	</ul>
+	
