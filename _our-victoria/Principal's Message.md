@@ -5,8 +5,6 @@ description: ""
 ---
 # **Principal's Message**
 
-testing
-
 <img src="/images/Mr-Chow-Principals-Message-Website.jpg" style="width:233px;height:340px;margin-left:15px;" align="right">
 
 _Think, feel and dream_   
