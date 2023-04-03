@@ -10,13 +10,13 @@ third_nav_title: Academic Development
 
 ### Victoria-Cedar Alliance (VCA)
 
-The Victoria-Cedar Alliance is made up of three schools, Victoria School, Cedar Girls’ Secondary School (CGSS) and Victoria Junior College (VJC). Since 2012, we have offered the 6-year Integrated Programme (IP) to high-ability boys and girls, where they spend 4 years in their respective secondary schools before moving to VJC for two years before attempting the GCE ‘A’ Levels. Like all brothers and sisters, we are unique and distinctive in our own ways. Bonded by a shared belief to prepare our students for the 21st century, we nurture our students to their full potential and develop every student to be a _Social Innovator, Passionate Learner_. Today the partnership extends to CCA collaborations, student leadership development and talent development so as to ensure that our students benefit from the alliance.
+The Victoria-Cedar Alliance is made up of three schools, Victoria School, Cedar Girls’ Secondary School (CGSS) and Victoria Junior College (VJC). Since 2012, we have offered the 6-year Integrated Programme (IP) to high-ability boys and girls, where they spend 4 years in their respective secondary schools before moving to VJC for two years before attempting the GCE ‘A’ Levels. Like all brothers and sisters, we are unique and distinctive in our own ways. Bonded by a shared belief to prepare our students for the 21st&nbsp;century, we nurture our students to their full potential and develop every student to be a&nbsp;_Social Innovator, Passionate Learner_. Today the partnership extends to CCA collaborations, student leadership development and talent development so as to ensure that our students benefit from the alliance.
 
 We warmly welcome you to embark on this exciting 6-year journey with us.
 
-<img src="/images/ehandbooktn-1.jpg" style="width:183px;height:150px;margin-left:15px;" align = "right">
+<img src="/images/ehandbooktn-1.jpg" style="width:183px;height:150px;margin-left:15px;" align="right">
 
-Click [here](https://victoria.moe.edu.sg/wp-content/uploads/2022/04/VCA-IP-E-Handbook-2022.pdf) - file exceeds 5MB to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.
+Click&nbsp;[here](https://victoria.moe.edu.sg/wp-content/uploads/2022/04/VCA-IP-E-Handbook-2022.pdf) - file exceeds 5MB&nbsp;to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.
 
 
 
@@ -42,14 +42,14 @@ VCA IP students drive their own learning. They are encouraged to delve deeper in
 
 Complementing the VCA IP’s drive for academic excellence, the Helmsman Programme helps students chart their lives and brings out their full potential as leaders. The programme develops students who are informed and transforms them into mature, well-balanced young people who possess sound judgment amidst ambiguity and have the capacity to face challenges in a complex world. Through strengthening our students’ character from within, students will have a deepened sense of belonging, commitment and responsibility towards self, family, community, nation and the world.
 
-_Years 1 & 2: Personal and Team Leadership  
-_Students hone their personal mastery through personality assessment tools and platforms to apply their skills and knowledge. They will exercise responsibilities for personal effectiveness and exercise credibility to align their values with action. In the process, they will learn to experiment, take risk and see challenges as an opportunity to innovate.
+_Years 1 &amp; 2: Personal and Team Leadership_<br>
+Students hone their personal mastery through personality assessment tools and platforms to apply their skills and knowledge. They will exercise responsibilities for personal effectiveness and exercise credibility to align their values with action. In the process, they will learn to experiment, take risk and see challenges as an opportunity to innovate.
 
-_Years 3 & 4: Organisational Leadership  
-_Students enhance their understanding of human behaviour and appreciation of social dynamics through authentic learning opportunities. They will be able to facilitate and enlist others to work towards a common goal.
+_Years 3 &amp; 4: Organisational Leadership_<br>
+Students enhance their understanding of human behaviour and appreciation of social dynamics through authentic learning opportunities. They will be able to facilitate and enlist others to work towards a common goal.
 
-_Years 5 & 6: Community Leadership  
-_Students strengthen their personal voice to become advocates and leaders in their chosen fields. They will have the drive and ability to be social innovators, championing the vision and direction for growth to make a difference in the community.
+_Years 5 &amp; 6: Community Leadership_<br>
+Students strengthen their personal voice to become advocates and leaders in their chosen fields. They will have the drive and ability to be social innovators, championing the vision and direction for growth to make a difference in the community.
 
 ### Imagineering Programme
 
@@ -57,18 +57,18 @@ A signature programme of the VCA IP, the Imagineering Programme aims to nurture 
 
 Using Design Thinking as the approach, the Imagineering Programme helps students gain a deeper understanding of social issues, and develop empathy and a desire to impact the community positively. It equips them with the skills and knowledge so that they can design innovative solutions to improve the lives of others.
 
-_Years 1 & 2_   
+_Years 1 &amp; 2_   
 Students develop basic skills and attributes in Design Thinking, and apply them to classroom-based and school-based issues.
 
-_Years 3 & 4_    
+_Years 3 &amp; 4_    
 Working in partnership with Singapore University of Technology and Design (SUTD) and South-East Community Development Council (South-East CDC), students deepen their mastery of Design Thinking tools through engagement with real issues in society. In Year 4, students are encouraged to work on their own Social Innovation project.
 
-_Years 5 & 6_   
+_Years 5 &amp; 6_   
 Students further hone their Design Thinking skills and knowledge by serving as peer leaders during Project Work lessons. Students are encouraged to initiate Values-in-Action projects to benefit the community around them.
 
 ### Electives
 
-A key belief that underpins the VCA IP is that students should be given the time and space to pursue knowledge and skills outside the requirements of the formal curriculum. The Electives programme is put in place to create that diverse and broad-based learning element in our students’ learning experiences. The programme is important in supporting the development of the Passionate Learners. Students choose the electives according to their interests. It inspires the students to pursue their own passion by empowering them with choices in their own learning.
+A key belief that underpins the VCA IP is that students should be given the time and space to pursue knowledge and skills outside the requirements of the formal curriculum. The&nbsp;Electives&nbsp;programme is put in place to create that diverse and broad-based learning element in our students’ learning experiences. The programme is important in supporting the development of the Passionate Learners. Students choose the&nbsp;electives&nbsp;according to their interests. It inspires the students to pursue their own passion by empowering them with choices in their own learning.
 
 ### Social Studies Education
 
