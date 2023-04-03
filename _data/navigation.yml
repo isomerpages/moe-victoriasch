@@ -11,4 +11,13 @@ links:
   - title: Prospective Students
     collection: prospective-students
   - title: Contact Us
-    collection: contact-us
+    url: https://forms.cwp.gov.sg/victoria/feedback
+    sublinks:
+      - title: Feedback & Enquiry
+        url: https://forms.cwp.gov.sg/victoria/feedback
+      - title: Location Map
+        url: /permalink
+      - title: School & Office Opening Hours
+        url: /permalink
+      - title: Victoria Hall
+        url: /permalink
