@@ -15,7 +15,6 @@ third_nav_title: Uniformed Group
     <label for="accordion1">Background / History of CCA</label>
     <div>
       <p>The Boys’ Brigade (BB) is the world’s first Uniformed Organisation for Youth. Since its formation in Scotland in 1883, the impact of the BB has spread throughout the world, existing in 60 countries to date.</p>
-			<p>In 1974, VS NCC Land unit took part in Haddon Cup Drill Competition, and emerged winners in the Serangoon district. Six cadets and one officer also joined the rest of the school for a tour of lake Toba, and climbed Mt. Sebayak in record time according to the guide.</p>
 			<p>The Boys’ Brigade 2nd Singapore Company was founded in 1931. The Company had its operations in 3 other schools before establishing itself in Victoria School in 1982 with 102 recruits. For consistently delivering quality programmes for its Boys, Second Company has attained the JM Fraser Award for Excellence (Gold) for 19 consecutive years (1999-2016) since the inception of the award in 1998.</p>
     </div>
 	</li>
