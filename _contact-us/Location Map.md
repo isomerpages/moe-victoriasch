@@ -11,6 +11,5 @@ description: ""
 
 ![](/images/map-9522.png)
 
-### School Contact Information
 
-Click [here](/contact-us) for more information
+
