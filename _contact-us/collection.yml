@@ -1,0 +1,8 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - Location Map.md
+      - School & Office Opening Hours.md
+      - Victoria Hall.md
+      - faq.md

@@ -1,15 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/vslogo_lockup1-1-1.jpg
 links:
+  - title: Our Victoria
+    collection: our-victoria
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Community
+    collection: our-community
+  - title: Prospective Students
+    collection: prospective-students
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: https://forms.cwp.gov.sg/victoria/feedback
+    sublinks:
+      - title: Feedback & Enquiry
+        url: https://forms.cwp.gov.sg/victoria/feedback
+      - title: Location Map
+        url: /contact-us/location-map/
+      - title: School & Office Opening Hours
+        url: /contact-us/school-office-opening-hours/
+      - title: Victoria Hall
+        url: /contact-us/victoria-hall/
+      - title: Frequently Asked Qns (FAQs)
+        url: /faq/

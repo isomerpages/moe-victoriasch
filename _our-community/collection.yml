@@ -1,0 +1,7 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Old Victorians’ Association.md
+      - Parent Support Group.md
+      - Partners.md

@@ -1,0 +1,24 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Academic Development/‘O’ Level Programme.md
+      - Academic Development/Integrated Programme.md
+      - Academic Development/Departments.md
+      - Academic Development/.keep
+      - Student Development/Arts Education.md
+      - Student Development/Character & Leadership Education.md
+      - Student Development/Co curricular Activities.md
+      - Student Development/Cyber Wellness.md
+      - Student Development/Physical Development.md
+      - Student Development/Social Innovation.md
+      - Student Development/Environmental Education.md
+      - Student Development/Sexuality Education.md
+      - Student Development/.keep
+      - Talent Programmes/Art Elective Programme (AEP).md
+      - Talent Programmes/Regional Studies Programme.md
+      - Talent Programmes/School based Talent Development Programmes.md
+      - Talent Programmes/.keep
+      - Special Programmes/Boarding Programme.md
+      - Special Programmes/Beyond Borders Programme.md
+      - Special Programmes/.keep

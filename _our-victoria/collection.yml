@@ -1,0 +1,25 @@
+collections:
+  our-victoria:
+    output: true
+    order:
+      - Principal's Message.md
+      - Philosophy of Education.md
+      - Vision, Mission, Values.md
+      - School Symbols/Motto, Crest, Anthem.md
+      - School Symbols/Song & Poems.md
+      - School Symbols/.keep
+      - School History/Milestones.md
+      - School History/Past Principals.md
+      - School History/Past Head Prefects.md
+      - School History/League of Extraordinary Victorians.md
+      - School History/.keep
+      - School Awards.md
+      - Achievements/Academic.md
+      - Achievements/Sports.md
+      - Achievements/Clubs & Societies.md
+      - Achievements/Performing Arts.md
+      - Achievements/Uniformed Groups.md
+      - Achievements/.keep
+      - Victoria Online/.keep
+      - Victoria Online/Victoriana.md
+      - Victoria Online/Yearbooks.md
