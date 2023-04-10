@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vs-website-cover-1-2020-c.jpg
+      background: /images/vs-website-cover-1-2020-ce.jpg
       key_highlights:
         - title: Secondary 1 Registration
           description: Click here for more
