@@ -10,7 +10,7 @@ third_nav_title: Student Development
 
 
 ### Introduction
-Click [here](/files/2023-cca-deployment-schedule_sem-1-for-publishing-26-jan-23.pdf) to view the 2022 list of CCA Teacher-in-charge and Schedule.
+Click [here](/files/2023-cca-deployment-schedule_sem-1-for-publishing-26-jan-23.pdf) to view the 2023 list of CCA Teacher-in-charge and Schedule.
 
 The Co-Curricular Activities develop students’ character, leadership and resilience, help them engender meaningful relationships, develop the skills and knowledge of their craft and imbue in them the spirit of sportsmanship.
 
