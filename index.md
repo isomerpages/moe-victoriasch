@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Victoria School
-      background: /images/vs.gif
-      button: Contact Us
-      url: /contact-us/
+      background: /images/vs-website-cover-1-2020-c.jpg
       key_highlights:
         - title: Secondary 1 Registration
           description: Click here for more
