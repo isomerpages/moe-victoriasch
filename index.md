@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/vs-website-cover-1-2020-ce.jpg
       key_highlights:
-        - title: Secondary 1 Registration
-          description: Click here for more
-          url: /sec-1-registration-2022/
         - title: Upcoming Events
           description: Click here for more
           url: /upcoming-events/
