@@ -87,5 +87,3 @@ link not found (no.1-6)
 5.  [How do you help your child stay safe online?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Oct%202017/Sec/4%20Tip%20Sheet%20for%20Parents%20T4%202017-1.png)
 6.  [How do you develop your child to be a positive peer influence online?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Feb%202018/3B%202018%20T1%20Parents%20Tip%20Sheet_pdf-1.png)
 7.  [How do you help your child protect their personal data online?](/files/3B-2018-Connect-T4-Parents-Tip-Sheet.pdf)
-
-Source:&nbsp;[https://ictconnection.moe.edu.sg/cyber-wellness](https://ictconnection.moe.edu.sg/cyber-wellness) **SITE NOT FOUUND**
