@@ -5,4 +5,4 @@ description: ""
 ---
 # **CCA Schedule**
 
-Click [here](/files/2022-CCA-Deployment-Schedule_Sem-1-as-of-5-Jan-22.pdf) to view the 2022 list of CCA Teacher-in-charge and Schedule.
+Click [here](/files/2023-cca-deployment-schedule_sem-1-for-publishing-26-jan-23.pdf) to view the 2023 list of CCA Teacher-in-charge and Schedule.
