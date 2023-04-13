@@ -2,9 +2,9 @@ collections:
   our-community:
     output: true
     order:
-      - Parent Support Group/Latest Announcements.md
-      - Parent Support Group/Parent Support Group Home.md
       - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group Home.md
+      - Parent Support Group/Latest Announcements.md
       - Old Victorians’ Association.md
       - Parent Support Group.md
       - Partners.md
