@@ -3,5 +3,14 @@ collections:
     output: true
     order:
       - Old Victorians’ Association.md
-      - Parent Support Group.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Latest Announcements.md
+      - Parent Support Group/Vision And Mission.md
+      - Parent Support Group/PSG Logo.md
+      - Parent Support Group/Team.md
+      - Parent Support Group/Events.md
+      - Parent Support Group/Contact.md
+      - Parent Support Group/Membership FAQ & Form.md
+      - Parent Support Group/Useful Links.md
       - Partners.md
