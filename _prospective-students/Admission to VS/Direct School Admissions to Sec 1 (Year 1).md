@@ -8,7 +8,7 @@ third_nav_title: Admission to VS
 
 # **Direct School Admissions to Sec 1 (Year 1)**
 
-### Direct School Admission to 2023 Secondary 1
+### Direct School Admission to 2024 Secondary 1
 
 **Direct School Admission – Secondary (DSA-Sec) Exercise**
 
@@ -22,9 +22,9 @@ third_nav_title: Admission to VS
 
 4\.  As a dual-track school, students choose between our 4-year ‘O’ Level Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).&nbsp; Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
 
-**DSA-Sec to Victoria School: Domains and Criteria**
+**DSA-Sec to Victoria School: Domains**
 
-5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2023.
+5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2024.
 
 6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
     a.  High intellectual potential and ability,      
