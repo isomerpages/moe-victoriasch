@@ -43,11 +43,11 @@ third_nav_title: Admission to VS
 	  <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Art &amp; Elective Programme<br>• Concert Band<br>• Chinese Orchestra<br>• Choir<br> </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">DSA/ Sports</span><br><br><span style="font-weight:bold"> </span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Badminton<br>• Cricket<br>• Floorball<br>• Football<br>• Hockey<br>• Sailing<br>• Table Tennis<br>• Tennis<br>• Track &amp; Field#<br>• Volleyball<br>• Wushu</td></tr></tbody></table>
 ^&nbsp;Students may choose to be considered for the O level and/or Integrated Programme
 
-\*Students admitted under DSA/Aesthetics for Art will be placed in the Art Elective Programme (AEP). Art forms covered in the AEP include 2D (2-dimensional), 3D (3-dimensional), media (eg. photography) and time-based (e.g. video) works such as drawing and painting for 2D, sculpting and ceramics for 3D, photography and computer art for media and video for time-based\
+\*Students admitted under DSA/Aesthetics for Art will be placed in the Art Elective Programme (AEP). Art forms covered in the AEP include 2D (2-dimensional), 3D (3-dimensional), media (eg. photography) and time-based (e.g. video) works such as drawing and painting for 2D, sculpting and ceramics for 3D, photography and computer art for media and video for time-based.
 
-\# Students with long-distance running experience, potential and ability may apply for Track &amp; Field. If found suitable, they will be offered a place through Track &amp; Field but will join Cross Country as their CCA instead. 
+\# Students with long-distance running experience, potential and ability may apply for Track &amp; Field. If found suitable, they will be offered a place through Track &amp; Field but will join Cross Country as their CCA instead upon successful admission.
 
-Students with gymnastics background may apply for Track &amp; Field too, as they will be considered strongly for the Pole Vault event.
+\# Students with gymnastics background may apply for Track &amp; Field too, as they will be considered strongly for the Pole Vault event.
 
 The selection criteria and process for the talent
 areas will be updated from early-May. For more
