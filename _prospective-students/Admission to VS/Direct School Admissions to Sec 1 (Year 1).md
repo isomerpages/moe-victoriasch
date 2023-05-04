@@ -78,7 +78,7 @@ third_nav_title: Admission to VS
 
 21\.  **Flowchart of activities.**The timeline and process for VS are shown below:
 
-[![](/images/DSA-Flowchart-2022.jpg)](https://www.moe.gov.sg/secondary/dsa)
+[![](/images/DSA-Flowchart-2023.jpg)](https://www.moe.gov.sg/secondary/dsa)
 
 20\.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact:  
 * Tel – 6291 2965 (General Office)   
