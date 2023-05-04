@@ -78,11 +78,11 @@ third_nav_title: Admission to VS
 
 19\.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-21\.  **Flowchart of activities.**The timeline and process for VS are shown below:
+20\.  **Flowchart of activities.**The timeline and process for VS are shown below:
 
 [![](/images/dsa-flowchart-2023.jpg)](https://www.moe.gov.sg/secondary/dsa)
 
-20\.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact:  
+21\.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact:  
 * Tel – 6291 2965 (General Office)   
 * Time – Mondays to Fridays (9.00am to 5.00pm) during school term, Mondays to Fridays (8.00am to 4.00pm) during June school holidays.   
 * Email -&nbsp;[victoria\_sch@moe.edu.sg](mailto:victoria_sch@moe.edu.sg)&nbsp;(please indicate&nbsp;**“DSA Enquiries – Name of Applicant”**&nbsp;in the email subject field)   
