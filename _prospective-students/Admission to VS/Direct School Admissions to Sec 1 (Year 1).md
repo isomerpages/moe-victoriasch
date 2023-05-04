@@ -87,8 +87,6 @@ third_nav_title: Admission to VS
 * Website -&nbsp;[https://staging.d35imuqofga1kr.amplifyapp.com/](https://staging.d35imuqofga1kr.amplifyapp.com/) - change link when website is launched
 
 **Frequently Asked Questions**   
-Refer to the list of [**FAQs here**](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=15904) - link not found.
-
 Information for Children not in Mainstream Primary School, including Returning Singaporeans and International Students:
 
 1\.  Applicants who are currently not studying in MOE schools, including Returning Singaporeans (Citizens or PRs) and International Students, are required to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) before applying for DSA.
