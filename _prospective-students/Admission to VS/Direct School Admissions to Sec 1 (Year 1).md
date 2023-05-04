@@ -44,7 +44,9 @@ third_nav_title: Admission to VS
 
 \*Students admitted under DSA/Aesthetics for Art will be placed in the Art Elective Programme (AEP). Art forms covered in the AEP include 2D (2-dimensional), 3D (3-dimensional), media (eg. photography) and time-based (e.g. video) works such as drawing and painting for 2D, sculpting and ceramics for 3D, photography and computer art for media and video for time-based\]
 
-\# Students with gymnastics background may apply for Track &amp; Field, as they will be considered strongly for the Pole Vault event.
+\# Students with long-distance running experience, potential and ability may apply for Track &amp; Field. If found suitable, they will be offered a place through Track &amp; Field but will join Cross Country as their CCA instead upon successful admission.
+
+\# Students with gymnastics background may apply for Track &amp; Field too, as they will be considered strongly for the Pole Vault event.
 
 
 **Application Process**
