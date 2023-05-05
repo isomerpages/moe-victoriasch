@@ -10,7 +10,7 @@ sections:
       background: /images/vs-openhouse2023-main-website-poster.jpg
       key_highlights:
         - title: Open House 2023
-          description: ""
+          description: Click here for more
           url: /prospective-students/openhouse-2023/
         - title: Upcoming Events
           description: Click here for more
