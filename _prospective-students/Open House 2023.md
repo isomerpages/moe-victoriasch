@@ -25,7 +25,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 ### The VS Experience
 
-* [Prospectus/Sharing](#Prospectus/Sharing)
+* [Prospectus/IP Handbook](#Prospectus/IPHandbook)
 * [The VS Experience](#TheVSExperience)
 * [Performing Arts Showcase](#PerformingArtsShowcase)
 * [Highlights](#Highlights)
@@ -33,7 +33,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 * [FAQ](#FAQ)
 
 
-<h3><b><a name="Prospectus/Sharing"></a>Prospectus/Sharing</b></h3>
+<h3><b><a name="Prospectus/IPHandbook"></a>Prospectus/IP Handbook</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
