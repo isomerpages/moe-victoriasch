@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vs-website-cover-1-2020-ce.jpg
+      background: /images/vs-openhouse2023-main-website-poster.jpg
       key_highlights:
         - title: Upcoming Events
           description: Click here for more
