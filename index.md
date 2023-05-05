@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/vs-openhouse2023-main-website-poster.jpg
       key_highlights:
-        - title: Upcoming Events
-          description: Click here for more
-          url: /upcoming-events/
         - title: Open House 2023
           description: ""
           url: /prospective-students/openhouse-2023/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Upcoming Events
+          description: Click here for more
+          url: /upcoming-events/
   - resources:
       title: Latest Announcements
       button: Read More
