@@ -9,7 +9,7 @@ description: ""
 
 ### Welcome
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wsEiDEYRKgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsEiDEYRKgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
 
@@ -40,7 +40,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion1">
     <label for="accordion1">PRINCIPAL'S SHARING</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
 	</li>  
   <li>
@@ -67,49 +67,49 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Voice of Victorians</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2KTlqbSjcjU?start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Sec 1 Orientation Camp</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/fi22cv89y1c?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
 	  <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Victoria Challenge</label>
     <div>
-     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vzhRGycmWww?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">The Victorian Anthem</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DsPZoxXya5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DsPZoxXya5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">VS145 Celebratory Video</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsK0seiNcYM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
 	  <li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Campus Tour</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/W9VOSnv9CVw?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">CCA Experiences</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/RBLtHfCGzlU?start=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
 </ul>
@@ -123,28 +123,28 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion11">
     <label for="accordion11">Band</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/65Pr8CC2zZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/65Pr8CC2zZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion12">
     <label for="accordion12">Chinese Orchestra</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/IAxoqPIjhaI?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/IAxoqPIjhaI?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
 	  <li>
     <input type="checkbox" id="accordion13">
     <label for="accordion13">Choir</label>
     <div>
-     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/TOS1XwvuCeE?start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/TOS1XwvuCeE?start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion14">
     <label for="accordion14">Drama Society</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Zx5dfB9V28A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Zx5dfB9V28A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
   </li>
 </ul>
@@ -157,36 +157,36 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <label for="accordion15">Academic Highlights</label>
     <div>
 			<ul>
-				<li><b>English & English Literature</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/b74KnvJn9u0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<li><b>English &amp; English Literature</b></li>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/b74KnvJn9u0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>MTL-  Chinese</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/yTDAf0DvXS8?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/yTDAf0DvXS8?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>MTL - Malay</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/cA1qbEnkaF4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/cA1qbEnkaF4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>MTL - Tamil</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Wui9YLT_j7s?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Wui9YLT_j7s?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Math</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/lY8Dh5hVGuY?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/lY8Dh5hVGuY?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>The Sciences</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/aPORfoAiHxM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/aPORfoAiHxM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>The Humanities</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/TQFod4makb4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-				<li><b>Aesthetics & Design</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/sRTm478BtU8?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/TQFod4makb4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+				<li><b>Aesthetics &amp; Design</b></li>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/sRTm478BtU8?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Physical Education</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/weuMW4DtKtM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/weuMW4DtKtM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Art Elective Programme</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/69O1zpTtmB4?start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/69O1zpTtmB4?start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Regional Studies Programme</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oqLaAfvvN6U?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oqLaAfvvN6U?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Aesthetics Education Programme</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/zAV25ReFMxc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/zAV25ReFMxc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>Innovation Programme</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RjThey7-n2M?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RjThey7-n2M?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>IP Cultural Immersion Trip</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oooOiaTtNVo?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oooOiaTtNVo?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 				<li><b>ICT@VS</b></li>
-				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gaPsQviX-sw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gaPsQviX-sw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 			</ul>
     </div>
 	</li>  
@@ -203,7 +203,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <div>
      <p>
 			 <b>Gentleman</b>
-			<ul>
+			</p><ul>
 				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
 				<li><a href="https://www.instagram.com/officialvscb">Concert Band</a></li>
 				<li><a href="https://www.instagram.com/officialvsco_">Chinese Orchestra</a></li>
@@ -230,11 +230,11 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 				<li><a href="https://www.instagram.com/vs.shooting.club/">Shooting</a></li>
 				<li><a href="https://youtu.be/Dl26cbtHyTc">Table Tennis</a></li>
 				<li><a href="https://www.instagram.com/victoriaschool.tennis/">Tennis</a></li>
-				<li><a href="https://youtu.be/MOpgoZUOqJk">Track & Field</a></li>
+				<li><a href="https://youtu.be/MOpgoZUOqJk">Track &amp; Field</a></li>
 				<li><a href="https://www.instagram.com/victoriaschool_volleyball/">Volleyball</a></li>
 				<li><a href="https://www.instagram.com/vswushu/">Wushu</a></li>
 			</ul>
-			</p>
+			<p></p>
     </div>
   </li>
 </ul>
@@ -246,7 +246,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion18">
     <label for="accordion18">Contact Details of Victoria Junior College</label>
     <div>
-      <p><img src="/images/VJC-Logo.gif" style="width:150px;height:150px;margin-left:15px;" align = "right"></p>
+      <p><img src="/images/VJC-Logo.gif" style="width:150px;height:150px;margin-left:15px;" align="right"></p>
 			<p>Website: <a href="https://victoriajc.moe.edu.sg/">https://victoriajc.moe.edu.sg/</a><br>Facebook: <a href="https://www.facebook.com/livelikeavictorian/">https://www.facebook.com/livelikeavictorian/</a><br> Instragram: <a href="https://www.instagram.com/victoriajc_official/">	https://www.instagram.com/victoriajc_official/</a></p>
     </div>
 	</li>  
@@ -254,9 +254,8 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion19">
     <label for="accordion19">Contact Details of Old Victorians' Associations</label>
     <div>
-      <p><img src="/images/OVA-Logo.png" style="width:150px;height:150px;margin-left:15px;" align = "right"></p>
-			<p>Facebook: <a href="https://www.facebook.com/oldvictoriansassociation/
-">https://www.facebook.com/oldvictoriansassociation/</a></p>
+      <p><img src="/images/OVA-Logo.png" style="width:150px;height:150px;margin-left:15px;" align="right"></p>
+			<p>Facebook: <a href="https://www.facebook.com/oldvictoriansassociation/">https://www.facebook.com/oldvictoriansassociation/</a></p>
     </div>
   </li>
 </ul>
@@ -336,7 +335,7 @@ Need to clarify something? Check out this FAQ Sections and you will find most of
     <div>
       <ol>
 				<li><b>Mathematics</b></li><p>Victorians are generally geared towards Math and have continually shown a strong aptitude for it. Thus, in terms of subject combinations, both Additional and Elementary Mathematics are offered to all Express students at Secondary 3. For the Integrated Programme (IP), Integrated Mathematics (a customised, integrative approach to Math learning) is offered to all IP students at Year 3.</p>
-				<li><b>The Sciences</b></li><p>Victorians are given a choice to do 2 or 3 sciences (Physics, Chemistry & Biology) depending on their aptitude.</p>
+				<li><b>The Sciences</b></li><p>Victorians are given a choice to do 2 or 3 sciences (Physics, Chemistry &amp; Biology) depending on their aptitude.</p>
 				<li><b>Higher Mother Tongue Languages (HMTL)</b></li><p>VS offers all IP students the opportunity to take HMTL with the exception of special cases such as students granted MTL Exemption by MOE. The school conducts milestone assessments to ascertain students’ suitability to continue with HMT and students may be advised to switch to MT or MTB if they do not meet the criteria for the milestone checks.</p>
 			</ol>
     </div>
@@ -354,3 +353,5 @@ Do note that there may be a need for CCA sessions to be increased during peak pe
     </div>
   </li>
 	</ul>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRs9TwgFTl757i1TkqyvbqHiQkyE__7OvttokVx5wLKQVBBLh5NMQOCERh39aiSdDxoLfJTN1Ws8-5h/pub?embedded=true"></iframe>
+	
