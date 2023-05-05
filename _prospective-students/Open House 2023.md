@@ -47,7 +47,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion3">
     <label for="accordion3">IP HANDBOOK</label>
     <div>
-     <p>Click here to [view](https://drive.google.com/file/d/1cqz2Y0r8nrguEsETIsVaLVhrrUOGWEDB/view?usp=share_link) the IP Handbook.</p>
+     <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1cqz2Y0r8nrguEsETIsVaLVhrrUOGWEDB/view?usp=share_link">view</a> the IP Handbook.</p>
     </div>
   </li>
 </ul>
