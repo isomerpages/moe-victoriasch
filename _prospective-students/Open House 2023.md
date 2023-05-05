@@ -40,7 +40,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>(insert content)</p>
+      <p></p>
     </div>
   </li>
 	  <li>
