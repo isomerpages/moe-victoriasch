@@ -37,13 +37,6 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PRINCIPAL'S SHARING</label>
-    <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/SEhtr5jM1f4?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-    </div>
-	</li>  
-  <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
