@@ -5,7 +5,7 @@ description: ""
 ---
 # **Open House 2023**
 
-![](/images/2022-eOH-microsite-head-banner-wwww.jpg)
+![](/images/victoria%20school%20open%20house%202023%20poster.png)
 
 ### Welcome
 
@@ -21,7 +21,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
 
 ### Open House Programme
 
-![](/images/2022-Open-House-Programme.png)
+![](/images/2023%20open%20house%20programme.png)
 
 ### The VS Experience
 
