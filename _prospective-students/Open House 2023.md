@@ -40,7 +40,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p></p>
+      <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1dOO_pFRqbEoFThC0ZWwpbimR0KphRXZL/view?usp=sharing">view</a> the Prospectus.</p>
     </div>
   </li>
 	  <li>
