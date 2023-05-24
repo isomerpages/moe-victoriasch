@@ -6,13 +6,35 @@ layout: post
 description: ""
 image: ""
 ---
-# **Victoria School 147th Anniversary & Speech Day On Saturday, 15 July 2023: Presentation of Award**
+# **Victoria School 147th Anniversary &amp; Speech Day On Saturday, 15 July 2023: Presentation of Award**
 
 1.	Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following [link.](https://drive.google.com/file/d/12EzNLLT-_Y2-zqk58COdjoG8Y7MB1JwB/view?usp=sharing)
 
 2.	The award(s) will be presented during the Speech Day Award Ceremony.  The details for prize recipients are as follows:
 
-![](/images/2023sd1.PNG)
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	  <thead>
+	    <tr>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Date</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting time</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting Venue</span></th>
+        </tr>
+      </thead>
+	  <tbody>
+	    <tr>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><strong>Saturday, 15 July 2023</strong></p>
+	        <p><br>
+            </p></td>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><span style="color:#000"><strong>7:15 am</strong></span> <br>
+	        <span style="color:#000">Breakfast will be provided. </span><br>
+	        <br>
+	        </p></td>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><strong>Canteen – to register and collect your certificates</strong> <br>
+	        Award ceremony will be held in the School Hall. </p></td>
+        </tr>
+      </tbody>
+</table>
+
 	 
 3.	Kindly register on time with the teachers at the reporting venue. Late comers will not be allowed to receive the prize on stage.
 
@@ -20,7 +42,22 @@ image: ""
 
 5.	If your family members are driving, please note that parking will be at Victoria Junior College (VJC).  There will be a free bus shuttle service at the various timings.
 
-![](/images/2023sd2.PNG)
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	  <thead>
+	    <tr>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" width="421"><span style="font-weight:bold">Departing from VJC to VS before the Speech Day Ceremony</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" width="420"><span style="font-weight:bold">Departing from VS to VJC after Speech Day Ceremony</span></th>
+        </tr>
+      </thead>
+	  <tbody>
+	    <tr>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p>7am, 7:30am, 8am<br>
+            </p></td>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><span style="color:#000">12:30pm, 1pm, 1:30pm</span><br>
+	        </p></td>
+        </tr>
+      </tbody>
+</table>
 
 6.	Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
  
