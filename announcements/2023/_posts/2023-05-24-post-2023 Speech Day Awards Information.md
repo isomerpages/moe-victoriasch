@@ -35,8 +35,7 @@ image: ""
       </tbody>
 </table>
 
-	 
-3.	Kindly register on time with the teachers at the reporting venue. Late comers will not be allowed to receive the prize on stage.
+3. Kindly register on time with the teachers at the reporting venue. Late comers will not be allowed to receive the prize on stage.
 
 4.	You may bring up to 4 family members for the Speech Day Ceremony. Family members attending the Speech Day Award Ceremony are requested to be seated by 8:30 am in the School Hall.  
 
@@ -59,14 +58,13 @@ image: ""
       </tbody>
 </table>
 
-6.	Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
+6. Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
  
-
 7.	As this is a formal school event, the dress code for prize recipients is formal. 
 (JC students: Current school uniform, tie and blazer/ Poly students: Collared, long sleeved formal shirt and pants with black shoes). Family members are requested to be dressed in smart casual.
 
 8.	Please email all queries to speechday@vs.moe.edu.sg. 
 
-
 9.	We look forward to welcoming you on Saturday, 15 July 2023. 
+
 10. Nil Sine Labore.
