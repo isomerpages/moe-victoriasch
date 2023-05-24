@@ -15,9 +15,9 @@ image: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	  <thead>
 	    <tr>
-	      <th style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" bgcolor="#FFFFFF"><span style="font-weight:bold">Date</span></th>
-	      <th style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" bgcolor="#FFFFFF"><span style="font-weight:bold">Reporting time</span></th>
-	      <th style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" bgcolor="#FFFFFF"><span style="font-weight:bold">Reporting Venue</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Date</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting time</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting Venue</span></th>
         </tr>
       </thead>
 	  <tbody>
@@ -42,7 +42,22 @@ image: ""
 
 5.	If your family members are driving, please note that parking will be at Victoria Junior College (VJC).  There will be a free bus shuttle service at the various timings.
 
-![](/images/2023sd2.PNG)
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	  <thead>
+	    <tr>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" width="421"><span style="font-weight:bold">Departing from VJC to VS before the Speech Day Ceremony</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" width="420"><span style="font-weight:bold">Departing from VS to VJC after Speech Day Ceremony</span></th>
+        </tr>
+      </thead>
+	  <tbody>
+	    <tr>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p>7am, 7:30am, 8am<br>
+            </p></td>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><span style="color:#000">12:30pm, 1pm, 1:30pm</span><br>
+	        </p></td>
+        </tr>
+      </tbody>
+</table>
 
 6.	Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
  
