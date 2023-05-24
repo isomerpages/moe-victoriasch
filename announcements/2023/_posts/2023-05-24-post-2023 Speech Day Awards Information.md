@@ -8,25 +8,21 @@ image: ""
 ---
 # **Victoria School 147th Anniversary & Speech Day On Saturday, 15 July 2023: Presentation of Award**
 
-1.	Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following link:
-https://drive.google.com/file/d/12EzNLLT-_Y2-zqk58COdjoG8Y7MB1JwB/view?usp=sharing
+1.	Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following [link.](https://drive.google.com/file/d/12EzNLLT-_Y2-zqk58COdjoG8Y7MB1JwB/view?usp=sharing)
 
 2.	The award(s) will be presented during the Speech Day Award Ceremony.  The details for prize recipients are as follows:
-| Date | Reporting time | Reporting Venue |
-| -------- | -------- | -------- |
-| Saturday, 15 July 2023     | 7:15 am (Breakfast will be provided.) | Canteen – to register and collect your certificates. Award ceremony will be held in the School Hall.
-   |
+
+![](/images/2023sd1.PNG)
 	 
 3.	Kindly register on time with the teachers at the reporting venue. Late comers will not be allowed to receive the prize on stage.
 
 4.	You may bring up to 4 family members for the Speech Day Ceremony. Family members attending the Speech Day Award Ceremony are requested to be seated by 8:30 am in the School Hall.  
 
 5.	If your family members are driving, please note that parking will be at Victoria Junior College (VJC).  There will be a free bus shuttle service at the various timings.
-| Departing from VJC to VS before the Speech Day Ceremony | Departing from VS to VJC after Speech Day Ceremony |
-| -------- | -------- |
-| 7am, 7:30am, 8am    | 12:30pm, 1pm, 1:30pm     |
 
-6.	Please indicate both your family members and your attendance by Monday, 26  June 2023 via this link: https://forms.gle/zCaUxMrNSLeCvQaJ6 or by scanning the QR code below.
+![](/images/2023sd2.PNG)
+
+6.	Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
  
 
 7.	As this is a formal school event, the dress code for prize recipients is formal. 
