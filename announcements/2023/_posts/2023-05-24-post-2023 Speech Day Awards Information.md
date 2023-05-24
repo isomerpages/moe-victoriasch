@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-# Victoria School 147th Anniversary & Speech Day On Saturday, 15 July 2023: Presentation of Award 
+# **Victoria School 147th Anniversary & Speech Day On Saturday, 15 July 2023: Presentation of Award**
 
 1.	Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following link:
 https://drive.google.com/file/d/12EzNLLT-_Y2-zqk58COdjoG8Y7MB1JwB/view?usp=sharing
@@ -36,5 +36,4 @@ https://drive.google.com/file/d/12EzNLLT-_Y2-zqk58COdjoG8Y7MB1JwB/view?usp=shari
 
 
 9.	We look forward to welcoming you on Saturday, 15 July 2023. 
-
-#### Nil Sine Labore.
+10. Nil Sine Labore.
