@@ -15,21 +15,21 @@ image: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	  <thead>
 	    <tr>
-	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Date</span></th>
-	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting time</span></th>
-	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting Venue</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Date</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting time</span></th>
+	      <th style="background-color:#CCC;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reporting Venue</span></th>
         </tr>
       </thead>
 	  <tbody>
 	    <tr>
-	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p><strong>Saturday, 15 July 2023</strong></p>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><strong>Saturday, 15 July 2023</strong></p>
 	        <p><br>
             </p></td>
-	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p><span style="color:#000"><strong>7:15 am</strong></span> <br>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><span style="color:#000"><strong>7:15 am</strong></span> <br>
 	        <span style="color:#000">Breakfast will be provided. </span><br>
 	        <br>
 	        </p></td>
-	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p><strong>Canteen – to register and collect your certificates</strong> <br>
+	      <td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><p><strong>Canteen – to register and collect your certificates</strong> <br>
 	        Award ceremony will be held in the School Hall. </p></td>
         </tr>
       </tbody>
