@@ -58,4 +58,5 @@ third_nav_title: School History
 
 *   G Ramachandran: Prominent Indian business leader; President, Singapore Indian Chamber of Commerce, 1966–1968, 1973–1974, 1982–1986
 *   Quek Leng Chan: Malaysian tycoon; Founder and Executive Chairman, Hong Leong Group Malaysia
-*   Lim Hua Min: Founder and Executive Chairman, PhillipCapital Group.\[39\]
+*   Lim Hua Min: Founder and Executive Chairman, PhillipCapital Group.
+*   Veluthevar Kanaga Rajan (VK Rajan): Pioneer Generation Civil Servant. [[Info]](https://www.rsis.edu.sg/event/rsis-book-launch-seminar-for-serving-singapore-my-journey-by-mr-v-k-rajan/)
