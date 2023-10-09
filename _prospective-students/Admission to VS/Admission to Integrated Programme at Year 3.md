@@ -22,7 +22,7 @@ The application period is from 17-30 October.
 
 **How do I apply?**
 
-Application is to be done strictly via this link (Application Closed). Late or incomplete application will not be considered.
+Application is to be done strictly via this [link](https://form.gov.sg/5f8d2846e73546001174e8ac). Late or incomplete application will not be considered.
 
 Shortlisted applicants will be required to sit for entrance test (English, Mathematics) and participate in an interview in November. The following supporting documents are to be submitted when the shortlisted applicants come to the school for interviews:
 
