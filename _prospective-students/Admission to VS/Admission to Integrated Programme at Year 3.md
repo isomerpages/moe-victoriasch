@@ -17,7 +17,7 @@ Applicants should have excellent PSLE and academic results in Secondary 1 and Se
 
 **Application period**
 
-The application period is from 17-30 October.
+The application period is from 16-31 Oct 2023.
 
 
 **How do I apply?**
