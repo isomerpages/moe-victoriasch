@@ -5,7 +5,7 @@ description: ""
 ---
 # **Victoria Hall**
 
-(insert pictures)
+![](/images/pix_home.jpg)
 
 <ul class="jekyllcodex_accordion">
   <li>
