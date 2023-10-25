@@ -7,3 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+Do you know of an outstanding teacher? Show your appreciation by nominating him/her for the President’s Award for Teachers (PAT) or Outstanding Youth in Education Award (OYEA) 2024!
+
+![](/images/pat%202024%20poster%20(002).jpeg)
+
+![](/images/oyea%202024%20poster%20(002).jpeg)
