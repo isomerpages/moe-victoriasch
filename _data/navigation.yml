@@ -11,10 +11,10 @@ links:
   - title: Prospective Students
     collection: prospective-students
   - title: Contact Us
-    url: mailto:victoria_sch@moe.edu.sg
+    url: https://www.victoria.moe.edu.sg/contact-us/
     sublinks:
       - title: Feedback & Enquiry
-        url: https://forms.cwp.gov.sg/victoria/feedback
+        url: "mailto: victoria_sch@moe.edu.sg"
       - title: Location Map
         url: /contact-us/location-map/
       - title: School & Office Opening Hours
