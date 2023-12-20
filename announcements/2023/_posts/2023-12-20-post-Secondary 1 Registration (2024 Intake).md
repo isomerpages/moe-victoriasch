@@ -1,5 +1,5 @@
 ---
-title: Secondary 1 Registration 2023
+title: Secondary 1 Registration (2024 Intake)
 permalink: /announcements/2023/sec-1-reg-2023/
 date: 2023-12-20
 layout: post
