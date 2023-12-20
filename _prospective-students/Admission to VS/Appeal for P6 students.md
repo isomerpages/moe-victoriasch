@@ -3,6 +3,7 @@ title: Appeal for P6 students
 permalink: /prospective-students/admission-to-VS/appeal-for-p6-students/
 description: ""
 third_nav_title: Admission to VS
+variant: markdown
 ---
 ![](/images/admissions_header_photo.jpg)
 
@@ -22,19 +23,19 @@ a. Serious Medical Conditions. Students with persistent or serious illness e.g. 
 
 b. Severe Physical Impairments. Students with physical impairments. An assessment from qualified medical professional(s) of the student's conditions and needs should be submitted. The assessment should clearly describe the extent of impairments (temporary/permanent) and the type of assistive device that the student is currently using (e.g. those requiring permanent use of a wheelchair).
 
-Victoria School is not in the list of schools which can be selected for MAE. If you would like to apply for a transfer out of Victoria School under MAE, please file your appeals at the posted school (Victoria School) in person or email [Victoria\_sch@moe.edu.sg](mailto:Victoria_sch@moe.edu.sg) by **12pm** on **22 December 2022**. The MAE application form can only be given to parents upon request. Each student is only allowed to submit one application.
+Victoria School is not in the list of schools which can be selected for MAE. If you would like to apply for a transfer out of Victoria School under MAE, please file your appeals at the posted school (Victoria School) in person or email [Victoria\_sch@moe.edu.sg](mailto:Victoria_sch@moe.edu.sg) by **12pm** on **21 December 2023**. The MAE application form can only be given to parents upon request. Each student is only allowed to submit one application.
 
 **Non-Medical Appeal Application**
 
 **Application period**
 
-The application period is from the **day of release of Secondary 1 Posting results (0900 hours) to 27 December, 1700 hours.**
+The application period is from the **day of release of Secondary 1 Posting results (0900 hours) to 26 December, 1700 hours.**
 
 Late or incomplete application will not be considered. Only shortlisted applicants will be informed.
 
 **How to apply?**
 
-Application is to be done strictly via this **(Application closed)**
+Application is to be done strictly via this [link.](https://form.gov.sg/5fd9928ee5b9110011985dd8)
 
 For your convenience, it is not necessary to submit any hardcopy appeal form personally.
 
