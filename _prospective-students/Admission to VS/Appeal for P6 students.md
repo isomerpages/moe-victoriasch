@@ -27,7 +27,7 @@ a. Serious Medical Conditions. Students with persistent or serious illness e.g. 
 
 b. Severe Physical Impairments. Students with physical impairments. An assessment from qualified medical professional(s) of the student's conditions and needs should be submitted. The assessment should clearly describe the extent of impairments (temporary/permanent) and the type of assistive device that the student is currently using (e.g. those requiring permanent use of a wheelchair).
 
-Victoria School is not in the list of schools which can be selected for MAE. If you would like to apply for a transfer out of Victoria School under MAE, please file your appeals at the posted school (Victoria School) in person or email [Victoria\_sch@moe.edu.sg](mailto:Victoria_sch@moe.edu.sg) by **12pm** on **21 December 2023**. The MAE application form can only be given to parents upon request. Each student is only allowed to submit one application.
+Victoria School is not in the list of schools which can be selected for MAE. If you would like to apply for a transfer out of Victoria School under MAE, please file your appeals at the posted school (Victoria School) in person or email [Victoria_sch@moe.edu.sg](mailto:Victoria_sch@moe.edu.sg) by **12pm** on **21 December 2023**. The MAE application form can only be given to parents upon request. Each student is only allowed to submit one application.
 
 **Non-Medical Appeal Application**
 
@@ -39,7 +39,7 @@ Late or incomplete application will not be considered. Only shortlisted applican
 
 **How to apply?**
 
-Application is to be done strictly via this [link.](https://form.gov.sg/5fd9928ee5b9110011985dd8)
+Application is to be done strictly via this link (Application is closed).
 
 For your convenience, it is not necessary to submit any hardcopy appeal form personally.
 

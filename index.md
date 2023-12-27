@@ -12,9 +12,9 @@ sections:
         - title: Open House 2023
           description: Click here for more
           url: /prospective-students/openhouse-2023/
-        - title: Appeals for Transfer
+        - title: UPCOMING EVENTS
           description: Click here for more
-          url: /prospective-students/admission-to-VS/appeal-for-p6-students/
+          url: /upcoming-events/
   - resources:
       title: Latest Announcements
       button: Read More
