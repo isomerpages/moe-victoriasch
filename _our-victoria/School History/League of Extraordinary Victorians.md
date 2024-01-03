@@ -3,6 +3,7 @@ title: League of Extraordinary Victorians
 permalink: /our-victoria/school-history/league-of-extraordinary-victorians/
 description: ""
 third_nav_title: School History
+variant: markdown
 ---
 # **League of Extraordinary Victorians**
 
@@ -13,7 +14,7 @@ third_nav_title: School History
 *   C V Devan Nair: Third President of Singapore, 1981–1985
 *   S R Nathan: Sixth President of Singapore, 1999–2011
 
-### Politics
+### Politics and Public Service
 
 *   Abdul Samad Ismail: Leading Malay politician in 1950s-1960s; Founding member, People’s Action Party; Malaysia Journalism Laureate
 *   S Dhanabalan: Cabinet Minister, 1980–1993; Member of Parliament, 1978–1996; Chairman, Temasek Holdings, 1996-
@@ -21,7 +22,9 @@ third_nav_title: School History
 *   Abdul Aziz Ishak: Cabinet Minister, Malaysia, 1955–1963
 *   Sha’ari Tadin: First Malay graduate Member of Parliament, 1968; Senior Parliamentary Secretary and Member of Parliament, 1968–1976
 *   Dr Kanwaljit Soin (Ms): First female Nominated Member of Parliament, 1992–1996
+*   Veluthevar Kanaga Rajan (VK Rajan): Pioneer Generation Civil Servant. [[Info]](https://www.rsis.edu.sg/event/rsis-book-launch-seminar-for-serving-singapore-my-journey-by-mr-v-k-rajan/)
 
+### Government
 ### Government
 
 *   Dr Phay Seng Whatt: Chairman, Public Service Commission, 1962–1975
@@ -38,6 +41,7 @@ third_nav_title: School History
 *   Air Vice Marshal Sulaiman Sujak: Malaysia first non-British Chief of Air Force, Royal Malaysian Air Force, 1967–1976; Deputy Chairman, Malaysia Airlines, 1977–1991
 *   MG Syed Mohamed Syed Ahmad Alsagoff: Commander, Singapore armed forces when Singapore was part of Malaysia, 1963–1965
 *   Tee Tua Ba: Commissioner of Police, Singapore Police Force, 1992–1997
+*   MG David Neo, Chief of Army, Singapore Army, 2022 – 
 
 ### Legal
 
@@ -59,4 +63,3 @@ third_nav_title: School History
 *   G Ramachandran: Prominent Indian business leader; President, Singapore Indian Chamber of Commerce, 1966–1968, 1973–1974, 1982–1986
 *   Quek Leng Chan: Malaysian tycoon; Founder and Executive Chairman, Hong Leong Group Malaysia
 *   Lim Hua Min: Founder and Executive Chairman, PhillipCapital Group.
-*   Veluthevar Kanaga Rajan (VK Rajan): Pioneer Generation Civil Servant. [[Info]](https://www.rsis.edu.sg/event/rsis-book-launch-seminar-for-serving-singapore-my-journey-by-mr-v-k-rajan/)

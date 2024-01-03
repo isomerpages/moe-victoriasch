@@ -1,0 +1,5 @@
+collections:
+  students:
+    output: true
+    order:
+      - Counselling at Victoria School.md
