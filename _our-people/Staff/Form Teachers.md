@@ -19,9 +19,9 @@ variant: markdown
 	  </tr>
 	  <tr>
 	    <td bgcolor="#E9E9E9" width="39">1A</td>
-	    <td bgcolor="#E9E9E9">&nbsp;Mr Koh Chee Kiang&nbsp;</td>
-	    <td bgcolor="#E9E9E9">Mr Muhamad    Zahirrudin B Mohamad Ayub</td>
-	    <td bgcolor="#E9E9E9">&nbsp;</td>
+	    <td bgcolor="#E9E9E9" width="162">&nbsp;Mr Koh Chee Kiang&nbsp;</td>
+	    <td bgcolor="#E9E9E9" width="244">Mr Muhamad    Zahirrudin B Mohamad Ayub</td>
+	    <td bgcolor="#E9E9E9" width="110">&nbsp;</td>
       </tr>
 	  <tr>
 	    <td bgcolor="#E9E9E9">1B</td>
@@ -89,8 +89,8 @@ variant: markdown
   </tr>
     <tr>
       <td bgcolor="#E9E9E9" width="39">2A</td>
-      <td bgcolor="#E9E9E9">Mr Saw En Tha    Khu</td>
-      <td bgcolor="#E9E9E9">Ms Hashimah</td>
+      <td bgcolor="#E9E9E9" width="163">Mr Saw En Tha    Khu</td>
+      <td bgcolor="#E9E9E9" width="183">Ms Hashimah</td>
       <td bgcolor="#E9E9E9">Mdm    Nabilah&nbsp;</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ variant: markdown
       <td bgcolor="#E9E9E9">2C</td>
       <td bgcolor="#E9E9E9">Mr Sukhairan</td>
       <td bgcolor="#E9E9E9">-</td>
-      <td bgcolor="#E9E9E9" width="133">Mr    Khairul (AED)</td>
+      <td bgcolor="#E9E9E9" width="129">Mr    Khairul (AED)</td>
     </tr>
     <tr>
       <td bgcolor="#E9E9E9">2D</td>
@@ -160,10 +160,10 @@ variant: markdown
       <td bgcolor="#D18585" colspan="4">Asst. Year Head: Mr Tan Wil Beng</td>
     </tr>
     <tr>
-      <td bgcolor="#E9E9E9" width="172">3A</td>
-      <td bgcolor="#E9E9E9" width="172">Ms Marliana</td>
-      <td bgcolor="#E9E9E9" width="172">Mr Gordon Oei</td>
-      <td bgcolor="#E9E9E9" width="172">&nbsp;</td>
+      <td bgcolor="#E9E9E9" width="37">3A</td>
+      <td bgcolor="#E9E9E9" width="165">Ms Marliana</td>
+      <td bgcolor="#E9E9E9" width="183">Mr Gordon Oei</td>
+      <td bgcolor="#E9E9E9" width="129">&nbsp;</td>
     </tr>
     <tr>
       <td bgcolor="#E9E9E9">3B</td>
@@ -229,10 +229,10 @@ variant: markdown
   <td bgcolor="#D18585" colspan="4">Year Head:    Mr Zuraimi</td>
 </tr>
     <tr>
-      <td bgcolor="#E9E9E9" width="39">4A</td>
-      <td bgcolor="#E9E9E9" width="39">Mr Khoo Kay    Yong</td>
-      <td bgcolor="#E9E9E9" width="39">Mr Clarence Toh</td>
-      <td bgcolor="#E9E9E9" width="39">&nbsp;</td>
+      <td bgcolor="#E9E9E9" width="38">4A</td>
+      <td bgcolor="#E9E9E9" width="164">Mr Khoo Kay    Yong</td>
+      <td bgcolor="#E9E9E9" width="185">Mr Clarence Toh</td>
+      <td bgcolor="#E9E9E9" width="132">&nbsp;</td>
     </tr>
     <tr>
       <td bgcolor="#E9E9E9">4B</td>
