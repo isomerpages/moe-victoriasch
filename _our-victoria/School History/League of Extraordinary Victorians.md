@@ -25,6 +25,7 @@ variant: markdown
 *   Veluthevar Kanaga Rajan (VK Rajan): Pioneer Generation Civil Servant. [[Info]](https://www.rsis.edu.sg/event/rsis-book-launch-seminar-for-serving-singapore-my-journey-by-mr-v-k-rajan/)
 
 ### Government
+### Government
 
 *   Dr Phay Seng Whatt: Chairman, Public Service Commission, 1962–1975
 *   Dr Han Cheng Fong: Permanent Secretary, 1978–1984; State Scholar, 1962
@@ -40,6 +41,7 @@ variant: markdown
 *   Air Vice Marshal Sulaiman Sujak: Malaysia first non-British Chief of Air Force, Royal Malaysian Air Force, 1967–1976; Deputy Chairman, Malaysia Airlines, 1977–1991
 *   MG Syed Mohamed Syed Ahmad Alsagoff: Commander, Singapore armed forces when Singapore was part of Malaysia, 1963–1965
 *   Tee Tua Ba: Commissioner of Police, Singapore Police Force, 1992–1997
+*   MG David Neo, Chief of Army, Singapore Army, 2022 – 
 
 ### Legal
 
