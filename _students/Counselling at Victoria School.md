@@ -1,6 +1,6 @@
 ---
 title: Counselling at Victoria School
-permalink: /students/counselling-at-vs/
+permalink: /students/counseling-at-vs/
 variant: tiptap
 description: ""
 ---
