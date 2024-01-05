@@ -2,11 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Counselling at Victoria School.md
+      - Academic Development/.keep
       - Academic Development/‘O’ Level Programme.md
       - Academic Development/Integrated Programme.md
       - Academic Development/Departments.md
-      - Academic Development/.keep
+      - Counselling at Victoria School.md
+      - Student Development/.keep
       - Student Development/Arts Education.md
       - Student Development/Character & Leadership Education.md
       - Student Development/Co curricular Activities.md
@@ -15,11 +16,10 @@ collections:
       - Student Development/Social Innovation.md
       - Student Development/Environmental Education.md
       - Student Development/Sexuality Education.md
-      - Student Development/.keep
+      - Talent Programmes/.keep
       - Talent Programmes/Art Elective Programme (AEP).md
       - Talent Programmes/Regional Studies Programme.md
       - Talent Programmes/School based Talent Development Programmes.md
-      - Talent Programmes/.keep
+      - Special Programmes/.keep
       - Special Programmes/Boarding Programme.md
       - Special Programmes/Beyond Borders Programme.md
-      - Special Programmes/.keep
