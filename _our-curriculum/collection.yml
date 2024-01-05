@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Counselling at Victoria School.md
       - Academic Development/‘O’ Level Programme.md
       - Academic Development/Integrated Programme.md
       - Academic Development/Departments.md
