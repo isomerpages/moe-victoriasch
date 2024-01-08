@@ -19,7 +19,7 @@ variant: markdown
 	  </tr>
 	  <tr>
 	    <td bgcolor="#E9E9E9" width="39">1A</td>
-	    <td bgcolor="#E9E9E9" width="162">&nbsp;Mr Koh Chee Kiang&nbsp;</td>
+	    <td bgcolor="#E9E9E9" width="162">Mr Koh Chee Kiang</td>
 	    <td bgcolor="#E9E9E9" width="244">Mr Muhamad    Zahirrudin B Mohamad Ayub</td>
 	    <td bgcolor="#E9E9E9" width="110">&nbsp;</td>
       </tr>
