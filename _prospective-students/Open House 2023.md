@@ -2,6 +2,7 @@
 title: Open House 2023
 permalink: /prospective-students/openhouse-2023/
 description: ""
+variant: markdown
 ---
 # **Open House 2023**
 
@@ -40,7 +41,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1dOO_pFRqbEoFThC0ZWwpbimR0KphRXZL/view?usp=sharing">view</a> the Prospectus.</p>
+      <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1sgxZsuXitcQgRgD2FbWP9Sbw8vJ0fzMb/view?usp=drive_link">view</a> the Prospectus.</p>
     </div>
   </li>
 	  <li>
