@@ -3,6 +3,7 @@ title: Sec 1 (Year 1 ) Admission via PSLE results
 permalink: /prospective-students/admission-to-VS/sec-1-year-1-admission-via-psle-results/
 description: ""
 third_nav_title: Admission to VS
+variant: markdown
 ---
 ![](/images/admissions_header_photo.jpg)
 
@@ -26,7 +27,7 @@ For more information
 
 For more information on our ‘O’ Level Programme and the VCA IP, please refer to the following:
 
-– Prospectus: Click [**here**](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/2020-VS-Prospectus.pdf) to download - file exceeds 5MB.  
+– Prospectus: Click [**here**](https://drive.google.com/file/d/1sgxZsuXitcQgRgD2FbWP9Sbw8vJ0fzMb/view?usp=drive_link) to download - file exceeds 5MB.  
 – Information on the Integrated Programme: Click [**here**](/our-curriculum/academic-development/integrated-programme/).  
 – Frequently Asked Questions: Click [**here**](/files/FAQs.pdf) to download.  
 – 95.8 FM Radio Interview on VCA-IP. Click [**here**](https://victoria.moe.edu.sg/wp-content/uploads/2021/12/FM-958-VCA-Interview-23112011.mp3) - unable to upload MP3 file.
