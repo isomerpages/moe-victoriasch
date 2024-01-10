@@ -2,6 +2,7 @@
 title: Victoria Hall
 permalink: /contact-us/victoria-hall/
 description: ""
+variant: markdown
 ---
 # **Victoria Hall**
 
@@ -121,7 +122,7 @@ description: ""
     <label for="accordion4">Contact Us</label>
     <div>
 			<p><b>Address</b><br>4 Siglap Link<br>Singapore 448879</p>
-			<p><b>Getting Here</b><img src="/images/map-9522.png"></p>
+			<p><b>Getting Here</b><img src="/images/map-9522u.png"></p>
 			<p><b>Contact Number</b><br>(65) 6245 6369</p>
 			<p><b>Email Address</b><br><a href="MOE_vshostel@moe.edu.sg">MOE_vshostel@moe.edu.sg</a></p>
     </div>
