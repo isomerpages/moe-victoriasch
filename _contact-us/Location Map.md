@@ -2,6 +2,7 @@
 title: Location Map
 permalink: /contact-us/location-map/
 description: ""
+variant: markdown
 ---
 # **Location Map**
 
@@ -9,7 +10,4 @@ description: ""
 
 ### Victoria School Road Map
 
-![](/images/map-9522.png)
-
-
-
+![](/images/map_9522u.png)
