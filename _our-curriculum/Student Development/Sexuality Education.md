@@ -17,9 +17,10 @@ variant: markdown
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goals of Sexuality Education are to:
 
-*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
-*   To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
+*   Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
+*   Guide students to make wise, informed and responsible decisions on sexuality matters.
+*   Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
+
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The key messages of Sexuality Education are:
 
@@ -72,7 +73,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 **_eTeens_**&nbsp;**Programme**:  
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.  
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.  
-**At Victoria School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+**At Victoria School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 
 
