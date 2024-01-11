@@ -183,6 +183,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here.](/files/Annex_A.pdf) The completed form is to be submitted by 31/01/2024.  
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](/files/Annex_B.pdf) The completed form is to be submitted by 31/01/2024.  
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6291 2965 and speak to Ms Seow Shi Jin (Subject Head, Character &amp; Citizenship Education) or email at seow_shi_jin@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 If you wish to opt your child out of the workshop provided, you can download the opt out forms below:  
