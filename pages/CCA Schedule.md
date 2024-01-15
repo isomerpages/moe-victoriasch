@@ -2,7 +2,8 @@
 title: CCA Schedule
 permalink: /cca-schedule/
 description: ""
+variant: markdown
 ---
 # **CCA Schedule**
 
-Click [here](/files/2023-cca-deployment-schedule_sem-1-for-publishing-26-jan-23.pdf) to view the 2023 list of CCA Teacher-in-charge and Schedule.
+Click [here](/files/2024_CCA_Deployment___Schedule_Semester_1__for_publishing_11_Jan_24_.pdf) to view the 2024 list of CCA Teacher-in-charge and Schedule.
