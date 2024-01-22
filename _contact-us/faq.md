@@ -23,7 +23,7 @@ You can refer to the admission information below:-
 
 3\.**How much is the school fees at Victoria School?**
 
-School fees range from $28 to $1773 a month. [Learn more about school fees.](/admissions/financial-information-assistance/)
+School fees range from $28 to $1933 a month. [Learn more about school fees.](/admissions/financial-information-assistance/)
 
 4\.**What are the school hours like in Victoria School?**
 
