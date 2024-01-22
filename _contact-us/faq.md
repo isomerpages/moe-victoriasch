@@ -17,7 +17,7 @@ You can refer to the admission information below:-
 
 * [Direct School Admissions to Sec 1 / Year 1](/prospective-students/admission-to-VS/direct-school-admissions-to-sec-1-year-1/)
 * [Sec 1 / Year 1 Admission via PSLE results](/prospective-students/admission-to-VS/sec-1-year-1-admission-via-psle-results/)
-* [Appeal for P6 Students](/prospective-students/admission-to-VS/appeal-for-p6-students//prospective-students/admission-to-VS/appeal-for-p6-students/)
+* [Appeal for P6 Students](/prospective-students/admission-to-VS/appeal-for-p6-students/)
 * [Admission to Integrated Programme at Year 3](/prospective-students/admission-to-VS/admission-to-integrated-programme-at-year-3/)
 * [Returning Sporean and Int Students](/prospective-students/admission-to-VS/returning-sporean-and-int-students/)
 
