@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 # **Frequently Asked Questions (FAQs)**
 
@@ -14,16 +15,15 @@ permalink: /faq/
 
 You can refer to the admission information below:-
 
-* [Direct School Admissions to Sec 1 / Year 1](/admissions/direct-school-admissions-to-sec-1-year-1/)
-* [Sec 1 / Year 1 Admission via PSLE results](/admissions/sec-1-year-1-admission-via-psle-results/)
-* [Appeal for P6 Students](/admissions/sec-1-year-1-admission-via-psle-results/appeal-for-p6-students/)
-* [Admission to Integrated Programme at Year 3](/admissions/admission-to-integrated-programme-at-year-3/)
-* [School Transfer](/admissions/school-transfer/)
-* [Returning Sporean and Int Students](/returning-sporean-and-int-students/)
+* [Direct School Admissions to Sec 1 / Year 1](/prospective-students/admission-to-VS/direct-school-admissions-to-sec-1-year-1/)
+* [Sec 1 / Year 1 Admission via PSLE results](/prospective-students/admission-to-VS/sec-1-year-1-admission-via-psle-results/)
+* [Appeal for P6 Students](/prospective-students/admission-to-VS/appeal-for-p6-students//prospective-students/admission-to-VS/appeal-for-p6-students/)
+* [Admission to Integrated Programme at Year 3](/prospective-students/admission-to-VS/admission-to-integrated-programme-at-year-3/)
+* [Returning Sporean and Int Students](/prospective-students/admission-to-VS/returning-sporean-and-int-students/)
 
 3\.**How much is the school fees at Victoria School?**
 
-School fees range from $28 to $1773 a month. [Learn more about school fees.](/admissions/financial-information-assistance/)
+School fees range from $28 to $1933 a month. [Learn more about school fees.](/admissions/financial-information-assistance/)
 
 4\.**What are the school hours like in Victoria School?**
 

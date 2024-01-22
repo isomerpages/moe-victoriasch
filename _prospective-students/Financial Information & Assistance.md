@@ -2,6 +2,7 @@
 title: Financial Information & Assistance
 permalink: /admissions/financial-information-assistance/
 description: ""
+variant: markdown
 ---
 # **Financial Information & Assistance**
 
@@ -14,9 +15,9 @@ description: ""
 The monthly fees for Victoria School are the same for students in the ‘O’ Level Programme and the Integrated Programme. For 2023, the school fees are as follows:
 
 *   Singapore citizen: $28
-*   Permanent Resident: $523
-*   International Student (ASEAN): $923
-*   International Students: $1773
+*   Permanent Resident: $583
+*   International Student (ASEAN): $993
+*   International Students: $1933
 
 The fees payable include standard miscellaneous fees ($10), 2nd-tier miscellaneous fees ($10) and Autonomous School Fees ($3)
 
