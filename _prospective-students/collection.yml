@@ -1,0 +1,12 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - Admission to VS/.keep
+      - Admission to VS/Direct School Admissions to Sec 1 (Year 1).md
+      - Admission to VS/Sec 1 (Year 1 ) Admission via PSLE results.md
+      - Admission to VS/Appeal for P6 students.md
+      - Admission to VS/Admission to Integrated Programme at Year 3.md
+      - Admission to VS/Returning Sporean and Int Students.md
+      - Open House 2023.md
+      - Financial Information & Assistance.md

@@ -1,0 +1,36 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Infocomm Club/AV Club.md
+      - Infocomm Club/Chess Club.md
+      - Infocomm Club/Debate Society.md
+      - Infocomm Club/Infocomm Club.md
+      - Infocomm Club/.keep
+      - Visual & Performing Arts/Chinese Orchestra.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/English Drama.md
+      - Visual & Performing Arts/Photography Club.md
+      - Visual & Performing Arts/.keep
+      - Uniformed Group/Boys' Brigade.md
+      - Uniformed Group/NCC Land.md
+      - Uniformed Group/NCC Sea.md
+      - Uniformed Group/NPCC.md
+      - Uniformed Group/Red Cross.md
+      - Uniformed Group/Scouts.md
+      - Uniformed Group/.keep
+      - Sports/Badminton.md
+      - Sports/Cricket.md
+      - Sports/Cross Country.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Hockey.md
+      - Sports/Sailing.md
+      - Sports/Shooting.md
+      - Sports/Table Tennis.md
+      - Sports/Tennis.md
+      - Sports/Track & Field.md
+      - Sports/Volleyball.md
+      - Sports/Wushu.md
+      - Sports/.keep

@@ -1,0 +1,25 @@
+logo: /images/vslogo_lockup1-1-1.jpg
+links:
+  - title: Our Victoria
+    collection: our-victoria
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Community
+    collection: our-community
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Contact Us
+    url: https://www.victoria.moe.edu.sg/contact-us/
+    sublinks:
+      - title: Feedback & Enquiry
+        url: "mailto: victoria_sch@moe.edu.sg"
+      - title: Location Map
+        url: /contact-us/location-map/
+      - title: School & Office Opening Hours
+        url: /contact-us/school-office-opening-hours/
+      - title: Victoria Hall
+        url: /contact-us/victoria-hall/
+      - title: Frequently Asked Qns (FAQs)
+        url: /faq/
