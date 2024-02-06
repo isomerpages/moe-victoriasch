@@ -16,7 +16,7 @@ variant: markdown
     <td valign="top" width="253"><p><strong>Requirement</strong></p></td>
   </tr>
   <tr>
-    <td valign="top" width="162"><p><strong>Chinese Noodle Stall</strong></p></td>
+    <td valign="top" width="162"><p><strong>Mixed Rice Stall Non-Halal</strong></p></td>
     <td valign="top" width="197"><p>29 February 2024 (Thursday)</p></td>
     <td valign="top" width="253"><p>Menu may include varieties such as wanton noodle, fish    soup noodle, ban mian, hor fun, laksa, tom yum noodle etc.</p></td>
   </tr>
