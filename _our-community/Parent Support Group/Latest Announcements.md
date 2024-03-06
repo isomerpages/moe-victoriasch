@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-![](/images/SecYear1_Coffee_talk_Programme_Agenda_on_18_Jan_2024.jpg)
+![](/images/VS_PSG_2D1N_camp__8_9_Mar_2024_.jpg)
