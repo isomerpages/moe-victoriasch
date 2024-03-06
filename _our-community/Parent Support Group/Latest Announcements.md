@@ -5,4 +5,5 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-![](/images/SecYear1_Coffee_talk_Programme_Agenda_on_18_Jan_2024.jpg)
+##### VSPSG 2D1N Parent and Teen Bonding Camp (8-9 Mar 2024)
+![](/images/VS_PSG_2D1N_camp__8_9_Mar_2024_.jpg)
