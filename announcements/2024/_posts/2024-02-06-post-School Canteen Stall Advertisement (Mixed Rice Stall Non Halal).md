@@ -64,7 +64,7 @@ variant: markdown
 <ul type="disc">
   <li>Only shortlisted applicants will       be interviewed and are to provide food sampling.</li>
   <li>Applicants are to present samples       of their proposed food items (at applicant’s own expense) for food tasting       session by the Canteen Selection Committee.</li>
-  <li>Successful applicant will       commence operation of the stall from <strong><u>18 March 2024 (Monday)</u></strong>.</li>
+  <li>Successful applicant will       commence operation of the stall from <strong><u>29 April 2024 (Monday)</u></strong>.</li>
 </ul>
 <p><strong><u>Closing Date</u></strong><strong> </strong> <br>
   15 April 2024 (Monday)<br>
