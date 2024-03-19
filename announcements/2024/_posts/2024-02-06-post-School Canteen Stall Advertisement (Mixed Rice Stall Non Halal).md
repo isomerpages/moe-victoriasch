@@ -67,5 +67,5 @@ variant: markdown
   <li>Successful applicant will       commence operation of the stall from <strong><u>18 March 2024 (Monday)</u></strong>.</li>
 </ul>
 <p><strong><u>Closing Date</u></strong><strong> </strong> <br>
-  29 February 2024 (Thursday)<br>
+  15 April 2024 (Monday)<br>
   For further enquiries,  please contact Mr Goh Khee Seng, the Operations Manager at 6291 2965. Thank  you.</p>
