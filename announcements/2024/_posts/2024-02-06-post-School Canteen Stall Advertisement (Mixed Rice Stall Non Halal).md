@@ -17,7 +17,7 @@ variant: markdown
   </tr>
   <tr>
     <td valign="top" width="162"><p><strong>Mixed Rice Stall Non-Halal</strong></p></td>
-    <td valign="top" width="197"><p>29 February 2024 (Thursday)</p></td>
+    <td valign="top" width="197"><p>15 April 2024 (Monday)</p></td>
     <td valign="top" width="253"><p>Nil</p></td>
   </tr>
 </tbody></table>
