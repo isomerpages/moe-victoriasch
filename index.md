@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Victoria_School_Open_House_2024_Banner_.png
+      background: /images/Victoria_School_Open_House_2024_Banner.png
       variant: image
   - resources:
       title: Latest Announcements
