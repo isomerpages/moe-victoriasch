@@ -7,14 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vs-openhouse2023-main-website-poster.jpg
-      key_highlights:
-        - title: Open House 2023
-          description: Click here for more
-          url: /prospective-students/openhouse-2023/
-        - title: UPCOMING EVENTS
-          description: Click here for more
-          url: /upcoming-events/
+      background: /images/Victoria_School_Open_House_2024_Banner_.png
+      variant: image
   - resources:
       title: Latest Announcements
       button: Read More
