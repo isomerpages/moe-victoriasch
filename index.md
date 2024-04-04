@@ -12,6 +12,7 @@ sections:
         - title: UPCOMING EVENTS
           description: Click here for more
           url: /upcoming-events/
+      variant: image
   - resources:
       title: Latest Announcements
       button: Read More
