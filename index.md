@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Victoria_School_Open_House_2024_Banner_.png
-      key_highlights:
-        - title: UPCOMING EVENTS
-          description: Click here for more
-          url: /upcoming-events/
       variant: image
   - resources:
       title: Latest Announcements
