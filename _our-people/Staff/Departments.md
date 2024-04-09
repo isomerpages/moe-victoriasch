@@ -299,7 +299,7 @@ variant: markdown
           <tr>
             <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#3F3F3F">80</span></td>
             <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#3F3F3F">Miss Boey Peck Kay Peggy</span></td>
-            <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#3F3F3F">Teacher (Adjunct)</span></td>
+            <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#3F3F3F">Teacher</span></td>
             <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;color:#3F3F3F;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#3F3F3F">PE</span></td>
           </tr>
           <tr>
