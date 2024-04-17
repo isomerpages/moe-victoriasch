@@ -1,5 +1,6 @@
 ---
-title: School Canteen Stall Advertisement (Mixed Rice Stall Non Halal)
+title: (Application Closed) School Canteen Stall Advertisement (Mixed Rice Stall
+  Non Halal)
 permalink: /announcements/2024/school-canteen-mixed-rice-stall-non-halal/
 date: 2024-02-06
 layout: post
