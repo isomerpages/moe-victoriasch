@@ -15,7 +15,8 @@ sections:
           url: /upcoming-events/
         - title: OPEN HOUSE 2024
           description: 18 MAY 2024 (SATURDAY)
-          url: /prospective-students/openhouse-2023/
+          url: /prospective-students/openhouse-2024/
+      url: /prospective-students/openhouse-2024/
   - resources:
       title: Latest Announcements
       button: Read More
