@@ -19,6 +19,10 @@ sections:
           url: /prospective-students/openhouse-2024/
       url: /prospective-students/openhouse-2024/
       subtitle: Click here for more information
+      backgroundColor: gray
+      size: sm
+      alignment: right
+      button: Click here
   - resources:
       title: Latest Announcements
       button: Read More
