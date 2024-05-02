@@ -17,6 +17,7 @@ sections:
           description: 18 MAY 2024 (SATURDAY)
           url: /prospective-students/openhouse-2024/
       url: /prospective-students/openhouse-2024/
+      subtitle: Click here for more information
   - resources:
       title: Latest Announcements
       button: Read More
