@@ -4,11 +4,12 @@ title: Victoria School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Open House 2024 - 18 May 2024 (Saturday), 8am to 12pm. Click on
+  the banner below for more information.
 sections:
   - hero:
       background: /images/Victoria_School_Open_House_2024_Website_Banner_.jpg
-      variant: center
+      variant: image
       key_highlights:
         - title: UPCOMING EVENTS
           description: ""
