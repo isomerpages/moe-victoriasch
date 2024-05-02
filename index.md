@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /upcoming-events/
         - title: OPEN HOUSE 2024
-          description: 18 MAY 2024 (SATURDAY)
+          description: ""
           url: /prospective-students/openhouse-2024/
       url: /prospective-students/openhouse-2024/
       subtitle: Click here for more information
