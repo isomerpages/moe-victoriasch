@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Open House 2024.md
       - Admission to VS/.keep
       - Admission to VS/Direct School Admissions to Sec 1 (Year 1).md
       - Admission to VS/Sec 1 (Year 1 ) Admission via PSLE results.md
