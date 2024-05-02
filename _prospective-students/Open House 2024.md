@@ -202,7 +202,7 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professio
 				<li><a href="https://www.instagram.com/vsdrama/">Drama Society</a></li>
 				<li><a href="https://www.instagram.com/officialvsav">Audi Visual Club</a></li>
 				<li><a href="https://www.instagram.com/vsifc/">Infocomm Club</a></li>
-				<li><a href="https://www.instagram.com/vsphotogclub">Photograghy Club</a></li>
+				<li><a href="https://www.instagram.com/vsphotogclub">Photography Club</a></li>
 				<b>Professional</b>
 				<li><a href="https://www.instagram.com/officialvsarrowscouts">Scouts</a></li>
 				<li><a href="https://www.instagram.com/bb2ndcoysg">Boys Brigade</a></li>
