@@ -1,6 +1,6 @@
 ---
 title: Open House 2024
-permalink: /prospective-students/openhouse-2023/
+permalink: /prospective-students/openhouse-2024/
 variant: markdown
 description: ""
 ---
