@@ -7,7 +7,7 @@ permalink: /
 notification: Open House 2024 - 18 May 2024 (Saturday), 8am to 12pm.
 sections:
   - hero:
-      background: /images/Victoria_School_Open_House_2024_Website_Banner_.jpg
+      background: /images/victoria_school_open_house_2024_website_banner.jpg
       variant: center
       key_highlights:
         - title: UPCOMING EVENTS
