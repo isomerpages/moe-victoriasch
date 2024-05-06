@@ -16,12 +16,12 @@ sections:
         - title: UPCOMING EVENTS
           description: ""
           url: /upcoming-events/
-        - title: Key Highlight Title
+        - title: Follow us on Instagram
+          description: ""
+          url: https://instagram.com/victoriaschoolsg
+        - title: Follow us on Facebook
           description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+          url: https://www.facebook.com/victoriaschoolsingapore
       url: /prospective-students/openhouse-2024/
       backgroundColor: gray
       size: sm
