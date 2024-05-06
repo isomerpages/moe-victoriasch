@@ -26,13 +26,6 @@ sections:
       backgroundColor: gray
       size: sm
       alignment: right
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       title: Latest Announcements
       button: Read More
