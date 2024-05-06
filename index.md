@@ -16,6 +16,12 @@ sections:
         - title: UPCOMING EVENTS
           description: ""
           url: /upcoming-events/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       url: /prospective-students/openhouse-2024/
       backgroundColor: gray
       size: sm
