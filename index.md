@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/VS_Open_House_2024_Web_Banner.jpg
-      variant: image
+      variant: center
       key_highlights:
         - title: OPEN HOUSE 2024
           description: 18 MAY 2024 (SAT), 8AM TO 12PM
@@ -20,6 +20,7 @@ sections:
       backgroundColor: gray
       size: sm
       alignment: right
+      title: "  .bg-hero {     background-position: center center;   }"
   - resources:
       title: Latest Announcements
       button: Read More
