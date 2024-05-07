@@ -3,12 +3,13 @@ title: Direct School Admissions to Sec 1 (Year 1)
 permalink: /prospective-students/admission-to-VS/direct-school-admissions-to-sec-1-year-1/
 description: ""
 third_nav_title: Admission to VS
+variant: markdown
 ---
 ![](/images/admissions_header_photo.jpg)
 
 # **Direct School Admissions to Sec 1 (Year 1)**
 
-### Direct School Admission to 2024 Secondary 1
+### Direct School Admission to 2025 Secondary 1
 
 **Direct School Admission – Secondary (DSA-Sec) Exercise**
 
@@ -24,7 +25,7 @@ third_nav_title: Admission to VS
 
 **DSA-Sec to Victoria School: Domains**
 
-5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2024.
+5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2025.
 
 6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
     a.  High intellectual potential and ability,      
@@ -55,11 +56,11 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 **Application Process**
 
-8\.  **Online application (4 May 2023, 11am to 31 May 2023, 3pm)**&nbsp;through the online DSA-Sec Portal. The application is free-of-charge and will be open from (4 May to 31 May).&nbsp; For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).&nbsp; Only one parent’s SingPass is needed to login to the portal. Find out&nbsp;[how to register for a SingPass](https://www.singpass.gov.sg/singpass/common/supportmain)&nbsp;if you don't have one -&nbsp;[https://www.singpass.gov.sg/singpass/common/supportmain](https://www.singpass.gov.sg/singpass/common/supportmain).&nbsp; Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at:&nbsp;[_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application).     
+8\.  **Online application (7 May 2024, 11am to 3 June 2024, 3pm)**&nbsp;through the online DSA-Sec Portal. The application is free-of-charge and will be open from (7 May to 3 June).&nbsp; For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).&nbsp; Only one parent’s SingPass is needed to login to the portal. Find out&nbsp;[how to register for a SingPass](https://www.singpass.gov.sg/singpass/common/supportmain)&nbsp;if you don't have one -&nbsp;[https://www.singpass.gov.sg/singpass/common/supportmain](https://www.singpass.gov.sg/singpass/common/supportmain).&nbsp; Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at:&nbsp;[_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application).     
 
 9\.  There is no need to submit any supporting documents during the online application stage. Your child's primary school records (for example, P5 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools. You may provide information for up to 10 non-school based activities and achievements which are related to your child's chosen talent areas.
 
-10\.  An applicant can indicate&nbsp;up to 3 choices. Each choice consists of a secondary school and a talent area offered by the secondary school.&nbsp; Of the 3 choices, an applicant may use a maximum of 2 choices to apply to the same school, for two different talent areas of that school.
+10\.  An applicant can indicate&nbsp;up to 3 choices. A maximum of 2 choices for the same school under two different talent areas of that school.
 
 11\.  As Victoria School is a dual track school, applicants are to indicate a preference for O Level or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
 
