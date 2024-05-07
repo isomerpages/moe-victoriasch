@@ -64,7 +64,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 11\.  As Victoria School is a dual track school, applicants are to indicate a preference for O Level or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
 
-12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**31 May (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**3 June (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 13\.  **Sports trials, auditions, selection tests and interviews (July to August).** Sports trials, auditions, selection tests and interviews will be conducted for shortlisted applicants for DSA/Sports and DSA/Aesthetics in&nbsp;July to August.&nbsp; Shortlisted applicants will be notified of the dates and timings.
 
@@ -73,9 +73,9 @@ Please note that meeting all the criteria does not guarantee the student will be
     i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).      
     j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 		
-15\.  **Notification of outcome by school (by 11 September 2023).** Applicants will be notified of the outcomes by 11 September 2023.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
+15\.  **Notification of outcome by school (by 9 September 2024).** Applicants will be notified of the outcomes by 9 September 2024.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
-16\.  **Exercise School Preference (by 27 Oct,3pm – administered by MOE).** In October (date to be confirmed&nbsp;by MOE), all applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form by MOE through their primary schools. The form will include instructions on how to submit your child’s preferences.
+16\.  **Exercise School Preference (by 25 Oct,3pm – administered by MOE).** In October (date to be confirmed&nbsp;by MOE), all applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form by MOE through their primary schools. The form will include instructions on how to submit your child’s preferences.
 
 17\.  Fill out the School Preference Form with your child, listing a&nbsp;**maximum of 3 schools in order of preference**. Parents can submit their child’s school preference(s) either electronically via the DSA-Sec Internet System or physically at their child’s primary school. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
 
@@ -120,4 +120,4 @@ There are different option codes for the ‘O’ level Programme and Integrated 
 
 For example, a student may choose VS (Integrated Programme) as the first choice and VS (‘O’ Level Programme) as the second choice.  The PSLE cut-off achievement level scores for both tracks vary every year depending on the PSLE achievement level scores of the applicants in that year.
 
-Refer to [https://www.moe.gov.sg/admissions/secondary-one-posting-exercise](https://www.moe.gov.sg/admissions/secondary-one-posting-exercise) for more information.
+Refer to [https://www.moe.gov.sg/s1-posting](https://www.moe.gov.sg/s1-posting) for more information.
