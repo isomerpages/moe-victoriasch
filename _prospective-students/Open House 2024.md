@@ -20,6 +20,10 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professio
 
 ![](/images/2024_Open_House_Performances_Schedule.png)
 
+### Booths Layout
+
+![](/images/Booths_Layout.png)
+
 ### The VS Experience
 
 * [Prospectus/IP Handbook](#Prospectus/IPHandbook)
