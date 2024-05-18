@@ -17,7 +17,7 @@ variant: markdown
 
 2\.  Primary 6 students have a choice of whether or not to participate in the DSA-Sec Exercise. If they choose not to participate in the DSA-Sec Exercise, they will continue to participate in the Secondary One Posting Exercise after the release of the PSLE results. For more information on the DSA-Sec Exercise, refer to:&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
-**Victoria School: Dual-Track – O Level Programme and Victoria-Cedar Alliance Integrated Programme**
+**Victoria School: Dual-Track – SEC Programme and Victoria-Cedar Alliance Integrated Programme**
 
 3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
 
@@ -45,7 +45,7 @@ variant: markdown
 	        • Table Tennis<br>• Tennis<br>• Track &amp; Field#<br>• Volleyball<br>• Wushu</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Good academic results for P5 overall or its equivalent<br><br>• Participation and achievements in the sport, including zonal, national and/or international level competitions<br><br>• Trainee of Junior Sports Academy (if talent area is not offered as a CCA in primary school)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Sports trial &amp; interview for shortlisted applicants (July - August)</td></tr></tbody></table>
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/given offer.
 
-^&nbsp;Students may choose to be considered for the O level and/or Integrated Programme
+^&nbsp;Students may choose to be considered for the SEC and/or Integrated Programme
 
 \*Students admitted under DSA/Aesthetics for Art will be placed in the Art Elective Programme (AEP). Art forms covered in the AEP include 2D (2-dimensional), 3D (3-dimensional), media (eg. photography) and time-based (e.g. video) works such as drawing and painting for 2D, sculpting and ceramics for 3D, photography and computer art for media and video for time-based\]
 
@@ -62,7 +62,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 10\.  An applicant can indicate&nbsp;up to 3 choices. A maximum of 2 choices for the same school under two different talent areas of that school.
 
-11\.  As Victoria School is a dual track school, applicants are to indicate a preference for O Level or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
+11\.  As Victoria School is a dual track school, applicants are to indicate a preference for SEC or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
 
 12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**3 June (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -111,7 +111,7 @@ Important Notes to all DSA applicants:
 
 5\. Successful DSA-Sec students admitted to the VCA IP via the 6-year DSA/Sports and DSA /Aesthetics are expected to honour their commitment to the CCA during their four-year course of study in VS.
 
-Applicants who are unsuccessful in the DSA Exercise or who did not take part in the DSA-Sec Exercise may still apply to the O Level Programme or Integrated Programme at VS using their PSLE results under MOE’s Secondary 1 Posting Exercise.
+Applicants who are unsuccessful in the DSA Exercise or who did not take part in the DSA-Sec Exercise may still apply to the SEC Programme or Integrated Programme at VS using their PSLE results under MOE’s Secondary 1 Posting Exercise.
 
 There are different option codes for the ‘O’ level Programme and Integrated Programme at VS. Students should indicate if they are selecting the
 
