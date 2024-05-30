@@ -10,6 +10,14 @@ description: ""
 
 At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
 
+### Principal's Sharing
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yrU0tN5a-iA?si=blly4dOMe9xwHGHt" height="1080" width="1920"></iframe>
+
+### DSA Sharing
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QpIVEHEOta0?si=SSxfG9VxgE5jM3Jh" height="1080" width="1920"></iframe>
+
 ### Location Map
 
 ![](/images/VS-Locality-map.png)
