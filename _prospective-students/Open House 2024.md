@@ -12,11 +12,11 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professio
 
 ### Principal's Sharing
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yrU0tN5a-iA?si=blly4dOMe9xwHGHt" height="1080" width="1920"></iframe>
+<div style="text-align: center;" class="videoWrapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yrU0tN5a-iA?si=blly4dOMe9xwHGHt" height="1080" width="1920"></iframe></div>
 
 ### DSA Sharing
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QpIVEHEOta0?si=SSxfG9VxgE5jM3Jh" height="1080" width="1920"></iframe>
+<div style="text-align: center;" class="videoWrapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QpIVEHEOta0?si=SSxfG9VxgE5jM3Jh" height="1080" width="1920"></iframe></div>
 
 ### Location Map
 
