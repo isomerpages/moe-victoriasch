@@ -5,8 +5,8 @@ date: 2017-12-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
 # **2018 Secondary 1 Registration on Friday, 22 December 2017**
 
 **2018 Secondary 1 Registration on Friday, 22 December 2017**
@@ -30,13 +30,13 @@ For information, the programme for Sec 1 Registration Day is shown below.
 
 VS is committed to ensuring that every student admitted into the school enjoys the benefits of the VS experience. Financial assistance is available to ensure that no deserving student is deprived of a high-quality education at VS.
 
-For parents/guardians of 2018 Secondary 1 students who wish to apply for MOE financial assistance, please get the application form from the school’s General Office or download the form from [/admissions/financial-information-assistance/](/admissions/financial-information-assistance/). You may submit the completed form to the General Office for processing on Secondary 1 Registration Day.
+For parents/guardians of 2018 Secondary 1 students who wish to apply for MOE financial assistance, please get the application form from the school’s General Office or download the form from&nbsp;[/admissions/financial-information-assistance/](/admissions/financial-information-assistance/). You may submit the completed form to the General Office for processing on Secondary 1 Registration Day.
 
 Upon receipt of the application form, we will expedite the processing and keep parents updated (before the last working day of December) once the application is processed.
 
 **Registration by proxy**
 
-For those who are unable to register personally, please appoint a proxy to register on your behalf, complete the proxy form and bring along the necessary documents. The proxy form can be accessed at [https://www.moe.gov.sg/docs/default-source/document/education/admissions/secondary-one-posting/2017-files/proxy-form.pdf](https://www.moe.gov.sg/docs/default-source/document/education/admissions/secondary-one-posting/2017-files/proxy-form.pdf)
+For those who are unable to register personally, please appoint a proxy to register on your behalf, complete the proxy form and bring along the necessary documents. 
 
 **Welcome to Victoria School**
 
