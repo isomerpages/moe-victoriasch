@@ -5,6 +5,7 @@ date: 2016-10-11
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # **Admission to Year 3 Integrated Programme**
 
@@ -21,7 +22,7 @@ The application period is from 15-31 October.
 
 **How do I apply?**
 
-Application is to be done strictly via this [**online form (Application starts on 15 October)**](https://vs-dsa-ipyr3.ntrix.sg/).  An **Application Reference Number** will be issued when application is submitted successfully. Late or incomplete application will not be considered.
+Application is to be done strictly via this.  An **Application Reference Number** will be issued when application is submitted successfully. Late or incomplete application will not be considered.
 
 Shortlisted applicants will be required to sit for entrance test (English, Mathematics) and participate in an interview in November. The following supporting documents are to be submitted when the shortlisted applicants come to the school for interviews:
 
