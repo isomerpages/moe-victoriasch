@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /our-curriculum/student-development/cyber-wellness/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 # **Cyber Wellness**
 
@@ -40,9 +41,6 @@ To complement the cyber wellness curriculum in schools, parents can set a good e
 <img src="/images/P-1.jpg" style="width:75%">
 *   Spend time with your child by carrying out family activities such as sports and outdoor activities so that your child has a healthy and balanced lifestyle.
 
-<img src="/images/A-1.jpg" style="width:75%">
-*   Check out "[How do you set parental controls on your child's ICT devices?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls)" and activate them in all computing devices
-
 <img src="/images/R-1.jpg" style="width:75%">
 *   Manage your own digital habits such as avoiding extensive use of technology and avoiding use of technology during meal times.
 *   Show your child safe, responsible and respectful behaviour when sharing, collaborating and creating online.
@@ -74,16 +72,7 @@ Don'ts:
 *   Get your child to share with you his favourite online websites, things he do online and what is cool amongst his friends.
 *   Talk to him about his online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
 *   Let your child know that it is alright to ask you questions or talk to you if he run into problems with someone online.
-*   Download the&nbsp;[C-Quest game app](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/c-quest), which facilitates conversation between parents and children on cyber wellness, from the iTunes Store / Google Play.
 
 ### Additional Tips for Parents
 
-link not found (no.1-6) 
-
-1.  [How do you help your child manage online scams?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/4%20Tip%20sheet%20for%20Parents-1.jpg)
-2.  [How do you help your child manage cyber contacts?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Cyber%20Contacts%20Tip%20Sheet-1.jpg)
-3.  [How do you help your child manage cyber bullying?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/4%20Tip%20Sheet%20on%20Cyber%20Bullying-1.png)
-4.  [How do you help your child manage excessive internet use?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/May%202017/4%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use%20(Single%20Page)-1.png)
-5.  [How do you help your child stay safe online?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Oct%202017/Sec/4%20Tip%20Sheet%20for%20Parents%20T4%202017-1.png)
-6.  [How do you develop your child to be a positive peer influence online?](https://ictconnection.moe.edu.sg/ictconnection/slot/u200/Cyber%20Wellness/CW%20Connect/Feb%202018/3B%202018%20T1%20Parents%20Tip%20Sheet_pdf-1.png)
-7.  [How do you help your child protect their personal data online?](/files/3B-2018-Connect-T4-Parents-Tip-Sheet.pdf)
+1.  [How do you help your child protect their personal data online?](/files/3B-2018-Connect-T4-Parents-Tip-Sheet.pdf)

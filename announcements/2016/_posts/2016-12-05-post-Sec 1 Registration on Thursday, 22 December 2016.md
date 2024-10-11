@@ -5,6 +5,7 @@ date: 2016-12-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # **Sec 1 Registration on Thursday, 22 December 2016**
 
@@ -17,7 +18,7 @@ Students who have been posted to Victoria School (VS) are to report to VS on Thu
 
 
 
-For those who are unable to register personally, please appoint a proxy to register on your behalf, complete the proxy form and bring along the necessary documents. The proxy form can be accessed at [https://www.moe.gov.sg/docs/default-source/document/education/admissions/secondary-one-posting/2016-files/s1-proxy-form.pdf](https://www.moe.gov.sg/docs/default-source/document/education/admissions/secondary-one-posting/2016-files/s1-proxy-form.pdf) - file not found
+For those who are unable to register personally, please appoint a proxy to register on your behalf, complete the proxy form and bring along the necessary documents.
 
 We congratulate all students who are successfully admitted to VS. We look forward to meeting our 2017 Secondary 1 students and parents on Thursday 22 December 2016, 8.30am.
 
