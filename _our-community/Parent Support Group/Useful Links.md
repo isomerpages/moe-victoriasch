@@ -3,16 +3,9 @@ title: Useful Links
 permalink: /our-community/parent-support-group/useful-links/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 **Useful Links**
-
-Resources for Parents
-
-[https://www.medialiteracycouncil.sg/Resources/Pages/parents.aspx](https://www.medialiteracycouncil.sg/Resources/Pages/parents.aspx)
-
-Parenting in the Digital Age
-
-[https://www.medialiteracycouncil.sg/Lists/Resources/Attachments/176/Clique%20Click.pdf](https://www.medialiteracycouncil.sg/Lists/Resources/Attachments/176/Clique%20Click.pdf)
 
 Parents in Education
 
