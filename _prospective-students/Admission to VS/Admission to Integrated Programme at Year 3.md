@@ -18,7 +18,7 @@ Applicants should have excellent PSLE and academic results in Secondary 1 and Se
 
 **Application period**
 
-The application period is from 16-31 Oct 2024.
+The application period is from 16-30 Oct 2024, 12pm.
 
 
 **How do I apply?**
