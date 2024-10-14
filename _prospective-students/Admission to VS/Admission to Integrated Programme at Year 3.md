@@ -3,6 +3,7 @@ title: Admission to Integrated Programme at Year 3
 permalink: /prospective-students/admission-to-VS/admission-to-integrated-programme-at-year-3/
 description: ""
 third_nav_title: Admission to VS
+variant: markdown
 ---
 ![](/images/admissions_header_photo.jpg)
 
@@ -17,7 +18,7 @@ Applicants should have excellent PSLE and academic results in Secondary 1 and Se
 
 **Application period**
 
-The application period is from 16-31 Oct 2023.
+The application period is from 16-31 Oct 2024.
 
 
 **How do I apply?**
