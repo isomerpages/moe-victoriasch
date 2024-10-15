@@ -3,71 +3,673 @@ title: Uniformed Groups
 permalink: /our-victoria/achievements/uniformed-groups/
 third_nav_title: Achievements
 description: ""
+variant: tiptap
 ---
-# **Uniformed Groups**
-
-![](/images/ach_ug-1.jpg)
-
-
-
-
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">2019</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (21st Consecutive)</th></tr></thead><tbody><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sim Kee Boon Challenge Trophy</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Company (Seniors’ Programme)</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC(Land)</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Unit Recognition</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distinction</td></tr><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Unit Recognition</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distinction</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (19th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Excellent Unit Award</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (12th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Trailblazers Competition</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Disaster Risk Reduction Competition</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA Frank Cooper Sands Award</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (15th Consecutive)</td></tr></tbody></table></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">2018</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence </th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll (20th Consecutive) </th></tr></thead><tbody><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA) </td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (18th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Inter-Unit Campcraft Competition 2018</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National Third</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Excellent Unit Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (11th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA Frank Cooper Sands Award </td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (14th Consecutive)</td></tr></tbody></table></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">2017</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys' Brigade</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (19th Consecutive)</th></tr></thead><tbody><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys' Brigade</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Pipes and Drum Festival</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 Golds, 2 Silvers and 1 Bronze</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys' Brigade</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sim Kee Boon Challenge Trophy</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Company (Seniors’ Programme)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Unit Competition</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Unit Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Orienteering Competition</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 Golds, 2 Silvers and Overall Sea Champion</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition (Dragon boat)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition (Bends and Hitches)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition (Kayaking Singles)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gryphon Youth Outreach Programme (GYOP) Best Noticeboard Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1st</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (17th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SPF-NPCC Badge</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="https://www.facebook.com/victoriaschoolsingapore/posts/1073132656124229" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">Awarded to</span></a></td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Excellent Unit Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (10th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First Aid Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (Senior Category) /<br>Certificate of Commendation (Junior Category)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA Frank Cooper Sands Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (13th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scout Job Week</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion in East Area</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chief Commissioner’s Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6 recipients</td></tr></tbody></table></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">2016</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade (BB) Blaze</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2nd Runner-up (National)</th></tr></thead><tbody><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Founder’s Award</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Click <a href="https://www.facebook.com/victoriaschoolsingapore/posts/865526376884859" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">here</span></a> for more information.</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll (18th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Unit Overall Proficiency Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bends &amp; Hitches Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Unit Competition</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National Inter-School Canoe Slalom Championships</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3 Golds &amp; 1 Silver</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National Inter-School Dragonboat Championship</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1st Runner-up</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Inter-Unit Campcraft Competition</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champions (7th time National Champions)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC National Inter-Unit Annual .22 Shooting Competition (Shooting Team 2)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fifth</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (16th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Excellent Unit Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (9th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chief Commissioner’s Award</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Click <a href="https://www.facebook.com/victoriaschoolsingapore/posts/876373699133460" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">here</span></a> for more information.</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA Frank Cooper Sands Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (12th Consecutive)</td></tr></tbody></table></p>
-    </div>
-	</li> 
-	 <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">2015</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence</th><th style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll (16th Consecutive)</th></tr></thead><tbody><tr><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition</td><td style="background-color:#CCC;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 Golds &amp; 3 Silvers; Overall Sea Champions</td></tr><tr><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#E1E1E1;border-color:#343434;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (15th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC X-Challenge 2015</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3rd</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Excellent Unit Award</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (8th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Youth Sports and Wellness Day 2015</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champions</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National First Aid Competition (District)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3rd</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chief Commissioner’s Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Click <a href="https://www.facebook.com/victoriaschoolsingapore/posts/712421155528716" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">here</span></a> for more information.</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA Frank Cooper Sands Award</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (11th Consecutive)</td></tr></tbody></table></p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">2014</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Founder’s Award</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Click <a href="https://www.facebook.com/victoriaschoolsingapore/posts/549008155203351" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">here</span></a> for more information.</th></tr></thead><tbody><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award for Excellence</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll (15th Consecutive)</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6th NCC Freestyle Exhibition Drill</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fifth</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Unit Competition</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 Golds, 1 Silver &amp; 1 Bronze</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition-<br>Single Kayaking (Overall)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best Unit Competition</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Inter-Unit X-Challenge</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National 4th</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Inter-Unit .22 Revolver Shooting Competition</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fifth</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Inter-Unit Campcraft Competition</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champions</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (14th Consecutive)</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Excellent Unit Award</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Current Affairs Competition</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">East District Champion</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8th National Patrol Camp</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Merit</td></tr><tr><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chief Commissioner’s Award</td><td style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Click <a href="https://www.facebook.com/victoriaschoolsingapore/posts/554667174637449" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">here</span></a> for more information.</td></tr><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frank Cooper Sands Award (FCSA) –<br>Best Unit Competition (BUC)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold (10th Consecutive)</td></tr></tbody></table></p>
-    </div>
-	</li> 
-	 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">2013</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">JM Fraser Award for Excellence 2013</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll</th></tr></thead><tbody><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Freestyle Drill Competition East District</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">East District PDS Competition</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fourth</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Freestyle Drill Competition Sea District</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition – Part A Kayaking Singles</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition – Part A Kayaking Doubles</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition – Part B Kayaking Doubles</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition – Part A Bends &amp; Hitches</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition – Part B Bends &amp; Hitches</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition –  Bends &amp; Hitches Overall</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Champion</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Community Service (FY 2012)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Excellent Unit (FY 2012)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8th National Patrol Camp</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Best in Campfire Skit &amp;<br>Scouting Knowledge</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8th National Patrol Camp</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Merit Award</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chief Commissioner’s Award 2013</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 recipients – Jonathan Alex Ng, Anthony Kwa, Toh Ding Young &amp; Linus Wong</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fairprice Foundation “Do Good” Inter School Challenge</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Recipient for the ‘Do Good’ Award</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frank Cooper Sands</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">President’s Scout Award 2013</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1 recipient – Ong Yong Jia</td></tr></tbody></table></p>
-    </div>
-	</li>
-		 <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">2012</label>
-    <div>
-      <p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">J M Fraser Award For Excellence</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold Honour Roll</th></tr></thead><tbody><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Unit Overall Proficiency Award</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Community Service Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Excellence Unit Award</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frank Cooper Sands Award</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gold</td></tr></tbody></table></p>
-	<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Boys’ Brigade</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Founders’ Award</th><th style="background-color:#CCC;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</th></tr></thead><tbody><tr><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Temasek Regatta</td><td style="background-color:#E1E1E1;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Land)</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC Freestyle Exhibition Drill East District</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NCC (Sea)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual Sea Competition (Rowing)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NPCC Inter-Unit Campcraft Competition</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr><tr><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Red Cross Annual First Aid Competition (Cadet Category)</td><td style="background-color:#E1E1E1;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Second</td></tr><tr><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SSA National Patrol Camp</td><td style="background-color:#CCC;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First</td></tr></tbody></table></p>
-    </div>
-	</li>
-	</ul>
+<h1><strong>Uniformed Groups</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ach_ug-1.jpg">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Concert / Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Musical Journey IV
+<br>19 May 2024 @ Singapore Conference Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Concert / Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rhapsody XV, Songs from our Hearts
+<br>3 May 2024 @ SOTA Concert Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Concert / Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forte Fortissimo - Victoria, Thy Sons Are We
+<br>25 May 2024 @ Singapore Conference Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Concert / Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forte Fortissimo - Victoria, Thy Sons Are We
+<br>25 May 2024 @ Singapore Conference Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photography Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rediscovering Our Nature' Photo Contest by SAFRA&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Individual placing&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photography Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Shutterbugs Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team 1st prize
+<br>Team 2nd prize (2)
+<br>Special Mention</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2021 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mixed Ensemble with Wind Instruments (Team A) - Certificate of Distinction
+<br>&nbsp;
+<br>Mixed Ensemble with Wind Instruments (Team B) - Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2021 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No benchmarking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2021 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexible Band (Team A) - Certificate of Distinction
+<br>&nbsp;
+<br>Flexible Band (Team B) - Certificate of Participation
+<br>&nbsp;
+<br>Flexible Band (Team C) - Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2021 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2019</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2019</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2017</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2015</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2015</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2014</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Asia Cantate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award and Jury Prize</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2013</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2012</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Arts &amp; Craft</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2012 Singapore Youth Festival Central Judging</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>1 Silver, 2 Bronzes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Choir Festival In Slovakia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ILDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kallang CC (Navarasam) – Drama Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ILDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kallang CC (Navarasam) – Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ILDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SJI Tamil Video Production Competition(udayam)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2011</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Gold</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold with Honours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
