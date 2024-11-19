@@ -10,8 +10,8 @@ sections:
       background: /images/VS_Open_House_2024_Banner_1920x720.jpg
       variant: center
       key_highlights:
-        - title: OPEN HOUSE 2024
-          description: 18 MAY 2024 (SAT), 8AM TO 12PM
+        - title: E-OPEN HOUSE 2024
+          description: 23 NOV 2024 (SAT)
           url: /prospective-students/openhouse-2024/
         - title: UPCOMING EVENTS
           description: Calendar of Events
