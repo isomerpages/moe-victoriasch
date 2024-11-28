@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please take note that School will be closed at 1pm tomorrow, 29 November
+2024 (Friday) due to network downtime.</p>
