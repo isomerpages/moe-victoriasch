@@ -762,7 +762,7 @@ variant: markdown
 <tr>
   <td style="text-align: center" bgcolor="#CCCCCC">124</td>
   <td bgcolor="#CCCCCC">Mdm Cindy Ong</td>
-  <td bgcolor="#CCCCCC">Administration Manager    (Victoria Hall)</td>
+  <td bgcolor="#CCCCCC">Administration Manager    (Hostel)</td>
   <td bgcolor="#CCCCCC">&nbsp;</td>
 </tr>
 <tr>
