@@ -27,5 +27,5 @@ Should you have any queries, you can email VSPSG at [vspsgmembers@gmail.com](mai
 
 May I take the opportunity to wish all of you a Happy New Year 2025. Nil Sine Labore Warmest regards,
 
-Angela Lee 
+Angela Lee
 Chairman
