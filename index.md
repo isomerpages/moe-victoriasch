@@ -16,9 +16,9 @@ sections:
         - title: UPCOMING EVENTS
           description: Calendar of Events
           url: /upcoming-events/
-        - title: Follow us on Instagram
+        - title: Appeal for School Transfer (Primary 6 Students)
           description: ""
-          url: https://instagram.com/victoriaschoolsg
+          url: https://www.victoria.moe.edu.sg/prospective-students/admission-to-VS/appeal-for-p6-students/
         - title: Follow us on Facebook
           description: ""
           url: https://www.facebook.com/victoriaschoolsingapore
