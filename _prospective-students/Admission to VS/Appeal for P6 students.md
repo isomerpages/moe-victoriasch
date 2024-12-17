@@ -33,7 +33,7 @@ Victoria School is not in the list of schools which can be selected for MAE. If 
 
 **Application period**
 
-The application period is from the **day of release of Secondary 1 Posting results (0900 hours) to 26 December 2024, 1700 hours.**
+The application period is from the **day of release of Secondary 1 Posting results (0900 hours) to 23 December 2024, 1700 hours.**
 
 Late or incomplete application will not be considered. Only shortlisted applicants will be informed.
 
