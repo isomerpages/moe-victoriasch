@@ -39,7 +39,7 @@ Late or incomplete application will not be considered. Only shortlisted applican
 
 **How to apply?**
 
-Application is to be done strictly via this [link](https://form.gov.sg/5fd9928ee5b9110011985dd8).
+Application is to be done strictly via this [link](https://form.gov.sg/675fe6a02e0ebc331042b40e).
 
 For your convenience, it is not necessary to submit any hardcopy appeal form personally.
 
