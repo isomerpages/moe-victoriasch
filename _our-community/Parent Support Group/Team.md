@@ -27,7 +27,8 @@ variant: markdown
   mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
   mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
   #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Thirumaran Velusamy</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Seow Shi Jin</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:152.0pt;border-top:none;border-left:
+  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Thirumaran Velusamy<br>
+	</span><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Seow Shi Jin</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:152.0pt;border-top:none;border-left:
   solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
   mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
