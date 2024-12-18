@@ -7,8 +7,6 @@ variant: markdown
 ---
 ![](/images/VS_PSG_Group_Collage_1.jpg)
 
-![](/images/VS_PSG_Group_Collage_2.jpg)
-
 <table style="width:699.0pt;border-collapse:collapse;mso-yfti-tbllook:1536;
  mso-padding-alt:0in 0in 0in 0in" width="932" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:152.0pt;border-top:#DDDDDD;border-left:
   #D6D6D6;border-bottom:#DDDDDD;border-right:#D6D6D6;border-style:solid;
