@@ -15,7 +15,7 @@ Primary 6 students who have applied to Victoria School during MOE’s Secondary 
 
 The cut-off points for Victoria School this year are as follows:
 * O-Level: AL 9
-* Integrated Programme: AL 8
+* Integrated Programme: AL 7
 
 (\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)
 
