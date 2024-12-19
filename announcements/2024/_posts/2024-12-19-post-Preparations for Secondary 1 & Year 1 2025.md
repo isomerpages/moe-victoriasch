@@ -257,7 +257,6 @@ season, and wishing all a very happy new year!</p>
 </p>
 <p><strong>Annex: Activities in January for Secondary/Year 1 students and parents.</strong>
 </p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
