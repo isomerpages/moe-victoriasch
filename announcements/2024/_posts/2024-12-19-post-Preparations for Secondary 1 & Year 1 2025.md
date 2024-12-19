@@ -211,7 +211,7 @@ you may also request for a hard copy for from the school general office.</p>
 <p>We invite you to join <a href="https://www.victoria.moe.edu.sg/our-community/vspsg/" rel="noopener noreferrer nofollow" target="_blank">the VSPSG</a>.
 As a close partner of the school, the PSG partners the school in various
 school initiatives, and also provides support to parents. The welcome letter
-from the VSPSG Chairperson is attached.</p>
+from the VSPSG Chairperson is <a href="/files/VSPSG_welcome_letter__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">attached</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil.</p>
