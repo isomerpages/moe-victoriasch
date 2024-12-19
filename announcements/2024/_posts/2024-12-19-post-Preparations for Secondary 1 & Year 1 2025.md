@@ -31,7 +31,6 @@ for you to take note of before the start of the new academic year.</p>
 </p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -220,7 +219,6 @@ from the VSPSG Chairperson is attached.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><u>Key information for the first day of school</u>
 </p>
 <ol start="4" data-tight="true" class="tight">
