@@ -9,7 +9,8 @@ variant: tiptap
 ---
 <p>19 December 2024</p>
 <p><strong>Dear Parents &amp; Guardians of Sec/Year 1 Students,</strong>
-<br> <strong>Preparations for Secondary/Year 1 2025</strong>
+</p>
+<p><strong>Preparations for Secondary/Year 1 2025</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
