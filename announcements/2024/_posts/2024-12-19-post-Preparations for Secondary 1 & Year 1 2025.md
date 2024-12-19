@@ -376,7 +376,7 @@ out more about them.</p>
 <p>The compulsory audition and trials are for selected CCAs only.</p>
 </li>
 <li>
-<p>More details will be provided when school re-opens</p>
+<p>More details will be provided when school re-opens.</p>
 </li>
 </ul>
 </td>
@@ -406,7 +406,7 @@ afternoons during the period stated.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Support Group (PSG) Coffee Talk.</p>
+<p>Parent Support Group (PSG) Coffee Talk</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu 23 January 2025</p>
