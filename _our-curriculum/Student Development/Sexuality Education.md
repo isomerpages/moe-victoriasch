@@ -746,22 +746,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to be submitted
-by 31/01/2025.
+the start of the year and is also downloadable <a href="https://go.gov.sg/vs-sed" rel="noopener nofollow" target="_blank">here</a><a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form is to be submitted by
+31/01/2025.
 <br>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is to be submitted
-by 31/01/2024.
+at the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-vs" rel="noopener nofollow" target="_blank">here</a><a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form is to be submitted by
+31/01/2025.
 <br>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6291 2965 and speak to Ms Seow Shi Jin (Subject Head, Character &amp;
 Citizenship Education) or email at seow_shi_jin@moe.edu.sg for discussion
 or to seek clarification about the school’s sexuality education programme.</p>
-<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents, who wish to attend the
-school sexuality education programmes, should contact the school to make
-the necessary arrangements.</p>
-<p>If you wish to opt your child out of the workshop provided, you can download
-the opt out forms below:
-<br>1)&nbsp;<a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Opt Out form for Sexuality Education</a>
-<br>2)&nbsp;<a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">eTeens Parents Opt-out form</a>
-</p>
