@@ -60,7 +60,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of Victoria School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Victoria School’s Sexuality Education Programme for 2025</strong>
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
