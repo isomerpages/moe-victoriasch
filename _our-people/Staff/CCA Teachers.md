@@ -262,9 +262,9 @@ variant: tiptap
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>
-<br>Mdm Shanmuga Sundaram Seetha Lakshmi
-<br>Mr Lee Boon Kee (FAJT)</p>
+<p>Mdm Shanmuga Sundaram Seetha Lakshmi
+<br>Mr Prabhu s/o Gobi Nathan</p>
+<p>Mr Suren G Gopalan (FAJT)</p>
 </td>
 </tr>
 <tr>
