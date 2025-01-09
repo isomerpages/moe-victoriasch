@@ -11,12 +11,12 @@ variant: markdown
 
 
 ### Introduction
-Click [here](/files/2024_CCA_Deployment___Schedule_Semester_1__for_publishing_11_Jan_24_.pdf) to view the 2024 list of CCA Teacher-in-charge and Schedule.
+Click [here](/files/2025_CCA_Deployment___Schedule_Semester_1.pdf) to view the 2025 list of CCA Teachers-in-charge and Schedule.
 
 The Co-Curricular Activities develop students’ character, leadership and resilience, help them engender meaningful relationships, develop the skills and knowledge of their craft and imbue in them the spirit of sportsmanship.
 
 ### Diverse Co-Curricular Activities (CCA)
-In all, we have almost 30 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at Zonal, National and International levels.
+We offer our students a diverse range of 28 CCAs in four key areas of Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. All our CCAs are high performing and have garnered achievements at both zonal and national levels.
 
 ### Clubs & Societies
 * [AV Club](/our-curriculum/student-development/co-curricular-activities/clubs-societies/av-club/)
