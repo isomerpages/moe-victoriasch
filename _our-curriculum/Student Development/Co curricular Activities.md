@@ -21,7 +21,7 @@ We offer our students a diverse range of 28 CCAs in four key areas of Sports &
 ### Clubs & Societies
 * [AV Club](/our-curriculum/student-development/co-curricular-activities/clubs-societies/av-club/)
 * [Chess Club](/our-curriculum/student-development/co-curricular-activities/clubs-societies/chess-club/)
-* [Debate Society](/our-curriculum/student-development/co-curricular-activities/clubs-societies/debate-society/)
+* [Debate & Oratorical](/our-curriculum/student-development/co-curricular-activities/clubs-societies/debate-society/)
 * [Infocomm Club](/our-curriculum/student-development/co-curricular-activities/clubs-societies/infocomm-club/)
 
 
