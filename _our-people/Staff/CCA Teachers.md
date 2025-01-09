@@ -315,9 +315,9 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="5">
+<p>Ms Seow Shi Jin</p>
 <p>Mr Leonard Lu Choun Hian
-<br>Mdm Ernie Bte Abdullah
-<br>Ms Seow Shi Jin</p>
+<br>Mdm Ernie Bte Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +342,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Nur Fadhilah Binte Roslan Samat
-<br>Ms Nor Hashimah Bte Ismail
 <br>Mr Lee Boon Kee (FAJT)</p>
 </td>
 </tr>
@@ -355,7 +354,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Wen Nai Hui
-<br>Ms Leon Huai Luu
+<br>Mr Nur Kaharudin Bin Abdul Kadir
 <br>Mdm Rosnah Bte Ghazali</p>
 </td>
 </tr>
@@ -369,9 +368,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mdm Felicia Yeo Chiou Ming</p>
 <p>Mr Noor Sukhairan Bin Tugiran
-<br>Mr Khoo Kay Yong
-<br>
-</p>
+<br>Mr Khoo Kay Yong</p>
 </td>
 </tr>
 <tr>
@@ -382,9 +379,8 @@ variant: tiptap
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Nur Kaharudin Bin Abdul Kadir
+<p>Mr Heng Yan Kai
 <br>Mr Lim Chee Keen Clarence
-<br>Mr Heng Yan Kai
 <br>Ms Boey Peck Kay Peggy
 <br>Mr Lee Boon Kee (FAJT)</p>
 </td>
