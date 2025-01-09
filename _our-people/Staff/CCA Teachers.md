@@ -395,7 +395,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Ms Chai Lee Wah Jaslyn
 <br>Mr Cao Jian Feng
-<br>Ms Wong Tse Aun, Natasha</p>
+<br>Ms Wong Tse Aun, Natasha.</p>
 </td>
 </tr>
 <tr>
