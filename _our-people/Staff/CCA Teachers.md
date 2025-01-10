@@ -101,7 +101,7 @@ variant: tiptap
 <p>Mr Wong Liang Seng
 <br>Mdm Tan Ching Boon
 <br>Mdm Zhang Yongmei
-<br>Ms Cheng Fang (Sem 2)</p>
+<br>Ms Lu Yan (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +112,8 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="5">
+<p>Ms Nur Atika Binti Mohamed Naim</p>
 <p>Ms Lau Hui Bian
-<br>Ms Nur Atika Binti Mohamed Naim
 <br>Mdm Choo Ai Lin Cynthia</p>
 </td>
 </tr>
@@ -128,8 +128,7 @@ variant: tiptap
 <p>Mr Toh Kai Wei, Clarence
 <br>Mrs Janice Chua Swee Ping
 <br>Ms Nur'Shifa Bte Mustafa
-<br>Ms Cheng Fang (Sem 1)
-<br>Ms Lo Mei Ee (sem 2)</p>
+<br>Ms Lo Mei Ee</p>
 </td>
 </tr>
 <tr>
@@ -275,9 +274,9 @@ variant: tiptap
 <p>Cross-Country</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Miss Lan Ruiting
-<br>Mr Saw Eh Tha Khu
-<br>Mdm Sheikha Fadzleen Bte Shaik Yacob</p>
+<p>Mr Saw Eh Tha Khu
+<br>Mr Edwin Lum Yik Long</p>
+<p>Ms Lim Ke Xin (FAJT)</p>
 </td>
 </tr>
 <tr>
