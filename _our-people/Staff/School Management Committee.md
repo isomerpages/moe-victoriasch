@@ -22,7 +22,7 @@ variant: markdown
   <tr>
     <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">4</span></td>
     <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Johnny Ang</span></td>
-    <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Vice-Principal</span></td>
+    <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Vice-Principal (Student Development)</span></td>
   </tr>
   <tr>
     <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: #000">5</span></td>
@@ -147,5 +147,3 @@ variant: markdown
 	    <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Operations Manager</span></td></tr><tr>
 	      <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">35</span></td>
     <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mdm Ong Yen Peng Cindy</span></td><td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Hall Manager, Victoria Hall</span></td></tr></tbody></table>
-
-
