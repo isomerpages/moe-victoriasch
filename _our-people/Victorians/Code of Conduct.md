@@ -54,8 +54,8 @@ variant: markdown
 		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
 	      </tr>
 		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><p style="font-weight:bold">Rule on Weapon</p></td>
+		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">4</span></td>
+		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Rule on Weapon</span></td>
 	      </tr>
 		  <tr>
 		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.1</td>
@@ -63,7 +63,6 @@ variant: markdown
 	      </tr></tbody></table></p>
     </div>
   </li>
-  <li> </li>
 <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">A Professional’s Prerogatives</label>
