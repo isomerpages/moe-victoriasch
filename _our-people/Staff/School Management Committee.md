@@ -81,7 +81,7 @@ variant: markdown
     <tr>
       <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">16</span></td>
       <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mr Tng Choon Beng Clarence</span></td>
-                        <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Head of Department, Science</span></td>
+                        <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Head of Department, Student Management &amp; Leadership</span></td>
       </tr>
     <tr>
       <td style="background-color:#E9E9E9;border-color:#cccccc;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">17</span></td>
