@@ -38,7 +38,7 @@ variant: tiptap
 <p>Miss Boey Peck Kay Peggy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hashimah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Mr Prabhu</p>
+<p>Mr Prabhu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lo Mei Ee&nbsp;&nbsp;</p>
