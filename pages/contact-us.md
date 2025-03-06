@@ -16,7 +16,7 @@ locations:
         time: 7.30am - 2.00pm
         description: "*All staff and students are to leave by 1.30pm. (Closed on Sundays
           and PHs)"
-    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.30830803913152&lng=103.928197539607
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.30830803913152&lng=103.928197539607
     title: Address
 contacts:
   - content:
@@ -24,11 +24,6 @@ contacts:
       - email: ""
       - other: ""
     title: Tel
-  - content:
-      - phone: +65 6445 2609
-      - email: ""
-      - other: ""
-    title: Fax
   - content:
       - phone: ""
       - email: victoria_sch@moe.edu.sg
@@ -39,4 +34,5 @@ contacts:
       - email: ""
       - other: visit <a href="/contact-us/location-map/">here.</a>
     title: For more information,
+feedback: mailto:victoria_sch@moe.edu.sg
 ---
