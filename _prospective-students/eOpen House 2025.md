@@ -1,16 +1,16 @@
 ---
-title: eOpen House 2024
-permalink: /prospective-students/openhouse-2024/
+title: eOpen House 2025
+permalink: /prospective-students/openhouse-2025/
 variant: markdown
 description: ""
 ---
-![](/images/Nov_E_Open_House_2024_Banner.jpg)
+![](/images/OPEN_HOUSE_2025_for_website.jpg)
 ### Welcome
 
 At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
 
 ### Principal's Sharing
-Watch the principal's sharing during the May Open House held earlier this year.
+Watch the principal's sharing during the May Open House held last year.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yrU0tN5a-iA?si=blly4dOMe9xwHGHt" height="315" width="560"></iframe>
 
 ### The VS Experience
