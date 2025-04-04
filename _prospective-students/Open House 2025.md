@@ -1,5 +1,5 @@
 ---
-title: eOpen House 2025
+title: Open House 2025
 permalink: /prospective-students/openhouse-2025/
 variant: markdown
 description: ""
