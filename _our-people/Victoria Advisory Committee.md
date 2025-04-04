@@ -33,7 +33,7 @@ Our VAC, which has served in an advisory and voluntary capacity since 1968, play
 <td>Treasurer</td>
 </tr>
 <tr bgcolor="#CDCDCD">
-<td bgcolor="#E1E1E1">Mr Phua Tien Beng</td>
+<td bgcolor="#E1E1E1">Mr David Neo Chin Wee</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr>
