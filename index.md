@@ -10,7 +10,7 @@ sections:
       background: /images/VS_Open_House_2024_Banner_1920x720.jpg
       variant: center
       key_highlights:
-        - title: E-OPEN HOUSE 2025
+        - title: OPEN HOUSE 2025
           description: 24 MAY 2025 (SAT)
           url: /prospective-students/openhouse-2025/
         - title: Appeal for School Transfer (Primary 6 Students)
