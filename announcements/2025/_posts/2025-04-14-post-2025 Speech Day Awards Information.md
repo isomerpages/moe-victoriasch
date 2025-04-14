@@ -53,6 +53,6 @@ Dear Victorian,
 
 8 . For any queries, please refer to this [https://go.gov.sg/2025sdq](https://go.gov.sg/2025sdq). 
 
-We look forward to welcoming you on Friday, 16 May 2025. 
+9 . We look forward to welcoming you on Friday, 16 May 2025. 
 
 Nil Sine Labore.
