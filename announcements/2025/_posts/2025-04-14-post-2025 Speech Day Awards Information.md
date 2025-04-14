@@ -7,9 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-# **Victoria School 149th Anniversary &amp; Speech Day On Saturday, 16 May 2025: Presentation of Award**
+14 April 2025
 
-Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following [to be updated.]()
+Dear Victorian,
+
+**Victoria School 149th Anniversary &amp; Speech Day On Friday, 16 May 2025: Presentation of Award**
+
+Congratulations! We are pleased to inform you that you will be receiving the award(s) as listed in the following [link.](https://drive.google.com/file/d/1S2sc97OTwHuA6RRN_PEMjMUDbBf_KO9h/view?usp=drive_link)
 
 The award(s) will be presented during the Speech Day Award Ceremony.  The details for prize recipients are as follows:
 
