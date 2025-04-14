@@ -48,12 +48,10 @@ Dear Victorian,
 
 6 . Please indicate both your family members and your attendance by 21 April, 5 pm via this link: [https://go.gov.sg/sd2025](https://go.gov.sg/sd2025)
 
-Please indicate both your family members and your attendance by Monday, 26  June 2023 via this [link.](https://forms.gle/zCaUxMrNSLeCvQaJ6)
- 
-As this is a formal school event, the dress code for prize recipients is formal. 
-(JC students: Current school uniform, tie and blazer/ Poly students: Collared, long sleeved formal shirt and pants with black shoes). Family members are requested to be dressed in smart casual.
+7 . As this is a formal school event, the dress code for prize recipients is formal. 
+(JC students: Current school uniform, tie, blazer and formal shoes/ Polytechnic students: Collared, long sleeve formal shirt, pants and shoes). Family members are requested to be dressed in smart casual.
 
-Please email all queries to speechday@vs.moe.edu.sg. 
+8 . For any queries, please refer to this [https://go.gov.sg/2025sdq](https://go.gov.sg/2025sdq). 
 
 We look forward to welcoming you on Friday, 16 May 2025. 
 
