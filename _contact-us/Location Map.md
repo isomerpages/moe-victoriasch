@@ -10,4 +10,4 @@ variant: markdown
 
 ### Victoria School Road Map
 
-![](/images/map_9522u.png)
+![](/images/Victoria_School_Location_Map.png)
