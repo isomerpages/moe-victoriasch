@@ -3,6 +3,7 @@ title: Integrated Programme
 permalink: /our-curriculum/academic-development/integrated-programme/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 # **Integrated Programme**
 
@@ -16,7 +17,7 @@ We warmly welcome you to embark on this exciting 6-year journey with us.
 
 <img src="/images/ehandbooktn-1.jpg" style="width:183px;height:150px;margin-left:15px;" align="right">
 
-Click&nbsp;[here](https://victoria.moe.edu.sg/wp-content/uploads/2022/04/VCA-IP-E-Handbook-2022.pdf) - file exceeds 5MB&nbsp;to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.
+Click&nbsp;[here](https://drive.google.com/file/d/1l3sErzi5J1PIXML72dQRzLdhDEkUcC2l/view?usp=drive_link) - file exceeds 5MB&nbsp;to view the VCA IP Handbook and find out more about the programmes and the people that make the Victoria-Cedar experience one to remember for a lifetime.
 
 
 
