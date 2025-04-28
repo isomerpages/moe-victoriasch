@@ -9,7 +9,7 @@ variant: markdown
 
 # **Direct School Admissions to Sec 1 (Year 1)**
 
-### Direct School Admission to 2025 Secondary 1
+### Direct School Admission to 2026 Secondary 1
 
 **Direct School Admission – Secondary (DSA-Sec) Exercise**
 
