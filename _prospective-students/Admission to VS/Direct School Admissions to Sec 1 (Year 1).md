@@ -69,9 +69,10 @@ Please note that meeting all the criteria does not guarantee the student will be
 13\.  **Trials, auditions, selection tests and interviews (July to August).** You will receive notification from us by **Fri 25 Jul 2025**, if your child has been shortlisted to undergo Direct School Admission (DSA) selection trials/auditions/interviews. All applicants will receive their application outcomes by Thu 4 Sep 2025. Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants for DSA/Sports and DSA/Aesthetics in&nbsp;July to August.&nbsp; Shortlisted applicants will be notified of the dates and timings.
 
 14\.  Interviews will be conducted for shortlisted DSA applicants&nbsp;during the sports trials, auditions and interviews. Shortlisted applicants will be informed if we need them to provide the following supporting documents:
-    h.  Certified true copies or documentary proof of non-school based activities and achievements.     
-    i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).      
-    j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
+
+* h.  Certified true copies or documentary proof of non-school based activities and achievements.
+* i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).
+* j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 		
 15\.  **Notification of outcome by school (by 9 September 2024).** Applicants will be notified of the outcomes by 9 September 2024.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
