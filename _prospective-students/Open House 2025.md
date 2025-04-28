@@ -13,6 +13,8 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professio
 Watch the principal's sharing during the May Open House held last year.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yrU0tN5a-iA?si=blly4dOMe9xwHGHt" height="315" width="560"></iframe>
 
+![](/images/2025_Open_House_Schedule.jpg)
+
 ### The VS Experience
 
 * [Prospectus/IP Handbook](#Prospectus/IPHandbook)
