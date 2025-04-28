@@ -25,7 +25,7 @@ variant: markdown
 
 **DSA-Sec to Victoria School: Domains**
 
-5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Language and Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2025.
+5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2026.
 
 6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
     a.  High intellectual potential and ability,      
