@@ -74,7 +74,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 * i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).
 * j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 		
-15\.  **Notification of outcome by school (by 9 September 2024).** Applicants will be notified of the outcomes by 9 September 2024.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
+15\.  **Notification of outcome by school (by 4 September 2025).** Applicants will be notified of the outcomes by 4 September 2025.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
 16\.  **Exercise School Preference (by 25 Oct,3pm – administered by MOE).** In October (date to be confirmed&nbsp;by MOE), all applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form by MOE through their primary schools. The form will include instructions on how to submit your child’s preferences.
 
