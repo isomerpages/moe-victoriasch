@@ -21,7 +21,7 @@ variant: markdown
 
 3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
 
-4\.  As a dual-track school, students choose between our 4-year ‘O’ Level Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).&nbsp; Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
+4\.  As a dual-track school, students choose between our 4-year Secondary Education Certificate (SEC) Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).&nbsp; Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
 
 **DSA-Sec to Victoria School: Domains**
 
