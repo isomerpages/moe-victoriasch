@@ -15,6 +15,11 @@ Watch the principal's sharing during the May Open House held last year.
 
 ![](/images/2025_Open_House_Schedule.jpg)
 
+[Your AI guide to Victoria School’s Open House 2025](https://for.edu.sg/vsguide). Ask about our programmes, CCAs, admissions, and what makes VS unique.
+
+![](/images/https___for_edu_sg_vsguide_qrcode.png)
+
+
 ### The VS Experience
 
 * [Prospectus/IP Handbook](#Prospectus/IPHandbook)
