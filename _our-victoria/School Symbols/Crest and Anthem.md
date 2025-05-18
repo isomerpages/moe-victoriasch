@@ -6,8 +6,7 @@ third_nav_title: School Symbols
 variant: markdown
 ---
 # **Crest and Anthem**
-
-
+### Our School Crest
 <img src="/images/schoollogo.gif" style="width:30%">
 		 
 		 
@@ -19,10 +18,6 @@ The torch symbolizes truth and the passing on of a tradition. It also illuminate
 
 Yellow: Stands for dignity and excellence    
 Red: Symbolizes universal brotherhood and equality
-
-### School Motto
-
-“Nil Sine Labore” (Nothing Without Labour)
 
 ### Victoria Anthem
 
