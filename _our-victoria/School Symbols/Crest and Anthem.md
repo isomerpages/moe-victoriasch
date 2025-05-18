@@ -1,14 +1,13 @@
 ---
-title: Motto, Crest, Anthem
+title: Crest and Anthem
 permalink: /our-victoria/school-symbols/motto-crest-anthem/
 description: ""
 third_nav_title: School Symbols
+variant: markdown
 ---
-# **Motto, Crest, Anthem**
-
-
-<img src="/images/schoollogo.gif" 
-     style="width:30%">
+# **Crest and Anthem**
+### Our School Crest
+<img src="/images/schoollogo.gif" style="width:30%">
 		 
 		 
 The open book symbolizes lifelong learning.
@@ -19,10 +18,6 @@ The torch symbolizes truth and the passing on of a tradition. It also illuminate
 
 Yellow: Stands for dignity and excellence    
 Red: Symbolizes universal brotherhood and equality
-
-### School Motto
-
-“Nil Sine Labore” (Nothing Without Labour)
 
 ### Victoria Anthem
 
@@ -49,5 +44,5 @@ And carried to the world,
 Victoria’s fame and our intent  
 To keep her flag unfurled.
 
-Click [**here**](/files/notation.pdf) to view the notation.   
-Click [**here**](https://www.facebook.com/VictoriaSchool140Anniversary/videos/1593839957599984/) to view the video of Victorian Anthem.
+Click&nbsp;[**here**](/files/notation.pdf)&nbsp;to view the notation.   
+Click&nbsp;[**here**](https://www.facebook.com/VictoriaSchool140Anniversary/videos/1593839957599984/)&nbsp;to view the video of Victorian Anthem.
