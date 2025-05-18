@@ -2,8 +2,9 @@
 title: Vision, Mission, Values
 permalink: /our-victoria/vision-mission-values/
 description: ""
+variant: markdown
 ---
-# **Vision, Mission, Values**
+# **School Direction - Vision, Mission and Values**
 
 ![](/images/vmv_2017.jpg)
 
