@@ -3,12 +3,12 @@ title: Motto, Crest, Anthem
 permalink: /our-victoria/school-symbols/motto-crest-anthem/
 description: ""
 third_nav_title: School Symbols
+variant: markdown
 ---
-# **Motto, Crest, Anthem**
+# **Crest and Anthem**
 
 
-<img src="/images/schoollogo.gif" 
-     style="width:30%">
+<img src="/images/schoollogo.gif" style="width:30%">
 		 
 		 
 The open book symbolizes lifelong learning.
@@ -49,5 +49,5 @@ And carried to the world,
 Victoria’s fame and our intent  
 To keep her flag unfurled.
 
-Click [**here**](/files/notation.pdf) to view the notation.   
-Click [**here**](https://www.facebook.com/VictoriaSchool140Anniversary/videos/1593839957599984/) to view the video of Victorian Anthem.
+Click&nbsp;[**here**](/files/notation.pdf)&nbsp;to view the notation.   
+Click&nbsp;[**here**](https://www.facebook.com/VictoriaSchool140Anniversary/videos/1593839957599984/)&nbsp;to view the video of Victorian Anthem.
