@@ -1,6 +1,6 @@
 ---
 title: Crest and Anthem
-permalink: /our-victoria/school-symbols/motto-crest-anthem/
+permalink: /our-victoria/school-symbols/crest-and-anthem/
 description: ""
 third_nav_title: School Symbols
 variant: markdown

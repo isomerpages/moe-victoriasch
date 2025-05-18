@@ -1,6 +1,6 @@
 ---
 title: School Direction
-permalink: /our-victoria/vision-mission-values/
+permalink: /our-victoria/school-direction/
 description: ""
 variant: markdown
 ---
