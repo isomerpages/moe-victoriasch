@@ -8,24 +8,22 @@ variant: markdown
 
 ![](/images/vmv_2017.jpg)
 
-### School Vision
+### Motto
 
-Every Victorian is a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
+Nil Sine Labore (*Nothing Without Labour*)
 
-### School Mission
+### Vision
 
-To groom upright and balanced individuals with leadership qualities.
+Gentleman · Sportsman · Leader
 
-### Core Values
+### Mission
+
+Every Victorian to Lead and Serve His Family, Community and Country
+
+### Values
 
 *   **P** – Performance Excellence
 *   **R** – Respect
 *   **I** – Integrity
 *   **D** – Discipline
 *   **E** – Empathy
-
-The five values of **P**erformance Excellence, **R**espect, **I**ntegrity, **D**iscipline and **E**mpathy (affectionately known as the PRIDE values) reflect what staff and students feel are important to them. We also hope that students have PRIDE in the school and our distinctive heritage, and carry themselves with PRIDE as a Gentleman, Professional and Sportsman (GPS).
-
-### Motto
-
-Nil Sine Labore (Nothing Without Labour)
