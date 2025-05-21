@@ -11,6 +11,179 @@ variant: tiptap
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (East Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cricket</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (Nationals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cross Country</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+<p>C Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sailing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+<p>C Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shooting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+<p>C Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+<p>C Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division (National)</p>
+<p>C Division (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>
+</p>
+<p>6<sup>th</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
@@ -3790,9 +3963,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 </div>
 </details>
 </div>

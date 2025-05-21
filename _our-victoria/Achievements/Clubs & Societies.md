@@ -13,57 +13,28 @@ variant: tiptap
 <details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audio Visual Club</p>
+<p>AV Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Our Schools, Our Stories" (OSOS) Photo &amp; Video Contest&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Honourable Mention in 'What I Go To School For' (Youth Category)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Audio Visual Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CLASS Copyright School Challenge Video Competition 2023/2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 10 Finalist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Audio Visual Club</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Our Schools, Our Stories (OSOS) Photo &amp; Video Contest</p>
+<p>– "Worksheet" Honourable Mention 'What I Go To School For' (Youth Category)</p>
+<p></p>
+<p>CLASS Copyright School Challenge Video Competition 2023/2024.</p>
+<p>- Top 10 Finalist</p>
+<p></p>
 <p>The 16th National Chinese Short Film Competition for Secondary Schools
 and Junior Colleges</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Prize (Overall Best Film)
-<br>Nomination (Best Cinematography)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65th National Schools Team Chess Championships Sec Open U16 (East Zone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st &amp; 2nd</p>
+<p>- 3rd Prize (Overall Best Film)</p>
+<p>-&nbsp; Nomination (Best Cinematography)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,87 +42,30 @@ and Junior Colleges</p>
 <p>Chess Club (International)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65th National Schools Team Chess Championships Sec Open U16 (National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8th &amp; 9th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65th National Schools Team Chess Championships Sec Open U14 (East Zone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st &amp; 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65th National Schools Team Chess Championships Sec Open U14 (National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6th &amp; 9th</p>
+<p>65th National Schools Team Chess Championships Sec Open U16 (East Zone)
+- 1st &amp; 2nd placings, Sec Open U16 (National) - 8th &amp; 9th placing</p>
+<p></p>
+<p>65th National Schools Team Chess Championships Sec Open U14 (East Zone)
+- 1st &amp; 2nd placings, Sec Open U14 (National) - 6th &amp; 9th placing</p>
+<p></p>
+<p>74th National Schools Individual Chess Championships U16 (East Zone) -
+1st, 4th, 5th, 6th, 9th, 10th, U16 (National) - 4th</p>
+<p></p>
+<p>74th National Schools Individual Chess Championships U14 (East Zone) -
+4th, 5th, 6th, 7th, 8th</p>
+<p></p>
+<p>VJC - Victorian Cup (International Chess) - 1st &amp; 4th placings</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
+<p>Debate Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>74th National Schools Individual Chess Championships U16 (East Zone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st, 4th, 5th, 6th, 9th, 10th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>74th National Schools Individual Chess Championships U16 (National)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>74th National Schools Individual Chess Championships U14 (East Zone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th, 5th, 6th, 7th, 8th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess Club (International)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VJC - Victorian Cup (International Chess)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st &amp; 4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Debate &amp; Oratorical Society</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eunoia Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Plate Champion</p>
+<p>Eunoia Debating Championships - Plate Champions</p>
+<p>Singapore Secondary Schools Debating Championships - Participation</p>
+<p>Raffles Debating Association Academy U-14s - Participation</p>
 </td>
 </tr>
 <tr>
@@ -160,32 +74,16 @@ and Junior Colleges</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Olympiad in Informatics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Silvers, 2 Bronzes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Infocomm Club</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>- 2 Silvers, 2 Bronzes</p>
+<p></p>
 <p>Design Thinking with Robotics and Computational Thinking (DrCT 2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Golds, 5 Silvers, 4 Bronzes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Infocomm Club</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>- 11 Golds, 5 Silvers, 4 Bronzes</p>
+<p></p>
 <p>Drone Odyssey Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner-Up (Team); 2nd Runner-Up (Team); 2nd Best Knowledge (Team),
+<p>- 1st Runner-Up (Team); 2nd Runner-Up (Team); 2nd Best Knowledge (Team),
 3rd Best Knowledge (Team)</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
