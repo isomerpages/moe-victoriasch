@@ -41,7 +41,7 @@ Meet our principal, Mr Chow who prepared this short welcome video that will brin
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1sgxZsuXitcQgRgD2FbWP9Sbw8vJ0fzMb/view?usp=drive_link">view</a> the Prospectus.</p>
+      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web.pdf">view</a> the Prospectus.</p>
     </div>
   </li>
 	  <li>
