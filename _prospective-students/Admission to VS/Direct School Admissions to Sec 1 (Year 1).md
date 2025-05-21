@@ -102,6 +102,7 @@ Information for Children not in Mainstream Primary School, including Returning S
 2\.  International Students are required to take part in the Admissions Exercise for International Student (AEIS) conducted by MOE. For more information on AEIS, please visit the AEIS website : [https://www.moe.gov.sg/international-students/admission](https://www.moe.gov.sg/international-students/admission).
 
 Important Notes to all DSA applicants:
+
 1\. Students who have opted for a school under DSA-Sec Exercise must achieve PSLE results that would enable them to be eligible for admission to a course being offered by their opted DSA-Sec schools. MOE will release the PSLE &amp; DSA results in November.
 
 2\. Students admitted to a school through DSA-Sec Exercise will not be allowed to participate in the Secondary One Posting Exercise as places have already been reserved for them in the DSA-Sec schools.
