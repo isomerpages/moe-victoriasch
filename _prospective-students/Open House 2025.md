@@ -38,7 +38,7 @@ We highly encourage you to make your way here using public&nbsp;transportation a
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/Prospectus_2024_Web_.pdf">view</a> the Prospectus.</p>
+      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web.pdf">view</a> the Prospectus.</p>
     </div>
   </li>
 	  <li>
