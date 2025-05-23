@@ -3,6 +3,7 @@ title: Regional Studies Programme
 permalink: /our-curriculum/talent-programme/regional-studies-programme/
 description: ""
 third_nav_title: Talent Programmes
+variant: markdown
 ---
 # **Regional Studies Programme**
 
@@ -45,6 +46,6 @@ d. This programme is opened to Integrated Programme (IP) and O Level track stude
 *   Scholarship allowance of S$1000 per annum
 *   At government or government-aided schools – subsidy of school fees ($60 per year)
 *   There is no bond tied to the scholarship
-*   Funding of $80 per day for up to 20 days of immersion in Malaysia or Indonesia (onshore costs only) for the whole course ($80 x 20 = $1600)
+*   Funding of $100 per day for up to 20 days of immersion in Malaysia or Indonesia (onshore costs only) for the whole course ($100 x 20 = $2000)
 *   Includes accommodation costs and meals
 *   Excludes daily spending, visas, insurance and international flight(s) airfare costs
