@@ -7,7 +7,7 @@ description: ""
 ![](/images/OPEN_HOUSE_2025_for_website.jpg)
 ### Welcome
 
-At Victoria School (VS), we nurture every Victorian to be a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.
+At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsman and Leader who makes tangible contributions to his family, work, community and nation.
 
 ### Principal's Sharing
 Watch the principal's sharing during the May Open House held last year.
