@@ -32,41 +32,37 @@ Our VAC, which has served in an advisory and voluntary capacity since 1968, play
 <td>Mr Tan Choon Seng</td>
 <td>Treasurer</td>
 </tr>
-<tr bgcolor="#CDCDCD">
-<td bgcolor="#E1E1E1">Mr David Neo Chin Wee</td>
-<td bgcolor="#E1E1E1">Member</td>
+<tr bgcolor="#E1E1E1">
+  <td>Mr Kelvin Wong</td>
+  <td>Member</td>
 </tr>
-<tr>
-<td bgcolor="#CDCDCD">Mr Kelvin Wong</td>
+<tr bgcolor="#E1E1E1">
+<td bgcolor="#CDCDCD">Mr Lim Han Feng</td>
 <td bgcolor="#CDCDCD">Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td>Mr Lim Han Feng</td>
+<td>Mr Lim Siang Chin</td>
 <td>Member</td>
 </tr>
-<tr>
-<td bgcolor="#CDCDCD">Mr Lim Siang Chin</td>
+<tr bgcolor="#E1E1E1">
+<td bgcolor="#CDCDCD">Mr Tan Pei-San</td>
 <td bgcolor="#CDCDCD">Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td>Mr Tan Pei-San</td>
+<td>Ms Gwenda Fong</td>
 <td>Member</td>
 </tr>
-<tr>
-<td bgcolor="#CDCDCD">Ms Gwenda Fong</td>
+<tr bgcolor="#E1E1E1">
+<td bgcolor="#CDCDCD">Mr Tang Shiuh Huei</td>
 <td bgcolor="#CDCDCD">Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td>Mr Tang Shiuh Huei</td>
-<td>Member</td>
-</tr>
-<tr>
-<td bgcolor="#CDCDCD">Mr Low Chun Meng</td>
-<td bgcolor="#CDCDCD">Secretary, Principal/Victoria School</td>
+<td>Mr Low Chun Meng</td>
+<td>Secretary, Principal/Victoria School</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td>Mr Low Swee Heng Jeffrey</td>
-<td>Secretary, Principal/Victoria Junior College</td>
+<td bgcolor="#CDCDCD">Mr Low Swee Heng Jeffrey</td>
+<td bgcolor="#CDCDCD">Secretary, Principal/Victoria Junior College</td>
 </tr>
 </tbody>
 </table>
