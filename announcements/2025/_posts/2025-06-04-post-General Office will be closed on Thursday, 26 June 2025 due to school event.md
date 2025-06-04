@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please be informed that the General Office will be closed on Thursday,
+26 June 2025 as all staff will be out for a school event.</p>
+<p>We will resume operation on Friday, 27 June 2025.</p>
