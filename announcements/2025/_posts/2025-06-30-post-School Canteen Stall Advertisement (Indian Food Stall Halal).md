@@ -53,19 +53,9 @@ General Office.</p>
 <p>• Application Form for individual stallholder</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Attached the following documents together with the Application Form:</p>
-</li>
-<li>
-<p>Submit the completed Application Form and documents via email OR to the
-School’s General Office by the closing date.</p>
-<p>• Address: No 2 Siglap Link</p>
-<p>• Contact No: 62912965 Ext 209</p>
-<p>• Email: <a href="mailto:goh_khee_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_khee_seng@schools.gov.sg</a>
+<p>Attached the following documents together with the Application Form:
+<br>
 </p>
-<p>• Contact Person: Goh Khee Seng</p>
-<p></p>
-</li>
-</ol>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -88,4 +78,16 @@ certificates such as Food Safety Course Level 1, etc</p>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p>Submit the completed Application Form and documents via email OR to the
+School’s General Office by the closing date.</p>
+<p>• Address: No 2 Siglap Link</p>
+<p>• Contact No: 62912965 Ext 209</p>
+<p>• Email: <a href="mailto:goh_khee_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_khee_seng@schools.gov.sg</a>
+</p>
+<p>• Contact Person: Goh Khee Seng</p>
+<p></p>
+</li>
+</ol>
 <p></p>
