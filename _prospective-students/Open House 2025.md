@@ -10,7 +10,7 @@ description: ""
 At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsman and Leader who makes tangible contributions to his family, work, community and nation.
 
 ### Principal's Sharing
-Watch the principal's sharing during the May Open House held last year.
+Watch the principal's sharing during the May Open House.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2025 Open House Principal's Sharing" src="https://www.youtube.com/embed/4xJqB91bD2E" height="315" width="560"></iframe>
 
 ![](/images/2025_Open_House_Schedule.jpg)
