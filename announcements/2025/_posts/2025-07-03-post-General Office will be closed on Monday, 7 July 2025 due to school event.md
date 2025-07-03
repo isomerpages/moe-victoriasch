@@ -8,5 +8,5 @@ image: ""
 variant: tiptap
 ---
 <p>Please be informed that the General Office will be closed on Monday, 7
-July 2025 as all staff will be out for a school event.</p>
+July 2025 as all staff will be out for a cluster event.</p>
 <p>We will resume operation on Tuesday, 8 July 2025.</p>
