@@ -68,12 +68,18 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
-(front and back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
-and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as Food Safety Course Level 1, etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
