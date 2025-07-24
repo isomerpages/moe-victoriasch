@@ -84,11 +84,21 @@ certificates such as Food Safety Course Level 1, etc</p>
 School’s General Office by the closing date.</p>
 </li>
 </ol>
-<p>• Address: No 2 Siglap Link 448880</p>
-<p>• Contact No: 62912965</p>
-<p>• Email: <a href="mailto:goh_khee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_khee_seng@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: No 2 Siglap Link 448880</p>
+</li>
+<li>
+<p>Contact No: 62912965</p>
+</li>
+<li>
+<p>Email: <a href="mailto:goh_khee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_khee_seng@moe.edu.sg</a>
 </p>
-<p>• Contact Person: Mr Goh Khee Seng</p>
+</li>
+<li>
+<p>Contact Person: Mr Goh Khee Seng</p>
+</li>
+</ul>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
