@@ -1,6 +1,6 @@
 ---
 title: School Canteen Stall Advertisement
-permalink: /school-canteen-stall-advertisement/
+permalink: /school-canteen-stall-advertisement-noodle-stall/
 date: 2024-10-15
 layout: post
 description: ""
