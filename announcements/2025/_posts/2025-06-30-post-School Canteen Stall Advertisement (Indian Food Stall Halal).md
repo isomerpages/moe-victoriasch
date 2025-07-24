@@ -30,10 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Indian Food Stall Halal</p>
+<p>Indian Food Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 July 2025</p>
+<p>11 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
