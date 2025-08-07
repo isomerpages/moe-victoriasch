@@ -11,7 +11,7 @@ variant: markdown
 
 
 ### Introduction
-Click [here](/files/2025_CCA_Deployment___Schedule_Semester_1.pdf) to view the 2025 list of CCA Teachers-in-charge and Schedule.
+Click [here](/files/2025_CCA_Deployment___Schedule_Semester_2.pdf) to view the 2025 list of CCA Teachers-in-charge and Schedule.
 
 The Co-Curricular Activities develop students’ character, leadership and resilience, help them engender meaningful relationships, develop the skills and knowledge of their craft and imbue in them the spirit of sportsmanship.
 
