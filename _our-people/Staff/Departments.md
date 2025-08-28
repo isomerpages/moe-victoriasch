@@ -98,45 +98,45 @@ variant: markdown
   </tr>
   <tr style="height:16.5pt;" class="excel11">
     <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">15</td>
-    <td class="excel12" bgcolor="#CCCCCC">Mr    Thirumaran s/o Velusamy</td>
-    <td class="excel12" bgcolor="#CCCCCC">Head of    Department, Discipline</td>
-    <td class="excel12" bgcolor="#CCCCCC">English Language</td>
-  </tr>
-  <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">16</td>
     <td class="excel12" bgcolor="#CCCCCC">Ms Teo Lien    Hwa Divina</td>
     <td class="excel12" bgcolor="#CCCCCC">Subject Head, Aesthetics</td>
     <td class="excel12" bgcolor="#CCCCCC">Literature;    English Language</td>
-  </tr>
+    </tr>
   <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">17</td>
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">16</td>
     <td class="excel12" bgcolor="#CCCCCC">Mr Ong Qi    Jun Raphael</td>
     <td class="excel12" bgcolor="#CCCCCC">Senior    Teacher,&nbsp; English Language</td>
     <td class="excel12" bgcolor="#CCCCCC">English Language</td>
-  </tr>
+    </tr>
   <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">18</td>
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">17</td>
     <td class="excel12" bgcolor="#CCCCCC">Mdm Chai Lee    Wah Jaslyn</td>
     <td class="excel12" bgcolor="#CCCCCC">Teacher</td>
     <td class="excel12" bgcolor="#CCCCCC">English Language</td>
-  </tr>
+    </tr>
   <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">19</td>
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">18</td>
     <td class="excel12" bgcolor="#CCCCCC">Ms Nadifa    Bte Shekh Nahji</td>
     <td class="excel12" bgcolor="#CCCCCC">Teacher</td>
     <td class="excel12" bgcolor="#CCCCCC">English    Language</td>
     </tr>
   <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">20</td>
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">19</td>
     <td class="excel12" bgcolor="#CCCCCC">Ms Tan Siew    Ching</td>
     <td class="excel12" bgcolor="#CCCCCC">Teacher</td>
     <td class="excel12" bgcolor="#CCCCCC">Literature</td>
     </tr>
   <tr style="height:16.5pt;" class="excel11">
-    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">21</td>
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">20</td>
     <td class="excel12" bgcolor="#CCCCCC">Mr Tan Teck    Chou Daniel</td>
     <td class="excel12" bgcolor="#CCCCCC">Teacher</td>
     <td class="excel12" bgcolor="#CCCCCC">Literature;    English Language</td>
+    </tr>
+  <tr style="height:16.5pt;" class="excel11">
+    <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">21</td>
+    <td class="excel12" bgcolor="#CCCCCC">Mr    Thirumaran s/o Velusamy</td>
+    <td class="excel12" bgcolor="#CCCCCC">Teacher</td>
+    <td class="excel12" bgcolor="#CCCCCC">English Language</td>
     </tr>
   <tr style="height:16.5pt;" class="excel11">
     <td style="text-align: center" class="excel13" bgcolor="#CCCCCC">22</td>
