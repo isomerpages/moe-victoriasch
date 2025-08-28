@@ -8,3 +8,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>General Office is closed at 2pm on 3 Sep 2025 (Wed) as all staff will
+be out for Teachers’ Day celebration.</p>
