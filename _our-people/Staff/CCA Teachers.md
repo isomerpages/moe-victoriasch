@@ -125,8 +125,7 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Toh Kai Wei, Clarence
-<br>Mrs Janice Chua Swee Ping
+<p>Mrs Janice Chua Swee Ping
 <br>Ms Nur'Shifa Bte Mustafa
 <br>Ms Lo Mei Ee</p>
 </td>
@@ -393,8 +392,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Chai Lee Wah Jaslyn
-<br>Mr Cao Jian Feng
-<br>Ms Wong Tse Aun, Natasha.</p>
+<br>Mr Cao Jian Feng</p>
 </td>
 </tr>
 <tr>
