@@ -382,10 +382,10 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clarence Toh</p>
+<p>Ms Chua Wai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Wai Yi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -410,10 +410,10 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Wong</p>
+<p>Mr Edwin Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Lum</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
