@@ -54,7 +54,8 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p>• Application Form for individual stallholder</p>
+<p>• <a href="/files/Application_for_Canteen_Stall_FormBF7__.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
+</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
