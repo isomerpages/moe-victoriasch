@@ -8,3 +8,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Do you know of an outstanding teacher? Show your appreciation by nominating
+him/her for the President’s Award for Teachers (PAT) or Outstanding Youth
+in Education Award (OYEA) 2025!</p>
+<p><strong>President’s Award for Teachers (PAT)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg">
+</div>
+<p></p>
