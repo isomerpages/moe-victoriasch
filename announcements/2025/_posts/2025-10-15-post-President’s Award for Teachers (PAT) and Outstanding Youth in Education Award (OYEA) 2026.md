@@ -10,10 +10,10 @@ variant: tiptap
 ---
 <p>Do you know of an outstanding teacher? Show your appreciation by nominating
 him/her for the President’s Award for Teachers (PAT) or Outstanding Youth
-in Education Award (OYEA) 2025!</p>
+in Education Award (OYEA) 2026!</p>
 <p><strong>President’s Award for Teachers (PAT)</strong>
+</p><a class="isomer-image-wrapper" href="http://go.gov.sg/pat2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg"></a>
+<p><strong>Outstanding Youth in Education Award (OYEA) 2026</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="Outstanding Youth in Education Award (OYEA) 2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.jpg"></a>
 <p></p>
