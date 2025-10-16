@@ -15,5 +15,5 @@ in Education Award (OYEA) 2026!</p>
 </p><a class="isomer-image-wrapper" href="http://go.gov.sg/pat2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg"></a>
 <p><strong>Outstanding Youth in Education Award (OYEA) 2026</strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="Outstanding Youth in Education Award (OYEA) 2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/oyea2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.jpg"></a>
 <p></p>
