@@ -13,6 +13,8 @@ variant: markdown
 ### Introduction
 Click [here](/files/2025_CCA_Deployment___Schedule_Semester_2.pdf) to view the 2025 list of CCA Teachers-in-charge and Schedule.
 
+**Cricket and Sailing will not be offered as CCAs to incoming Sec 1 students from 2026 onwards. Shooting had stopped its intake since 2024.**
+
 The Co-Curricular Activities develop students’ character, leadership and resilience, help them engender meaningful relationships, develop the skills and knowledge of their craft and imbue in them the spirit of sportsmanship.
 
 ### Diverse Co-Curricular Activities (CCA)
