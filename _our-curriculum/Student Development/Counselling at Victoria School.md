@@ -128,7 +128,7 @@ your coping strategies are healthy or unhealthy, helpful or unproductive?</p>
 <br>• Zoning out for hours in front of the TV/computer
 <br>• Withdrawing from friends, family and activities
 <br>• Procrastinating
-<br>• Sleeping too much\
+<br>• Sleeping too much
 <br>• Taking out your stress on others (throwing tantrums, angry outbursts,
 resorting to violence)</p>
 <p><em>Adapted from <a href="http://helpguide.org" rel="noopener noreferrer nofollow" target="_blank">helpguide.org</a></em>
