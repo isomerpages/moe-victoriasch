@@ -84,27 +84,23 @@ or teacher counsellors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Samaritans of Singapore</strong>
-</p>
-<p>Tel: 1-767</p>
+<br>Tel: 1-767</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>IMH, Child Guidance Clinic</strong>
-</p>
-<p>Tel: 6389 2200</p>
+<br>Tel: 6389 2200</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Association for </strong>
 <br><strong>Mental Health (SAMH) Head Office</strong>
-</p>
-<p>Tel: 1800-283-7019
+<br>Tel: 1800-283-7019
 <br>(toll-free helpline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tinkle Friend</strong>
-</p>
-<p>Tel: 1800-274-4788</p>
+<br>Tel: 1800-274-4788</p>
 </td>
 </tr>
 </tbody>
