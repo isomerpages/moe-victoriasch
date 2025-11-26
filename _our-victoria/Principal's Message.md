@@ -8,65 +8,65 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Mr_Low_Chun_Meng.png">
 </div>
-<p>As I reflect on my first year in Victoria School, I do so with deep gratitude
-and optimism. It has been an honour to step into the role of Principal
-of Victoria School, an institution that has stood proudly since its founding
-in 1876. I thank my predecessor, Mr Chow Weisi, and the principals before
-him, for their dedication and vision in building the strong foundation
-upon which Victoria School thrives as a beacon of excellence.</p>
-<p>From its beginnings as an English class for twelve Malay boys at Kampong
-Glam Malay Branch School, Victoria School has grown into an autonomous
-all-boys school offering the Integrated Programme and the GCE O-Level Programme.
-This evolution reflects not only our remarkable journey but also our commitment
-to providing quality education that meets the diverse needs of our students.</p>
-<p>One of the most heartening aspects of my first year has been meeting members
-of the Victorian family. Our alumni shared fond memories of their time
-here and reminding me of the strong bonds formed within these walls. Their
-stories highlight the rich heritage of Victoria School. I am inspired by
-the contributions many of them have made as leaders in politics, the public
-sector, the community, and business. Their achievements are a testament
-to the transformative power of education and the shared responsibility
-of nurturing future generations.</p>
-<p>The vibrant smiles and laughter of our students as they engage in their
-many activities and adventures, both within and beyond the school, have
-left an indelible impression on me. Their enthusiasm and energy embody
-the spirit of the next generation of leaders. I am also deeply appreciative
-of the steadfast support of the Victoria School Parents Support Group,
-which has played a vital role in enriching the school experience for our
-boys.</p>
-<p>Victoria School’s heritage is further enhanced by its strong partnerships,
-particularly through the Victoria-Cedar Alliance with Victoria Junior College
-and Cedar Girls' Secondary School. These collaborations amplify our mission
-to nurture well-rounded individuals of character and capability who can
-contribute meaningfully to society.</p>
-<p>As I look ahead, I reflect on Victoria School’s role in building Singapore’s
-future. How can we nurture young gentlemen who are not only academically
-excellent but also socially responsible and morally grounded? How can we
-inspire every student to develop a deep sense of purpose and commitment
-to the greater good?</p>
-<p>Our school motto, <em>Nil Sine Labore</em>, serves as a steadfast guide,
-reminding us of the dedication and resilience required to achieve success.
-Alongside our vision of developing every Victorian into a Gentleman, Sportsman,
-and Leader, we aim to cultivate young men who will make tangible contributions
-to their families, communities, and the nation.</p>
-<p>This year has also been a time of introspection on how we can further
-enhance the holistic development of our students. Academic excellence,
-character building, sportsmanship, and leadership remain at the core of
-a Victoria education. Beyond these, I hope our students will forge lifelong
-friendships, embrace the joy of learning, and discover ways to contribute
-meaningfully to society.</p>
-<p>As we approach another year, let us hold fast to the values and traditions
-that define us while embracing innovation and growth. Together with my
-staff, I am confident we can lead Victoria School into its next phase of
-distinction, always striving for greater heights.</p>
-<p>As we celebrate the successes of another year at Victoria School, let
-us cherish each moment as an opportunity for growth—both individually and
-collectively. Together, we will uphold our proud traditions while embracing
-the challenges and opportunities ahead.</p>
-<p>Here’s to many more years of excellence at Victoria School!
-<br>
-<br>
-<br><em>Nil Sine Labore</em>
+<p>At Victoria School, we believe every boy who joins us begins a journey
+of growth that shapes who he becomes long after he leaves our grounds.
+We want each Victorian to develop the confidence, character and clarity
+of purpose to navigate a changing world and contribute meaningfully to
+the people around him. This is the heart of our aspiration for every student:
+to grow into a Gentleman · Sportsman · Leader.</p>
+<p>This vision guides how we nurture our boys. We want them to learn with
+curiosity, act with empathy and lead with integrity. Our school values
+of Service, Tenacity, Responsibility, Integrity, Vision and Empathy (STRIVE)
+form an anchor for their daily experience. Alongside our motto <em>Nil Sine Labore</em> (Nothing
+Without Labour), these values encourage our boys to work hard, serve with
+heart and develop a sense of responsibility that goes beyond themselves.
+This reflects a deliberate shift from Me to We, reminding them that leadership
+begins with character and finds its purpose in service.</p>
+<p>To support this growth, Victoria School provides a learning environment
+where students develop the mindset, discipline and dispositions needed
+to thrive as high-ability learners. We place strong emphasis on thinking
+deeply, learning purposefully and applying understanding in authentic contexts.
+The review of the Victoria-Cedar Alliance Integrated Programme in 2024
+reaffirmed our belief that high-ability learners flourish when they experience
+depth, meaning and intellectual challenge. Victoria School continues to
+align our programmes with this approach, including for students on the
+SEC track, so that learning remains rigorous, relevant and future-oriented.</p>
+<p>Beyond the classroom, we give our boys opportunities to grow through experience
+and authentic engagement. Whether they are representing the school in sports,
+performing on stage, contributing through CCAs or serving the community,
+these experiences build resilience, teamwork and composure. They also help
+our boys discover their strengths and learn what it means to contribute
+with purpose.</p>
+<p>We also want Victorians to understand the world they will inherit. Global
+awareness and cross-cultural literacy are increasingly essential, and we
+are actively exploring sustainable partnerships with overseas schools.
+These partnerships will give our boys opportunities to learn beyond borders,
+form friendships across cultures and broaden their perspectives through
+real-world encounters. Our aim is not merely to expose them to global environments,
+but to help them engage with the world thoughtfully and confidently.</p>
+<p>This work is made possible by a team of educators and staff who believe
+deeply in the potential of our boys. Our teachers, allied educators, School
+Administration Team and colleagues at Victoria Hall create a supportive
+and purposeful environment where students can learn and grow. We are also
+grateful to the coaches and instructors who partner us in developing our
+boys through their CCAs, contributing to their growth in meaningful ways.</p>
+<p>Victoria School’s strength also lies in the community that surrounds it.
+We are fortunate to be supported by the Victoria Advisory Committee, the
+Old Victorians’ Association and the Parents Support Group. Their guidance,
+generosity and belief in our mission enrich the school experience and connect
+generations of Victorians through a shared sense of identity and purpose.</p>
+<p>As we approach our 150<sup>th</sup> Anniversary in 2026, we stand at a
+significant moment in our history. Our theme, <em>Honour Our Heritage, Inspire the Future</em>,
+calls us to celebrate the legacy we have inherited while looking ahead
+with ambition and clarity. We invite all Victorians, past and present,
+to join us as we prepare for this milestone and shape the next chapter
+of our school’s journey.</p>
+<p>Victoria School remains committed to nurturing young gentlemen, sportsmen
+and leaders who learn with purpose, serve with conviction and lead with
+integrity. I look forward to the possibilities ahead and to all that our
+boys will become.</p>
+<p></p>
+<p><em>Nil Sine Labore</em>
 </p>
 <p>Low Chun Meng
-<br>Principal, Victoria School</p>
+<br>Principal</p>
