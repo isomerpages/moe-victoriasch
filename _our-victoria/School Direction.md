@@ -22,8 +22,10 @@ Every Victorian to Lead and Serve His Family, Community and Country
 
 ### Values
 
-*   **P** – Performance Excellence
-*   **R** – Respect
-*   **I** – Integrity
-*   **D** – Discipline
-*   **E** – Empathy
+
+*   **S** - Service
+*   **T** - Tenacity
+*   **R** - Responsibility
+*   **I** - Integrity
+*   **V** - Vision
+*   **E** - Empathy
