@@ -3,6 +3,7 @@ title: Hockey
 permalink: /our-curriculum/student-development/co-curricular-activities/sports-games/hockey/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Hockey**
 
@@ -23,7 +24,7 @@ third_nav_title: Sports
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>Cultivate a sense of appreciation, passion and love for <b>Hockey</b>, and sports in general, as they contribute towards a vibrant school sports culture.</li><li>Learn the necessary skills, knowledge and attitudes that are required of a <b>Hockey</b></li><li>Acquire and develop physical strength, agility as well as mental resilience over the years, through <b>Hockey</b> training, competitions and Twinning Programmes with Penang Free School.</li><li>Develop good character and exhibit model Sportsman qualities, such as Sportsmanship, Teamwork and Fair Play, which is in line with the Vision of Victoria School.</li><li>Grow as individuals who embody the core values (P-R-I-D-E [Performance Excellence, Respect, Integrity, Discipline, Empathy]) of Victoria School.</li></ul>
+			<ul><li>Cultivate a sense of appreciation, passion and love for <b>Hockey</b>, and sports in general, as they contribute towards a vibrant school sports culture.</li><li>Learn the necessary skills, knowledge and attitudes that are required of a <b>Hockey</b></li><li>Acquire and develop physical strength, agility as well as mental resilience over the years, through <b>Hockey</b> training, competitions and Twinning Programmes with Penang Free School.</li><li>Develop good character and exhibit model Sportsman qualities, such as Sportsmanship, Teamwork and Fair Play, which is in line with the Vision of Victoria School.</li><li>Grow as individuals who embody the core values (S-T-R-I-V-E [Service, Tenacity, Responsibility, Integrity, Vision, Empathy]) of Victoria School.</li></ul>
     </div>
 	</li> 
 	  <li>
