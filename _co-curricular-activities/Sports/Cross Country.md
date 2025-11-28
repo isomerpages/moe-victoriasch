@@ -3,6 +3,7 @@ title: Cross Country
 permalink: /our-curriculum/student-development/co-curricular-activities/sports-games/cross-country/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Cross-Country**
 
@@ -21,7 +22,7 @@ third_nav_title: Sports
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>The CCA will enable our students to:</p>
-			<ul><li>Develop strong cardiovascular fitness as well as mental resilience.</li><li>Instil core values of Victoria School : Performance Excellence, Respect, Integrity, Discipline, Empathy.</li><li>Learn good sportsmanship through training and competitions.</li><li>Cultivate team spirit and a positive mental attitude through healthy sports competitions.</li></ul>
+			<ul><li>Develop strong cardiovascular fitness as well as mental resilience.</li><li>Instil core values of Victoria School : S-T-R-I-V-E (Service, Tenacity, Responsibility, Integrity, Vision, Empathy).</li><li>Learn good sportsmanship through training and competitions.</li><li>Cultivate team spirit and a positive mental attitude through healthy sports competitions.</li></ul>
     </div>
 	</li> 
 	  <li>
