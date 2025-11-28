@@ -3,6 +3,7 @@ title: Wushu
 permalink: /our-curriculum/student-development/co-curricular-activities/sports-games/wushu/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Wushu**
 
@@ -21,7 +22,7 @@ third_nav_title: Sports
     <label for="accordion2">Key Student Outcomes</label>
     <div>
 			<p>VS Wushu will enable our students to:</p>
-			<ul><li>Exemplify our school’s core values of Performance Excellence, Respect, Integrity, Discipline and Empathy</li><li>Develop a strong fighting spirit, focus and fitness</li><li>Appreciate the importance of humility, hard work and confidence as key to success</li><li>Build team spirit</li></ul>
+			<ul><li>Exemplify our school’s core values of S-T-R-I-V-E (Service, Tenacity, Responsibility, Integrity, Vision, Empathy)</li><li>Develop a strong fighting spirit, focus and fitness</li><li>Appreciate the importance of humility, hard work and confidence as key to success</li><li>Build team spirit</li></ul>
     </div>
 	</li> 
 	  <li>
