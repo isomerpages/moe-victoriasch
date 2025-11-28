@@ -8,65 +8,69 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Mr_Low_Chun_Meng.png">
 </div>
-<p>At Victoria School, we believe every boy who joins us begins a journey
-of growth that shapes who he becomes long after he leaves our grounds.
-We want each Victorian to develop the confidence, character and clarity
-of purpose to navigate a changing world and contribute meaningfully to
-the people around him. This is the heart of our aspiration for every student:
-to grow into a Gentleman · Sportsman · Leader.</p>
-<p>This vision guides how we nurture our boys. We want them to learn with
-curiosity, act with empathy and lead with integrity. Our school values
-of Service, Tenacity, Responsibility, Integrity, Vision and Empathy (STRIVE)
-form an anchor for their daily experience. Alongside our motto <em>Nil Sine Labore</em> (Nothing
-Without Labour), these values encourage our boys to work hard, serve with
-heart and develop a sense of responsibility that goes beyond themselves.
-This reflects a deliberate shift from Me to We, reminding them that leadership
-begins with character and finds its purpose in service.</p>
-<p>To support this growth, Victoria School provides a learning environment
-where students develop the mindset, discipline and dispositions needed
-to thrive as high-ability learners. We place strong emphasis on thinking
-deeply, learning purposefully and applying understanding in authentic contexts.
-The review of the Victoria-Cedar Alliance Integrated Programme in 2024
-reaffirmed our belief that high-ability learners flourish when they experience
-depth, meaning and intellectual challenge. Victoria School continues to
-align our programmes with this approach, including for students on the
-SEC track, so that learning remains rigorous, relevant and future-oriented.</p>
-<p>Beyond the classroom, we give our boys opportunities to grow through experience
-and authentic engagement. Whether they are representing the school in sports,
-performing on stage, contributing through CCAs or serving the community,
-these experiences build resilience, teamwork and composure. They also help
-our boys discover their strengths and learn what it means to contribute
-with purpose.</p>
-<p>We also want Victorians to understand the world they will inherit. Global
-awareness and cross-cultural literacy are increasingly essential, and we
-are actively exploring sustainable partnerships with overseas schools.
-These partnerships will give our boys opportunities to learn beyond borders,
-form friendships across cultures and broaden their perspectives through
-real-world encounters. Our aim is not merely to expose them to global environments,
-but to help them engage with the world thoughtfully and confidently.</p>
-<p>This work is made possible by a team of educators and staff who believe
-deeply in the potential of our boys. Our teachers, allied educators, School
-Administration Team and colleagues at Victoria Hall create a supportive
-and purposeful environment where students can learn and grow. We are also
-grateful to the coaches and instructors who partner us in developing our
-boys through their CCAs, contributing to their growth in meaningful ways.</p>
-<p>Victoria School’s strength also lies in the community that surrounds it.
-We are fortunate to be supported by the Victoria Advisory Committee, the
+<p>As I reflect on the year ahead, I do so with a deep sense of purpose and
+confidence in what Victoria School can continue to become. For almost 150
+years, our school has shaped young men of character, and today we remain
+committed to building on that legacy while preparing our students for a
+rapidly changing world.</p>
+<p>Over the past year, we refreshed our school direction to honour our heritage
+while giving clearer shape to the kind of Victorian we hope to nurture.
+For many years, the mission of nurturing a Gentleman, Professional and
+Sportsman guided generations of students and continues to hold meaning
+for many. Building on this foundation, we recognised that the world our
+boys will inherit requires more than personal accomplishment. It calls
+for young men who are anchored in values, confident in their identity and
+committed to their community and country.</p>
+<p>This commitment is captured in our refreshed direction. Victoria School
+now aspires for every student to grow into a Gentleman · Sportsman · Leader,
+guided by a mission to lead and serve with purpose. Our values of Service,
+Tenacity, Responsibility, Integrity, Vision and Empathy (STRIVE) shape
+the culture we cultivate each day. These values broaden our understanding
+of excellence. We believe excellence is most meaningful when paired with
+humility, integrity and care for others. At its heart, this is a move from
+Me to We, reflecting our belief that leadership begins with character and
+finds its purpose in service.</p>
+<p>This direction also reinforces our partnership with Cedar Girls’ Secondary
+School and Victoria Junior College. The review of the Integrated Programme
+that concluded in 2024 provided an opportunity to reaffirm our shared commitment
+to developing high-ability learners who think deeply, act ethically and
+contribute purposefully. Victoria School will continue to align our programmes
+with this approach, including for students on the SEC track, so that learning
+remains rigorous, meaningful and forward-looking.</p>
+<p>As we look ahead, we want our boys to grow in confidence, curiosity and
+composure. We aim to nurture young men who are globally aware and cross-culturally
+literate, able to collaborate with others and ready to navigate an interconnected
+world. We have begun exploring sustainable partnerships with overseas schools
+to create opportunities for Victorians not only to learn about the world
+but also to build friendships and broaden their perspectives through authentic
+experiences.</p>
+<p>At the heart of our work is the growth of every student. Whether in the
+classroom, on the sports field, in the performing arts or serving the community,
+we seek to nurture resilience, teamwork and a desire to do what is right.
+These qualities endure and shape the adults our boys will become.</p>
+<p>The work of Victoria School is made possible by a dedicated team of teachers,
+allied educators, staff in the School Administration Team and Victoria
+Hall. Their professionalism and commitment ensure that our boys learn in
+an environment that is caring, supportive and purposeful. We are also grateful
+to our coaches and instructors who partner us in developing our students
+through CCAs, contributing to their growth in meaningful ways.</p>
+<p>We are fortunate to be supported by the Victoria Advisory Committee, the
 Old Victorians’ Association and the Parents Support Group. Their guidance,
-generosity and belief in our mission enrich the school experience and connect
-generations of Victorians through a shared sense of identity and purpose.</p>
-<p>As we approach our 150<sup>th</sup> Anniversary in 2026, we stand at a
-significant moment in our history. Our theme, <em>Honour Our Heritage, Inspire the Future</em>,
-calls us to celebrate the legacy we have inherited while looking ahead
-with ambition and clarity. We invite all Victorians, past and present,
-to join us as we prepare for this milestone and shape the next chapter
-of our school’s journey.</p>
+partnership and generosity have strengthened our programmes and enriched
+the school experience for our boys. Their continued belief in the mission
+of Victoria School reflects the strong sense of belonging that connects
+generations of Victorians.</p>
+<p>As we approach Victoria School’s 150<sup>th</sup> Anniversary in 2026,
+we stand at a significant moment in our history. Our theme, Honour Our
+Heritage, Inspire the Future, invites us to celebrate the legacy we have
+inherited while looking ahead with ambition and purpose. We welcome all
+Victorians, past and present, to journey with us as we prepare for this
+milestone and envision the next chapter of our growth.</p>
 <p>Victoria School remains committed to nurturing young gentlemen, sportsmen
 and leaders who learn with purpose, serve with conviction and lead with
 integrity. I look forward to the possibilities ahead and to all that our
-boys will become.</p>
-<p></p>
+boys will achieve in the years to come.</p>
+<p>&nbsp;</p>
 <p><em>Nil Sine Labore</em>
-</p>
-<p>Low Chun Meng
+<br>Low Chun Meng
 <br>Principal</p>
