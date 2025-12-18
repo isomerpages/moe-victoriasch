@@ -49,9 +49,8 @@ ceremony on Monday, 5 January 2026.
 <br>b. <u>Monday, 5 January 2026</u>. Please report to the school by&nbsp;<strong>07:20h&nbsp;</strong>in
 full uniform (white shirt and khaki shorts). The day’s activities will
 end by&nbsp;<strong>16:00h</strong>. The day’s activities will end by&nbsp;<strong>16:00h</strong>.</p>
+<p></p>
 </li>
-</ol>
-<ol start="4" data-tight="true" class="tight">
 <li>
 <p>We will share more information in a subsequent letter.</p>
 </li>
