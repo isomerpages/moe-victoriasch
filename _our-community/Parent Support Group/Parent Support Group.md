@@ -31,4 +31,4 @@ Warmest regards,
 
 
 Angela Lee
-Chairman
+<br>Chairman
