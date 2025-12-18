@@ -29,6 +29,6 @@ May I take the opportunity to wish all of you a Happy New Year 2026. Nil Sine La
 
 Warmest regards,
 
-Angela Lee
 
+Angela Lee
 Chairman
