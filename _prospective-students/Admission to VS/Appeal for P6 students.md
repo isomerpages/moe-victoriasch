@@ -13,7 +13,7 @@ School admissions are based on merit in the Secondary 1 Posting Exercise. Postin
 
 Primary 6 students who have applied to Victoria School during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to Victoria School. These students appealing for admission to VS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COP) for the O Level or Integrated Programme.
 
-The cut-off points for Victoria School this year are as follows:
+The cut-off points for Victoria School in 2024 are as follows:
 * O-Level: AL 9
 * Integrated Programme: AL 7
 
