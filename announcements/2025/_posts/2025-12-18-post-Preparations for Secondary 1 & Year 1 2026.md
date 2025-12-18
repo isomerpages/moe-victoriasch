@@ -22,11 +22,11 @@ years.</p>
 <p>In line with our emphasis on a holistic education, your son will have
 many opportunities to learn and grow through our curricular and co-curricular
 activities. More information about the school can be found at the school
-website&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://victoria.moe.edu.sg/</a>.</p>
+website&nbsp;<a href="https://victoria.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://victoria.moe.edu.sg/</a>.</p>
 </li>
 <li>
 <p>Secondary 1 Registration will open at&nbsp;<strong>08:00h on Friday, 19 December 2025</strong>.&nbsp;
-You can access the link&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/vssec1registration2026</a> to
+You can access the link&nbsp;<a href="https://go.gov.sg/vssec1registration2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/vssec1registration2026</a> to
 complete the Online Information Form to&nbsp;<strong>confirm your child’s/ward’s registration</strong>&nbsp;as
 a student of Victoria School.</p>
 </li>
