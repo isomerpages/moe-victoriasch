@@ -5,74 +5,131 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-![](/images/VS_PSG_Group_Collage_1.jpg)
+![](/images/VS_PSG_Team.png)
 
-<table style="width:699.0pt;border-collapse:collapse;mso-yfti-tbllook:1536;
- mso-padding-alt:0in 0in 0in 0in" width="932" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:152.0pt;border-top:#DDDDDD;border-left:
-  #D6D6D6;border-bottom:#DDDDDD;border-right:#D6D6D6;border-style:solid;
-  border-width:1.0pt;mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;
-  mso-border-bottom-alt:#DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;
-  mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Advisors</span></b></p></td><td style="width:547.0pt;border-top:solid #DDDDDD 1.0pt;
-  border-left:none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-left-alt:solid #D6D6D6 1.0pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal">Mr&nbsp;Low Chun Meng<br>Mr Lee Kwok Cheong</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">School Liaison</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Thirumaran Velusamy<br>
-	</span><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Seow Shi Jin</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Chairman</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Angela Lee</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Vice Chair</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Karen Tan</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Secretary</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Sudha Rani</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Treasurer</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Tan Seng Chun</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:152.0pt;border-top:none;border-left:
-  solid #D6D6D6 1.0pt;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-top-alt:#DDDDDD .5pt;
-  mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:#DDDDDD .5pt;
-  mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b>Asst Treasurer</b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #DDDDDD 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:#DDDDDD .5pt;mso-border-left-alt:#D6D6D6 1.0pt;mso-border-bottom-alt:
-  #DDDDDD .5pt;mso-border-right-alt:#D6D6D6 1.0pt;mso-border-style-alt:solid;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal">Ms Ng Chin Chin</p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:152.0pt;border:solid #D6D6D6 1.0pt;
-  border-top:none;mso-border-top-alt:solid #DDDDDD .5pt;padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="203"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Committee Members</span></b></p></td><td style="width:547.0pt;border-top:none;border-left:
-  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #DDDDDD .5pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
-  padding:4.0pt 4.0pt 4.0pt 4.0pt" valign="top" width="729"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms April Hsu, Mr Darren Seow, Mr Donny Teo, Ms Khim Ng, Mr Lee Soon Hwa, Mr Ping Hardianto Tjipto, Ms Poh Ee Lyn, Ms Poonam, Ms Tan Wan Ling, Ms Yusra Majid Naqash</span></p></td></tr></tbody></table>
+   
+
+<table style="border-collapse:
+ collapse;width:877pt;mso-yfti-tbllook:1536" width="1169" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;width:191pt" width="254"> <col style="mso-width-source:userset;width:686pt" width="915"></colgroup><tbody><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Advisors</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Low Chun Meng<br></span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:
+  Lato;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Lee Kwok Cheong</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">School Liaison</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:black;
+  mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;
+  font-style:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:black;
+  mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;
+  font-style:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Teo Tick Gay Adrian</span></p><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:black;
+  mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">Ms Seow Shi Jin</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Chairman</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms Angela Lee</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Vice Chair</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms Karen Tan</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Secretary</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms Tan Wan Ling</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Asst Secretary</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms Yuna </span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:
+  Lato;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ernanita</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Treasurer</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr Tan Seng Chun</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:inherit;mso-ascii-font-family:inherit;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Asst Treasurer</span></p></td><td style="width:686pt" width="915" class="oa1"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms </span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Naqash</span><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Yusra Majid</span></p></td></tr><tr><td style="width:191pt" width="254" class="oa2"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Committee Members</span></p></td><td style="width:686pt" width="915" class="oa2"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+  text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
+  mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:18.0pt;font-family:Lato;mso-ascii-font-family:Lato;
+  color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-SG;
+  mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr Darren Seow, Ms Khim Ng, Ms Poh Ee Lyn, Ms Adeline Tan, Ms Annissa Koh, Ms Freda Tham, Ms Li </span><span style="font-size:18.0pt;font-family:Lato;
+  mso-ascii-font-family:Lato;color:black;mso-color-index:1;mso-font-kerning:
+  12.0pt;language:en-SG;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">LingLu</span></p></td></tr></tbody></table>
