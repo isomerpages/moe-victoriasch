@@ -188,10 +188,8 @@ citizens. They uphold the duties of a citizen, use technology wisely, and
 ensure the safety of themselves and others.</p>
 <p><em>Citizenship</em>
 </p>
-<p>4.2&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians who are Singapore citizens must sing the National Anthem and take the Pledge</strong>**.
-Students will take the Pledge with the right fist placed over the heart.**
-Victorians of other nationalities are to stand at attention as a mark of
-respect.</p>
+<p>4.2&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians who are Singapore citizens must sing the National Anthem and take the Pledge.</strong>  <strong>Students will take the Pledge with the right fist placed over the heart. </strong>Victorians
+of other nationalities are to stand at attention as a mark of respect.</p>
 <p><em>Digital Responsibility</em>
 </p>
 <p>4.3&nbsp;&nbsp;&nbsp;&nbsp; Victorians adhere to school rules on the storage
