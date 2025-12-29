@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Victorians/Code of Conduct.md
       - Victorians/.keep
       - Victoria Advisory Committee.md
       - Staff/School Management Committee.md
