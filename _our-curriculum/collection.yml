@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Code of Conduct.md
       - Academic Development/.keep
       - Academic Development/‘O’ Level Programme.md
       - Academic Development/Integrated Programme.md
