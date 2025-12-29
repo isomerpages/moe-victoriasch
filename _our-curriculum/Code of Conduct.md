@@ -157,9 +157,9 @@ care for their shared environment.</p>
 </p>
 <p>3.2&nbsp;&nbsp;&nbsp;&nbsp; Victorians foster positive relationships built
 on respect, kindness and empathy. They cooperate with their peers, support
-one another in learning and CCAs<a href="#_msocom_1" rel="noopener noreferrer nofollow" target="_blank">[T(1]</a>&nbsp;, and show respect to teachers, staff
-and visitors. They do not engage in bullying, exclusion or behaviour that
-harms the dignity of others.</p>
+one another in learning and CCAs, and show respect to teachers, staff and
+visitors. They do not engage in bullying, exclusion or behaviour that harms
+the dignity of others.</p>
 <p>3.3&nbsp;&nbsp;&nbsp;&nbsp; Victorians uphold proper decorum during assemblies
 and school events, recognising that their conduct reflects the values of
 the school community.</p>
