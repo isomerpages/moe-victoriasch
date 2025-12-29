@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/code_of_conduct-1_2017.jpg">
 </div>
 <h1><strong>Code of Conduct</strong></h1>
-<h2>Our Beliefs</h2>
+<h3>Our Beliefs</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Victorians learn best in an environment of order and discipline. They
@@ -26,7 +26,7 @@ punishment. We apply them fairly, firmly and appropriately to guide Victorians
 in living out our school’s direction.</p>
 </li>
 </ul>
-<h2>Our Expectations</h2>
+<h3>Our Expectations</h3>
 <p>Every Victorian sets high expectations for himself as a Gentleman, Sportsman
 and Leader who serves and leads his family, community and country.</p>
 <ul data-tight="true" class="tight">
@@ -45,7 +45,7 @@ learning environment. They honour school rules, value community and uplift
 those around them.</p>
 </li>
 </ul>
-<h2>Our Approach</h2>
+<h3>Our Approach</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Our approach to student management reflects our commitment to student
@@ -68,7 +68,7 @@ Applied with proportionality and compassion, they help Victorians take
 responsibility, repair trust and strengthen relationships.</p>
 </li>
 </ul>
-<h2>Our Standards</h2>
+<h3>Our Standards</h3>
 <h4><strong><em>1. Personal Conduct and Grooming</em></strong></h4>
 <p>1.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to present themselves
 with pride and discipline. Their attire, grooming and conduct must be neat,
