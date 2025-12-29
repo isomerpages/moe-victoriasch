@@ -2,7 +2,7 @@
 title: Art Elective Programme (AEP)
 permalink: /our-curriculum/talent-programme/art-elective-programme/
 description: ""
-third_nav_title: Talent Programmes
+third_nav_title: Talent Development
 ---
 # **‘O’ Level Programme**
 
@@ -16,8 +16,8 @@ The Art Elective Programme (AEP) is designed to enable pupils with both academic
 
 #### Programme
 
-The AEP is a four-year course that prepares pupils for the GCE ‘O’ Level Higher Art Examination. Pupils selected for the AEP will take Higher Art in place of Design & Technology and Home Economics at the lower secondary level. In the mainstream schools, AEP pupils are expected to complete the four-year course and offer Higher Art as a subject for examination at the GCE ‘O’ Level. AEP pupils in the Integrated Programme (IP) schools offer H2 and H3 Art as examination subjects at the GCE ‘A’ Level.  
-AEP is offered only at the following schools:
+The AEP is a four-year course that prepares pupils for the GCE ‘O’ Level Higher Art Examination. Pupils selected for the AEP will take Higher Art in place of Design &amp; Technology and Home Economics at the lower secondary level. In the mainstream schools, AEP pupils are expected to complete the four-year course and offer Higher Art as a subject for examination at the GCE ‘O’ Level. AEP pupils in the Integrated Programme (IP) schools offer H2 and H3 Art as examination subjects at the GCE ‘A’ Level.  
+AEP&nbsp;is offered only at the following schools:
 
 
 
@@ -27,9 +27,9 @@ AEP is offered only at the following schools:
 
 #### Admission
 
-Pupils interested in the AEP are advised to select schools offering the programme among the six choices of school. They are encouraged to select anAEP school as their first choice.
+Pupils interested in the&nbsp;AEP&nbsp;are advised to select schools offering the programme among the six choices of school. They are encouraged to select anAEP&nbsp;school as their first choice.
 
-To qualify for the AEP, the pupil must first meet the entry requirement of the Express courses in the selected school. Upon admission to the school, the pupil must apply for the programme at the school and must pass an internal AEP Selection Test set by the school.  
+To qualify for the&nbsp;AEP, the pupil must first meet the entry requirement of the Express courses in the selected school. Upon admission to the school, the pupil must apply for the programme at the school&nbsp;and must pass an internal&nbsp;AEP Selection Test set by the school.  
 Higher Art in the GCE ‘O’ Level Examination is equivalent to a Humanities subject. Pupils who offer Higher Art will be allowed to use the Art grade as a Humanities subject grade for admission to JC/MI.
 
 #### Enrichments
@@ -37,7 +37,7 @@ Higher Art in the GCE ‘O’ Level Examination is equivalent to a Humanities su
 Pupils can expect regular enrichment activities over the four years as an AEP student. These include:
 
 *   Visits to galleries, museums and major local art shows,
-*   Talks & Workshops by artists,
+*   Talks &amp; Workshops by artists,
 *   Participation in both local and international competitions,
 *   Overseas learning journeys,
 *   Participation in school-based art exhibitions,

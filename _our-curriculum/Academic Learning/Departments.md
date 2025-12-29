@@ -2,7 +2,7 @@
 title: Departments
 permalink: /our-curriculum/academic-development/departments/
 description: ""
-third_nav_title: Academic Development
+third_nav_title: Academic Learning
 variant: markdown
 ---
 # **Departments**

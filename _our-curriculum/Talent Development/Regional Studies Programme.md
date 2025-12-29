@@ -2,7 +2,7 @@
 title: Regional Studies Programme
 permalink: /our-curriculum/talent-programme/regional-studies-programme/
 description: ""
-third_nav_title: Talent Programmes
+third_nav_title: Talent Development
 variant: markdown
 ---
 # **Regional Studies Programme**

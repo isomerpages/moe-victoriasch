@@ -2,7 +2,7 @@
 title: ‘O’ Level Programme
 permalink: /our-curriculum/academic-development/o-level-programme/
 description: ""
-third_nav_title: Academic Development
+third_nav_title: Academic Learning
 ---
 # **‘O’ Level Programme**
 
@@ -35,7 +35,3 @@ Art & Design
 Food and Consumer Education  
 Music  
 Physical Education
-
-
-
-

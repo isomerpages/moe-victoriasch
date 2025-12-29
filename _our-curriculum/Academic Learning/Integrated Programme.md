@@ -2,7 +2,7 @@
 title: Integrated Programme
 permalink: /our-curriculum/academic-development/integrated-programme/
 description: ""
-third_nav_title: Academic Development
+third_nav_title: Academic Learning
 variant: markdown
 ---
 # **Integrated Programme**
