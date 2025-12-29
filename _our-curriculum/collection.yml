@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Code of Conduct.md
-      - Academic Development/.keep
-      - Academic Development/‘O’ Level Programme.md
-      - Academic Development/Integrated Programme.md
-      - Academic Development/Departments.md
+      - Academic Learning/.keep
+      - Academic Learning/‘O’ Level Programme.md
+      - Academic Learning/Integrated Programme.md
+      - Academic Learning/Departments.md
       - Student Development/.keep
       - Student Development/Arts Education.md
       - Student Development/Character & Leadership Education.md
