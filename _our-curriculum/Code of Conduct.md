@@ -2,267 +2,437 @@
 title: Code of Conduct
 permalink: /our-people/victorians/code-of-conduct/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Code of Conduct**
-
-![](/images/code_of_conduct-1_2017.jpg)
-
-
-
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">A Gentleman's Appearance</label>
-    <div>
-			<p></p><h4>A Gentleman’s Appearance</h4><p></p>
-		<p><table style="border-collapse: collapse; border-spacing: 0; color: #060606;" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">1</span></th><th style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">School Uniform</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.1</td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to wear the prescribed school uniform with the school badge. <span style="font-weight: bold">Modification to the uniform is not allowed</span>.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.2</td>
-		  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to button up and tuck in their shirts at all times. Shorts/ trousers are to be worn well fit around the hips and waist.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.3</td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to tuck in their T-shirts when in half-uniform (PE/class T-shirt with shorts/pants).</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.4</td>
-		      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Upper Secondary Victorians are to wear the prescribed VS belts purchased from the school bookshop or similar plain black belts. Victorians who forget to wear their belts are required to purchase one from the school bookshop.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.5</td>
-		        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to wear white-based track/canvas shoes which are low cut and properly laced with white shoelaces. Victorians are to wear VS socks / plain white socks which are to cover their ankles fully. The shoes are to be kept clean at all times. Outlandish colours (eg. neon pink, orange, etc.) and designs on the shoes are not allowed.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.6</td>
-		          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be neatly dressed in their school uniform in school and at school functions or activities.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.7</td>
-		            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to wear the school tie smartly with a neat tie-knot on Mondays and during school functions. Victorians who forget to bring their ties are required to purchase one from the school bookshop.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.8</td>
-		              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to wear their PE attire during PE lessons, games and physical activities.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.9</td>
-		                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians can wear their PE attire/school based CCA T-shirts with appropriate shoes and socks on Saturdays and school holidays for school based activities.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">2</span></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Grooming</span></td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.1</td>
-		  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be mindful of their personal grooming as it projects the school image and the Victorian community they belong to. Thus Victorians are to ensure that their hair is kept short and neatly combed without reaching the eyebrows in front, the collar at the back and the ears at the sides, nor be outlandishly styled, dyed or coloured. Sideburns should not be lower than at the half-ear mark.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.2</td>
-		  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians must be clean-shaven and neat in appearance.</td></tr>
-		    <tr>
-		      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.3</td>
-		      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to keep their fingernails clean and short.</td>
-	      </tr>
-	      <tr>
-          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.4</td>
-          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are not allowed to wear ear-rings, nose-rings/studs, body piercings, white transparent/translucent ear sticks on the earlobes, chains, necklaces, rings, chokers, bangles, wrist bands, either of cloth, string, leather, plastic or metal, or any objects deemed inappropriate by the school.</td></tr><tr>
-	          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.5</td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are not allowed to have any form of body decoration (eg. Tattoos). The school reserves the right to suspend Victorians found with any form of body decoration indefinitely.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">3</span></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Attendance</span></td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.1</td>
-	            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Daily attendance in school during term time is compulsory as it supports student learning. Thus Victorians value punctuality for class lessons and school activities. Victorians are to be in school by 725am, except on Thursdays when they need to be in school by 825am.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.2</td>
-	              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Only a medical certificate, which must be submitted to the Form Teacher upon a Victorian’s return to school, will be accepted to explain his absence from school based on medical reasons. A letter from parent/ guardian will be accepted for absence for family reasons, and only under exceptional instances such as funerals and religious festivals.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.3</td>
-	                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to obtain written permission from his Form Teacher before leaving the school premises during curriculum time based on valid reasons.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.4</td>
-	                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Permission may be sought from the Principal or Vice-Principal to leave the school early in the event of illness or unexpected circumstances. Victorians are to furnish their Form Teacher with a medical certificate upon their return to school.</td></tr>
-		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.5</td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be mindful of their participation in school activities and will seek the permission of the teacher-in-charge before any absence from participation.</td>
-	      </tr>
-		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.6</td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to inform the school promptly if they intend to leave the country during the school curriculum time based on valid reasons.</td>
-	      </tr>
-		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	      </tr>
-		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">4</span></td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Rule on Weapon</span></td>
-	      </tr>
-		  <tr>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.1</td>
-		    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</td>
-	      </tr></tbody></table></p>
-    </div>
-  </li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/code_of_conduct-1_2017.jpg">
+</div>
+<h1><strong>Code of Conduct</strong></h1>
+<h2>Our Beliefs</h2>
+<ul data-tight="true" class="tight">
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">A Professional’s Prerogatives</label>
-    <div>
-      <p></p><h4>A Professional’s Prerogatives</h4><p></p>
-	<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr>
-	  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">5</span></td>
-	  <th style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Flag Raising Ceremony</span></th></tr></thead><tbody><tr>
-	<td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5.1</td>
-	<td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians who are <span style="font-weight: bold">Singapore citizens must sing the National Anthem and take the Pledge</span>. Victorians will take the Pledge with the right fist over the heart.</td></tr>
-	    <tr>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5.2</td>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be punctual to attend this ceremony.</td>
-	      </tr>
-	    <tr>
-	    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5.3</td>
-	    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to assemble and line up in an orderly and quiet manner.</td></tr><tr>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5.4</td>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to stand at attention and face the flags when the National Anthem is being sung and the Pledge recited. </td></tr><tr>
-	        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5.5</td>
-	        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to observe the ceremony with solemnity and respect.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr>
-	          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">6</span></td>
-	          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Classroom Conduct</span></td></tr><tr>
-	            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.1</td>
-	            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to value the learning opportunities provided by teachers and thus value punctuality and participation in class lessons.</td></tr><tr>
-	              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.2</td>
-	              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to respect teachers and classmates because they gain respect in the process.</td></tr><tr>
-	                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.3</td>
-	                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to show that they are caring persons. They help others who genuinely need emotional support. Where they are capable, they tutor their fellow Victorians who need academic assistance or have the moral courage to stand up for them in times of distress.</td></tr><tr>
-	                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.4</td>
-	                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to actively seek their Form Teacher’s assistance and guidance whenever they are in doubt or in need of advice.</td></tr><tr>
-	                    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.5</td>
-	                    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to make use of curriculum time meaningfully by engaging in lessons and cooperating with teachers and classmates, and their mobile phones are switched off and put away in class during this time.</td></tr><tr>
-	                      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.6</td>
-	                      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to take pride in their work and submit their best effort in time so that they may improve themselves. </td></tr><tr>
-	                        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.7</td>
-	                        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to keep the classroom neat and clean so that they can learn in a conducive environment.</td></tr><tr>
-	                          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.8</td>
-	                          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be mindful that they should ensure security of property of others left in the classroom by not entering a classroom during recess, P.E. or any other time not authorised. Their honesty requires that they adhere to this ruling strictly.</td></tr><tr>
-	                            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.9</td>
-	                            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to obtain the teacher’s permission before entering and leaving any classroom or learning facility as part of their gentlemanly and professional behaviour.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr>
-	                              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7</td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Canteen Rules</span></td></tr><tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.1</td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to obtain the teacher’s permission before entering and leaving any classroom or learning facility as part of their gentlemanly and professional behaviour.</td></tr><tr>
-	                                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.2</td>
-	                                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to queue in an orderly fashion for food in the canteen.</td></tr><tr>
-	                                    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.3</td>
-	                                    <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to make it their duty to return plates, bowls, glasses and bottles to the respective containers provided by the food stalls as this helps in maintaining the general appearance and cleanliness of the canteen. </td></tr></tbody></table></p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">A Sportsman's Spirit</label>
-    <div>
-			<p></p><h4>A Sportsman's Spirit</h4><p></p>
-	<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr>
-	  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">8</span></td>
-	  <th style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Behavior and Conduct</span></th></tr></thead><tbody><tr>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.1</td>
-	      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to zealously guard and protect the good image of the school by carrying themselves with respect, pride and dignity at all times in and out of school.</td></tr><tr>
-	        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.2</td>
-	        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to be loyal and present their best behaviour, expected of law-abiding citizens. Good school climate and moral tone is achieved through the concerted effort of all Victorians in the school. Discipline is therefore, the responsibility and duty of every Victorian.</td></tr><tr>
-	          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.3</td>
-	          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to prepare well to excel in any competition or activity and be sporting and gracious in accepting the decision or outcome.</td></tr><tr>
-	            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.4</td>
-	            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to take safety and security seriously. They are to obey and adhere to the Road Safety Rules and Traffic regulations. </td></tr><tr>
-	              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.5</td>
-	              <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to take the lifts only if they have an injury and with permission from the Discipline Master. </td></tr><tr>
-	                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.6</td>
-	                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are not allowed to bring nor play card/ board games in school, or any activity deemed unacceptable by the school.</td></tr><tr>
-	                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.7</td>
-	                  <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Victorians are to play ball games only on the field, Indoor Sports Hall and other designated areas of play. They do not play games in classrooms, canteen, driveways, foyers and along corridors, or any area not designated for play. This is to ensure their safety and well-being.</td></tr><tr>
-	                    <td style="background-color: #FFF; border-color: #cdcdcd; border-style: solid; border-width: 1px; color: #808080; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal">8.8</td>
-	                    <td style="background-color: #FFF; border-color: #cdcdcd; border-style: solid; border-width: 1px; color: #808080; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal">Victorians are not allowed to use the school facilities to charge their personal mobile devices or computers.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td></tr><tr>
-	                      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">9</span></td>
-	                      <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Cyberwellness</span></td></tr><tr>
-	                        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.1</td>
-	                        <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students are to be familiar with and adhere to the ICT Acceptable Use Policy found in the VS Portal at <a target="_blank" href="https://www.victoria.moe.edu.sg/ict-acceptable-use-policy/">https://www.victoria.moe.edu.sg/ict-acceptable-use-policy/</a></td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Acceptable Use of ICT</span></td></tr><tr>
-	                          <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.2</td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Student use of</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">i) school-owned computers /IT equipment;</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ii) private-owned computers or devices e.g. tablet, mobile phones, etc in school and school-owned software, data, accounts ,wired/wireless network and online services</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">are for educational purposes only and must be consistent with the school’s vision, mission, values, curriculum and instructional goals.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Prohibited Use of ICT</span></td></tr><tr>
-	                            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.3</td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Student access to computers, mobile devices, network and internet services in VS is a privilege and not a right. Examples of prohibited uses include, but are not limited to, the following:</td></tr>
-	                          <tr>
-	                            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">i) Unauthorized use of computers/mobile devices - Accessing computers/mobile devices during curriculum hours without specific authorisation from the supervising teacher.</td>
-          </tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">To help students regulate their use of mobile devices, students are reminded of the following:- </td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">a) Use of mobile devices for online gaming is not allowed in the school premises;</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">b)	Mobile devices are not allowed to be used and should not be placed on students’ tables during lessons and in between transition of lessons;</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">c)	During the lesson, the teacher will ask students to take out their devices at the start of the activity. The students will be asked to switch off and put away these devices once the lesson activity is over;</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">d)	Students who are caught misusing their mobile devices during lessons will have their device confiscated. Parents will be informed. Students will have to get their devices from their teachers before the end of the day.</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td></tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ii)	Unsupervised usage of computers in computer laboratories - The use of computers in the computer laboratories is purely for curricular purposes under the supervision of the Subject Teacher. Computers located in the Media Resource Library (MRL) are available for use during non-curricular hours.</td></tr>
-	                              <tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">iii)	Accessing inappropriate materials - Accessing, submitting, posting, publishing, forwarding, downloading, scanning, or displaying materials that are defamatory, abusive, obscene, vulgar, sexually explicit, sexually suggestive, threatening, discriminatory, harassing and/or illegal.</td>
-          </tr>
-	                              <tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">iv)	Illegal Activities - Using the school’s computers, networks, and Internet services for any illegal activity or that violates other policies, procedures and/or school rules;</td>
-          </tr>
-	                              <tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">v)	Violating Copyrights - Copying or downloading copyrighted materials without the owner’s permission. Plagiarism - Representing as one’s own work any materials obtained on the Internet (such as term papers, articles, etc). When Internet sources are used in student work, the author, publisher and web site must be identified.</td>
-          </tr>
-	                              <tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">vi)	Misuse of Passwords/Unauthorized Access - Sharing passwords, using other users’ passwords and/or accessing other users’ accounts.</td>
-          </tr>
-	                              <tr>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-	                                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">vii)	Malicious Use/Vandalism - Any malicious use, disruption, altering, or harm to the school’s computers, software, equipment, networks, and Internet services, including but not limited to hacking activities and creation/uploading of computer viruses.</td>
-          </tr><tr><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" height="3"> </td><td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Serious Offences</span></td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">10.1</td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> Parents/Guardians will be informed for serious offences committed by the students. Appropriate action will be taken by the school. Examples of serious offences are, but are not limited to: </td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Using language or behaving in a manner detrimental to the moral tone of the school</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Defiance/disrespect to staff</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Sneaking into school after morning assembly</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Truancy</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Smoking and possession of cigarettes / Vaping and possession of e-cigarettes</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Disregard of safety rules</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Vandalism</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Theft</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Gambling</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Alcohol Consumption</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Substance abuse / Misuse of drugs</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Bullying</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Fighting /Assault</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Breach of assessment integrity including cheating during tests/ weighted assessments and plagiarism</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Forging or doctoring documents</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Possession of pornographic materials</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Video and ICT abuse</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Outrage of modesty</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Illegal filming with criminal intent</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Tattoos and all forms of body art etc.</td>
-          </tr>
-          <tr>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-            <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">•	Bullying</td>
-          </tr>
-              <tr>
-                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-                <td style="background-color:#FFF;border-color:#cdcdcd;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-              </tr></tbody></table></p>
-    </div>
-	</li>
-	</ul>
+<p>Victorians learn best in an environment of order and discipline. They
+also need care, encouragement and space to learn from mistakes and grow
+in character.</p>
+</li>
+<li>
+<p>Discipline is an educative process. Its goal is to instil self-discipline
+and good character so that every Victorian becomes a Gentleman, Sportsman
+and Leader.</p>
+</li>
+<li>
+<p>Consequences provide opportunities for learning and responsibility, not
+punishment. We apply them fairly, firmly and appropriately to guide Victorians
+in living out our school’s direction.</p>
+</li>
+</ul>
+<h2>Our Expectations</h2>
+<p>Every Victorian sets high expectations for himself as a Gentleman, Sportsman
+and Leader who serves and leads his family, community and country.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As Gentlemen, Victorians act with integrity and take responsibility for
+their decisions and actions. They learn from experiences and grow into
+kind, respectful and upright young men who uphold our school values.</p>
+</li>
+<li>
+<p>As Sportsmen, Victorians exercise self-discipline and take personal responsibility.
+They build strong relationships through empathy, cooperation and understanding.</p>
+</li>
+<li>
+<p>As Leaders, Victorians serve others and contribute to a safe and positive
+learning environment. They honour school rules, value community and uplift
+those around them.</p>
+</li>
+</ul>
+<h2>Our Approach</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our approach to student management reflects our commitment to student
+wellbeing and holistic development. We focus on helping Victorians learn
+and grow from their actions. We are firm in our standards and fair in our
+judgement.</p>
+</li>
+<li>
+<p>Every student is treated with dignity, impartiality and empathy. We uphold
+clear standards consistently to nurture integrity and resilience.</p>
+</li>
+<li>
+<p>We set and communicate high standards of behaviour that reflect our school
+direction and values. When misconduct occurs, we address it promptly and
+fairly, taking time to understand the context.</p>
+</li>
+<li>
+<p>Opportunities for reflection and restoration are built into our approach.
+Applied with proportionality and compassion, they help Victorians take
+responsibility, repair trust and strengthen relationships.</p>
+</li>
+</ul>
+<h2>Our Standards</h2>
+<h4><strong><em>1. Personal Conduct and Grooming</em></strong></h4>
+<p>1.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to present themselves
+with pride and discipline. Their attire, grooming and conduct must be neat,
+responsible and befitting of a Victorian both in and out of school, as
+it projects the school image and the community they belong to.</p>
+<p><em>Uniform</em>
+</p>
+<p>1.2&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians are to wear the prescribed school uniform with the school badge and modification to the uniform is not allowed.</strong> The
+school uniform should be purchased from the school bookstore to ensure
+the correct standard. Shirts must always be tucked. Upper Secondary Victorians
+must wear the prescribed VS belt or a plain black belt with their long
+pants.</p>
+<p>1.3&nbsp;&nbsp;&nbsp;&nbsp; PE attire is to be worn during PE lessons,
+games and physical activities. For school-based activities on Saturdays
+and school holidays, PE attire, House T-shirts or school-based co-curricular
+activities (CCAs) T-shirts may be worn with proper shoes and socks.</p>
+<p>1.4&nbsp;&nbsp;&nbsp;&nbsp; Victorians must wear VS socks or plain white
+socks that fully cover the ankles, together with white shoes or predominantly
+white running/track shoes. Shoes must be properly laced with white shoelaces.
+High-cut shoes, outlandish colours and loud designs are not permitted.</p>
+<p>1.5&nbsp;&nbsp;&nbsp;&nbsp; The school tie must be worn smartly with the
+full school uniform at every Monday morning assembly, at all formal school
+functions and whenever required by the school.</p>
+<p>Note: Refer to Annex A for sample photographs on how a Victorian should
+be attired.</p>
+<p><em>Personal Hygiene and Grooming</em>
+</p>
+<p>1.6&nbsp;&nbsp;&nbsp;&nbsp; Victorians should keep to a high standard
+of personal hygiene and grooming. Hair must be kept short, neat and tidy,
+with a slope at the back. When combed down, it must not reach the eyebrows,
+ears or shirt collar, and sideburns must not extend below mid-ear. Hair
+must be of natural colour and free from dyeing, tinting, perming or outlandish
+styles.</p>
+<p>1.7&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians must be clean-shaven and facial hair (moustache or beard) is not allowed.</strong>
+</p>
+<p>1.8&nbsp;&nbsp;&nbsp;&nbsp; Victorians are not allowed to wear earrings,
+studs, body piercings, ear sticks, or any form of jewellery or accessories.
+The school reserves the right to decide if an item is inappropriate.</p>
+<p>1.9&nbsp;&nbsp;&nbsp;&nbsp; Victorians must keep their fingernails clean
+and short. Body decorations such as tattoos are strictly prohibited. Any
+Victorian found with them may be suspended until removal efforts are made.</p>
+<p>1.10&nbsp;&nbsp; Routine attire and personal grooming checks may be conducted
+anytime during the school term. Victorians who repeatedly fail to act on
+advice and reminders from teachers will face disciplinary consequences.</p>
+<h4><strong>2. Attendance and Learning</strong></h4>
+<p>2.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to take their learning
+seriously. They must be punctual and present for their lessons, CCAs and
+other activities.</p>
+<p><em>Attendance and Punctuality</em>
+</p>
+<p>2.2&nbsp;&nbsp;&nbsp;&nbsp; Attendance in school is compulsory. Absence
+must be supported by a Medical Certificate (MC) issued by a certified medical
+practitioner or a parent’s letter for exceptional family reasons.</p>
+<p>2.3&nbsp;&nbsp;&nbsp;&nbsp; All Victorians are to report punctually at
+the designated venues for morning flag-raising assembly by 07:30 (except
+08:30 on Thursdays), unless otherwise informed. Reporting after these times
+constitutes late-coming.</p>
+<p>2.4&nbsp;&nbsp;&nbsp;&nbsp; Victorians must attend all lessons punctually
+and conscientiously. They may only leave school during curriculum time
+with written permission from the Form Teacher, or from the school management
+if unwell.</p>
+<p><em>Respect, Responsibility and Discipline in Learning</em>
+</p>
+<p>2.5&nbsp;&nbsp;&nbsp;&nbsp; Victorians greet their teachers and guests
+respectfully, use appropriate tone and behaviour in class, and seek permission
+before leaving the classroom or moving during lessons.</p>
+<p>2.6&nbsp;&nbsp;&nbsp;&nbsp; Victorians maintain order and discipline in
+their learning by keeping classrooms clean, restoring classroom order at
+the end of lessons, and switching off lights and fans when not in use.</p>
+<p>2.7&nbsp;&nbsp;&nbsp;&nbsp; They contribute to a positive learning environment
+by participating actively and responsibly in class and group work, and
+by always showing attentiveness and respect.</p>
+<p>2.8&nbsp;&nbsp;&nbsp;&nbsp; Victorians take ownership of their learning
+through regular review of lesson materials. They use Personal Learning
+Devices and ICT resources responsibly, solely for the purpose of learning.</p>
+<p>2.9&nbsp;&nbsp;&nbsp;&nbsp; Victorians complete and submit homework and
+assignments on time. They uphold academic integrity by not copying or allowing
+others to copy their work.</p>
+<p>[Refer to Section 4 for digital responsibility.]</p>
+<h4><strong><em>3. School, Community and Environment</em></strong></h4>
+<p>3.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to contribute positively
+to the school and wider community. They build a culture of empathy, kindness,
+respect, responsibility and harmony by the way they treat one another and
+care for their shared environment.</p>
+<p><em>Respect and Inclusivity</em>
+</p>
+<p>3.2&nbsp;&nbsp;&nbsp;&nbsp; Victorians foster positive relationships built
+on respect, kindness and empathy. They cooperate with their peers, support
+one another in learning and CCAs<a href="#_msocom_1" rel="noopener noreferrer nofollow" target="_blank">[T(1]</a>&nbsp;, and show respect to teachers, staff
+and visitors. They do not engage in bullying, exclusion or behaviour that
+harms the dignity of others.</p>
+<p>3.3&nbsp;&nbsp;&nbsp;&nbsp; Victorians uphold proper decorum during assemblies
+and school events, recognising that their conduct reflects the values of
+the school community.</p>
+<p><em>Care for Environment and Property</em>
+</p>
+<p>3.4&nbsp;&nbsp;&nbsp;&nbsp; Victorians take pride in their school by keeping
+the environment clean and treating property with care. They also practise
+environmental consciousness by using resources responsibly and supporting
+sustainability efforts. This includes reducing waste, reusing items where
+possible, and recycling appropriately.</p>
+<p>3.5&nbsp;&nbsp;&nbsp;&nbsp; Victorians share responsibility for maintaining
+a safe and pleasant environment for all. They take care of their belongings,
+and when they find items that are not theirs, they hand them to a teacher
+or submit them at the General Office.</p>
+<p><em>Community Spaces</em>
+</p>
+<p>3.6&nbsp;&nbsp;&nbsp;&nbsp; Victorians consume food and drinks only in
+the canteen; only plain water is permitted elsewhere in the school compound.</p>
+<p>3.7&nbsp;&nbsp;&nbsp;&nbsp; Victorians queue in an orderly manner and
+exercise patience and courtesy in the canteen. They return utensils, dispose
+of leftovers responsibly, and leave tables and shared spaces clean for
+others.</p>
+<h4><strong><em>4. Citizenship, Digital Responsibility and Safety</em></strong></h4>
+<p>4.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to act as responsible
+citizens. They uphold the duties of a citizen, use technology wisely, and
+ensure the safety of themselves and others.</p>
+<p><em>Citizenship</em>
+</p>
+<p>4.2&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians who are Singapore citizens must sing the National Anthem and take the Pledge</strong>**.
+Students will take the Pledge with the right fist placed over the heart.**
+Victorians of other nationalities are to stand at attention as a mark of
+respect.</p>
+<p><em>Digital Responsibility</em>
+</p>
+<p>4.3&nbsp;&nbsp;&nbsp;&nbsp; Victorians adhere to school rules on the storage
+and use of their handphones and Personal Learning Devices (PLDs). Handphones
+may only be used in accordance with school guidelines, and PLDs are to
+be used solely for the purpose of learning. Students must ensure their
+PLD is fully charged before bringing it to school; charging is permitted
+only in the school library during recess or after-school hours.</p>
+<p>4.4&nbsp;&nbsp;&nbsp;&nbsp; Victorians safeguard their devices. In the
+event of loss or theft, they must make a police report and inform the school.
+All PLDs are installed with a Device Management Application (DMA) to support
+a safe and conducive learning environment. Students must not uninstall
+or de-enrol the DMA, or attempt to access data and systems without authorisation.</p>
+<p>4.5&nbsp;&nbsp;&nbsp;&nbsp; Victorians interact online with respect and
+responsibility. They must not post remarks that are racially or religiously
+insensitive, vulgar, offensive or hurtful. They must not use any devices
+to create, store or share inappropriate content, or to make threats, cause
+harassment, impersonate or intimidate others.</p>
+<p>4.6&nbsp;&nbsp;&nbsp;&nbsp; Victorians respect intellectual property and
+digital integrity. They must obtain explicit permission from the content
+owner before downloading, copying, sharing or using copyrighted materials.
+They must not use, copy or share digital files in an unauthorised or illegal
+manner.</p>
+<p>4.7&nbsp;&nbsp;&nbsp;&nbsp; Victorians harness Artificial Intelligence
+and other technological tools ethically and responsibly. These tools are
+to support, not replace, their learning. Sources must be properly acknowledged
+and annotated.</p>
+<p><strong>Safety</strong>
+</p>
+<p>4.8&nbsp;&nbsp;&nbsp;&nbsp; Victorians are responsible for their own safety
+and that of others. They must not disregard safety rules or engage in behaviour
+that endangers themselves or others.</p>
+<p>4.9&nbsp;&nbsp;&nbsp;&nbsp; <strong>Victorians are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong>
+</p>
+<h4><strong><em>5. Consequences and Serious Offences</em></strong></h4>
+<p>5.1&nbsp;&nbsp;&nbsp;&nbsp; Victorians are expected to take responsibility
+for their actions. They are accountable for their conduct, and consequences
+will be applied fairly to guide learning and growth.</p>
+<p><em>Consequences</em>
+</p>
+<p>5.2&nbsp;&nbsp;&nbsp;&nbsp; A Victorian’s Conduct Grade is included in
+their semestral report slip. It is determined based on a holistic evaluation
+of the student’s overall behaviour throughout the semester.</p>
+<p>5.3&nbsp;&nbsp;&nbsp;&nbsp; A Victorian’s Conduct Grade will be considered
+in the application of scholarships, leadership appointments and representation
+of the school for external activities and programmes. If a Victorian is
+nominated for an award or opportunity, both within and beyond the school,
+his Conduct Grade will be considered before the nomination is endorsed.</p>
+<p>Serious Offences</p>
+<p>5.4&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians will be informed for serious
+offences. Further actions such as detention, suspension, caning or expulsion
+may be taken by the school.</p>
+<p>5.5&nbsp;&nbsp;&nbsp;&nbsp; Serious offences include, but are not limited
+to: disruptive behaviour, truancy, bullying, cyberbullying, cheating, forgery,
+open defiance, theft, vandalism, assault, gambling, substance abuse, possession
+of weapons, and other actions listed in <strong>Annex B</strong>.</p>
+<p>5.6&nbsp;&nbsp;&nbsp;&nbsp; Criminal offences will be referred to the
+Police.</p>
+<h4>Annex A</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex_A___Full_Uniform.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex_A___Half_Uniform.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex_A___PE_Attire.jpg">
+</div>
+<h4>Annex B Examples of Minor and Major Offences</h4>
+<h4><strong>Minor Offences</strong></h4>
+<p><em>Attendance</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Late coming</strong>&nbsp;–
+Being frequently late for school without valid reasons.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skipping classes</strong>&nbsp;–
+Wilful absence from formal lessons (including remedial) without a valid
+reason.</p>
+<p><em>Misconduct</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Improper attire and personal grooming</strong>&nbsp;–
+Disregarding school rules on attire, haircut, hairstyle etc. <em>Modification of school uniform is considered a major offence.</em>
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Littering</strong>&nbsp;–
+Deliberate dropping or leaving rubbish within school premises or public
+places.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Using of vulgar language</strong>&nbsp;–
+Verbalising coarse or abusive language (including online communications)
+against fellow Victorians and / or staff.
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Inconsiderate behaviour</strong>&nbsp;–
+Eating and drinking outside designated areas (school and in public), not
+following the rules of taking of lift, inconsiderate behaviour in public.
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sneaking into school after morning assembly</strong> –
+Deliberately avoiding / reporting to designated school personnel in-charge
+of late-coming, Deceitfully evading detection by running away.</p>
+<h4><strong>Major Offences</strong></h4>
+<p><em>Attendance</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Truancy</strong>&nbsp;–
+Being absent from school without a valid reason on school days (Mon – Fri).
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Leaving school grounds without permission</strong>&nbsp;–
+Leaving school grounds after reporting but before the end of the school
+(12:30pm) without approval.</p>
+<p><em>Misconduct</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bullying / Cyberbullying</strong>&nbsp;–
+Hurting, frightening or intimidating others <strong>repeatedly</strong> to
+deliberately cause harm, distress or humiliation. It can either be physical,
+verbal or psychological in nature. This includes cyberbullying.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cheating in assessments/tests/exams</strong>&nbsp;–
+Possessing any unauthorised items, copying from others, allowing others
+or colluding with others to copy/cheat during assessments.&nbsp; Tampering
+with marks or answers after scrips have been marked or returned.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Disruptive behaviour</strong>&nbsp;–
+Interfering with the smooth running of class or school events despite repeated
+reminders and warnings.
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Forging or Doctoring documents</strong>&nbsp;–
+Forging adult signatures, medical certificates, consent forms etc with
+the intention to deceive.
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Open defiance and/or rudeness</strong>&nbsp;–
+Repeatedly refusing to conform to school rules, norms and practices; disobeying
+teachers’ instructions; displaying rudeness and disrespect in speech and
+/ or body language.
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Using language or behaving in a manner detrimental to the moral tone expected of a Victorian Gentleman, Sportsman, and Leader</strong> –
+Speech or actions that negatively affect the values, culture or ethical
+environment of Victoria School such as disrespectful or offensive behaviour,
+or other behaviours that undermine the school values.</p>
+<p><em>Theft/Damage of Property</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Arson</strong>&nbsp;–
+Planting explosives or setting property on fire, whether attempted or actual.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Theft/Stealing</strong>&nbsp;–
+Stealing school property or property belonging to others. This includes
+taking personal belongings without the permission of the owner.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Vandalism</strong>&nbsp;–
+Deliberate destruction or damage to school or personal property such as
+writing graffiti, drawing or painting on it.</p>
+<p><em>Other Serious Offences</em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Assault</strong>&nbsp;–
+Attacking others violently, whether causing injury or not.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Fighting</strong>&nbsp;–
+Being involved in a physical altercation between individuals or opposing
+groups in which each attempts to harm or gain power over the other, with
+bodily force or weapons.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gambling/Betting</strong>&nbsp;–
+Using money in games, betting, etc
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gangsterism</strong>&nbsp;–
+Being involved in a gang assault/threat/harassment/extortion, whether actual
+or attempted
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Pornography</strong>&nbsp;–
+Consuming/possessing/distributing/selling pornographic materials (print
+or online)
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Possession of weapons</strong>&nbsp;–
+Possessing weapons (including weapon-like items) that may be used or intended
+to be used to cause harm to others.
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sexual Misconduct</strong>&nbsp;–
+Being involved in attempted rape, outrage of modesty, underage sex, sexual
+grooming, voyeurism etc.
+<br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Smoking/possession of cigarettes</strong> –
+Using/possessing/distributing/selling cigarettes
+<br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Vaping</strong> –
+Using/possessing/distributing/selling vaporisers and / or their accessories.
+<br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Substance abuse / Misuse of drugs –</strong>&nbsp;Consuming/possessing/distributing/selling
+alcohol, drugs, inhalants or any other illegal substances.
+<br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Outrage of modesty –</strong> Assaulting/using
+force on another person with the intent to outrage their modesty (includes
+molestation, groping, and other forms of unwanted physical contact)
+<br>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Video and ICT abuse –</strong> Gaining
+unauthorized access to computers, modification of data, and causing interference
+with computer use. This includes the distribution of harmful online content
+and hacking.
+<br>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Illegal filming with criminal intent –</strong> Taking
+videos/photos without consent, especially in private or sensitive settings
+(e.g., toilets, changing rooms, classrooms), with the intention to harass,
+embarrass or threaten the victim. May also include distributing the footage
+or for any exploitative purposes.
+<br>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Tattoos and all forms of body art</strong> –
+Having tattoos or body art that are permanent.</p>
+<h4>Annex C Disciplinary Consequences</h4>
+<p>We will adopt a restorative approach when addressing misbehaviour and
+misconduct of Victorians. Students will be counselled and they will reflect
+on their wrongdoing. Repeat offenders who ignore the restorative approach
+taken by the school will face more serious consequences.</p>
+<p>Examples of Follow-Up Actions/Consequences</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Reflection and counselling by Teacher/Counsellor</strong>:
+The teacher/counsellor will help students to reflect on their actions,
+to bring about a change in behaviour or attitude.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Engaging Parents/Guardian</strong>:
+The school believes in partnering parents to support Victorians who demonstrate
+behavioural problems or discipline issues. The school will engage parents/guardians
+throughout the process when managing students. For Victorians who have
+committed a serious offence, his parents/guardians will be invited to the
+school for a discussion.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cap on Conduct Grade</strong>:
+The Conduct Grade reflects the holistic assessment of student behaviour
+over each semester.&nbsp; Students who have committed major or serious
+offences will be given a Conduct Grade no better than “Fair” for that semester.
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Warning Letter</strong>:
+The school may issue a warning letter to Victorians through the parents/guardian,
+stating further consequences should the student continues to violate the
+school rules.
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Detention/School Service</strong>:
+Detention/Corrective Work is a consequence for minor offences and takes
+precedence over CCA and enrichment lessons. Victorians are expected to
+exercise accountability by informing relevant teachers should they be absent
+from CCA and enrichment lessons.
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Academic Consequence</strong>:
+Victorians who do not adhere to the instructions and regulations of school-based
+assessments and examinations may be awarded <strong>zero</strong> marks for
+the question / paper in which he flouted the rules and regulations. This
+may impact his overall grade and subsequent MSG/GPA.
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Suspension from Class/School</strong>:
+Depending on the nature of the offence, an errant Victorian may be suspended
+from class or school for a stipulated period.
+<br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caning</strong>:
+Caning may be administered on Victorians who have committed major offences.
+Only the Principal or staff authorised by the Principal may administer
+the caning.
+<br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Expulsion:</strong> Expulsion
+from school may occur for <strong>very serious offences</strong> or cases
+where the student’s conduct severely undermines safety, trust, or the school’s
+ability to manage the student.
+<br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Referral to Law Enforcement Agencies</strong>:
+There may be occasions when the school will have to seek the assistance
+of the Singapore Police Force, Central Narcotics Bureau or other law enforcement
+agencies when it is required by law or when the safety and security of
+students and staff are at risk.
+<br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Police Case</strong>: In
+cases where a Victorian is involved in a police case, the school will take
+the necessary disciplinary action after the police have concluded their
+investigations.
+<br>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Disciplinary Record</strong>:
+A disciplinary record will be kept in each Victorian’s dossier. Details
+of the nature of the offence and the disciplinary action taken will be
+recorded. A Victorian with a poor disciplinary record will not receive
+a testimonial or be considered for award nomination. His Conduct Grade
+will also be impacted.</p>
+<p>The list of offences and disciplinary consequences stated above are not
+exhaustive and are subjected to changes.</p>
+<p>Consequences may be meted out which could include a combination of measures
+in proportion to the nature, intent and gravity of the offence(s) committed
+by a Victorian.</p>
