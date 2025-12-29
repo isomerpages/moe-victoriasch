@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: markdown
 ---
-# **School Management Committee**
+# **Key Personnel**
 
 ![](/images/staffdirectory.jpg)
 
