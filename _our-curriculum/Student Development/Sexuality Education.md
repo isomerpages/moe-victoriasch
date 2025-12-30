@@ -60,7 +60,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of Victoria School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Victoria School’s Sexuality Education Programme for 2026</strong>
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -98,7 +98,7 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At Victoria School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
+<p><strong>At Victoria School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
 <h5><strong>Secondary 1</strong></h5>
 <table style="minWidth: 125px">
@@ -170,7 +170,7 @@ is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ and psychological abuse from others, especially those we know and trust,
 can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ access and acting irresponsibly or maliciously when online (e.g. spreading
 of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -302,7 +302,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +329,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -564,7 +564,7 @@ to the self-esteem of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -601,7 +601,7 @@ personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -661,7 +661,7 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -681,7 +681,7 @@ extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
 <p>
-<br><strong>At Victoria School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<br><strong>At Victoria School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -720,7 +720,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -734,7 +734,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -745,14 +745,14 @@ out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.
 <br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/vs-sed" rel="noopener nofollow" target="_blank">here</a><a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form is to be submitted by
-31/01/2025.
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://go.gov.sg/vs-sed2026" rel="noopener nofollow" target="_blank">here.</a> The completed form is to be
+submitted by 31/01/2026.
 <br>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-vs" rel="noopener nofollow" target="_blank">here</a><a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form is to be submitted by
-31/01/2025.
+at the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-vs2026" rel="noopener nofollow" target="_blank">here.</a> The completed form is to
+be submitted by 31/01/2026.
 <br>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6291 2965 and speak to Ms Seow Shi Jin (Subject Head, Character &amp;
 Citizenship Education) or email at seow_shi_jin@moe.edu.sg for discussion
