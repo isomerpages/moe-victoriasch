@@ -32,7 +32,7 @@ variant: markdown
     <label for="accordion3">Rates &amp; Application</label>
     <div>
       <p>Boarding fees are charged on a termly basis (according to MOE academic calendar for secondary schools). During the school term, (including March and September holidays), boarding fees apply even if boarder is not staying in the hostel. For vacation periods (May / June and November / December holidays), boarding fees will be calculated on a daily basis.<br><br>* Boarding fees are subject to change, at Victoria Hall’s discretion.</p>
-	  <p>Charges for Year 2025 (based on $27.50 per day)
+	  <p>Charges for Year 2026 (based on $27.50 per day)
 	  <table border="1">
 	    <thead>
 	      <tr>
@@ -46,45 +46,45 @@ variant: markdown
 	    <tbody>
 	      <tr>
 	        <td>Term 1</td>
-	        <td>1 January 2025</td>
-	        <td>23 March 2025</td>
-	        <td>82</td>
-	        <td>$2,255.00</td>
+	        <td>1 January 2026</td>
+	        <td>22 March 2026</td>
+	        <td>81</td>
+	        <td>$2,227.50</td>
           </tr>
 	      <tr>
 	        <td>Term 2</td>
-	        <td>24 March 2025</td>
-	        <td>30 May 2025</td>
+	        <td>23 March 2026</td>
+	        <td>29 May 2026</td>
 	        <td>68</td>
 	        <td>$1,870.00</td>
           </tr>
 	      <tr>
 	        <td>Semester I Holidays</td>
-	        <td>31 May 2025</td>
-	        <td>29 June 2025</td>
+	        <td>30 May 2026</td>
+	        <td>28 June 2026</td>
 	        <td>30</td>
 	        <td>$825.00</td>
           </tr>
 	      <tr>
 	        <td>Term 3</td>
-	        <td>30 June 2025</td>
-	        <td>14 September 2025</td>
+	        <td>29 June 2026</td>
+	        <td>13 September 2026</td>
 	        <td>77</td>
 	        <td>$2,117.50</td>
           </tr>
 	      <tr>
 	        <td>Term 4</td>
-	        <td>15 September 2025</td>
-	        <td>21 November 2025</td>
+	        <td>14 September 2026</td>
+	        <td>20 November 2026</td>
 	        <td>68</td>
 	        <td>$1,870.00</td>
           </tr>
 	      <tr>
 	        <td>Semester II Holidays</td>
-	        <td>22 November 2025</td>
-	        <td>31 December 2025</td>
-	        <td>40</td>
-	        <td>$1,100.00</td>
+	        <td>21 November 2026</td>
+	        <td>31 December 2026</td>
+	        <td>41</td>
+	        <td>$1,127.50</td>
           </tr>
 	      <tr>
 	        <td colspan="3">Total</td>
@@ -92,17 +92,11 @@ variant: markdown
 	        <td>$10,037.50</td>
           </tr>
         </tbody>
-      </table>
-	  </p><p>Payment is required within 14 days from the date of the invoice. Late payment may result in termination of stay.<br>
+      </table></p><p>Payment is required within 14 days from the date of the invoice. Late payment may result in termination of stay.<br>
 	  <br>There will not be any refund for any boarding fees paid.</p>
 			<p><b>Application</b><br>
-			Click <a href="/files/Self_Funded_Application_2025_.pdf"> here </a>  for the application form to apply for admission to Victoria Hall in 2025.</p>
-			<p>Instructions to Applicants<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 680px" class="tg"><colgroup><col style="width: 32px"><col style="width: 648px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">1)</th>
-			<th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Application is only open to students studying in MOE Secondary Schools and Junior Colleges.</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">2)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Completed forms are to be submitted to Victoria Hall Office. Incomplete application forms will not be processed.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">3)</td>
-			<td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Successful applicants will be informed of outcome via email <strong>within 1 month from the date of receipt of the completed application form, unless otherwise informed.</strong></td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">4)</td>
-			<td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Successful applicants will be given a letter of acceptance for <strong>2025</strong> and emplaced into a 4-bedded dormitory. No selection of roommate is allowed.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">5)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subsequent years of boarding (until graduation in Secondary 4 or JC 2) will be subject to annual review.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">6)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Successful applicants (non-Singaporean/PR) are required to take up a <strong>medical insurance policy</strong> to cover any possible hospitalization expenses due to illness <strong>AND</strong> personal accidents. A copy of the policy document is to be submitted to Victoria Hall Office <strong>within 1 month from the date of check-in.</strong></td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">7)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Check-in for successful applicants is only allowed during Hall Office operating hours.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">8)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">You are to abide by all the rules and regulations of Victoria Hall upon admission.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">9)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">You are to comply with any additional measures implemented to ensure overall safety of all residents.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">10)</td>
-			<td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Any breach of Victoria Hall rules and regulations may result in termination of stay.</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">11)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">For further enquiries on hostel accommodation prior to submission of application, please refer to our website at <a href="https://victoria.moe.edu.sg/contact-us/victoria-hall/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;background-color:transparent">/contact-us/victoria-hall/</span></a>.</td></tr></tbody></table></p>
-	<p><b>Withdrawal of Boarding</b><br>Boarders who wish to withdraw from their stay at Victoria Hall subsequently are to arrange for their parents to write in or email to the hostel at least two weeks prior to the date of permanent check-out.<br><br>All outstanding payments must be cleared and all Hall property must be returned before permanent check-out. Any repair and replacement costs of damaged Hall property will be borne by the boarder.</p>
+		    For enquiries on hostel accommodation, please email us at&nbsp;<a target="_blank" href="mailto:MOE_vshostel@moe.edu.sg">MOE_vshostel@moe.edu.sg</a>.</p>
+	  <p><b>Withdrawal of Boarding</b><br>Boarders who wish to withdraw from their stay at Victoria Hall subsequently are to arrange for their parents to write in or email to the hostel at least two weeks prior to the date of permanent check-out.<br><br>All outstanding payments must be cleared and all Hall property must be returned before permanent check-out. Any repair and replacement costs of damaged Hall property will be borne by the boarder.</p>
     </div>
   </li>
 	  <li>
