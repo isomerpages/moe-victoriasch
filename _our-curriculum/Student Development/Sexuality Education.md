@@ -745,14 +745,14 @@ out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.
 <br>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/vs-sed2026" rel="noopener nofollow" target="_blank">here.</a> The completed form is to be
-submitted by 31/01/2025.
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://go.gov.sg/vs-sed2026" rel="noopener nofollow" target="_blank">here.</a> The completed form is to be
+submitted by 31/01/2026.
 <br>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-vs2026" rel="noopener nofollow" target="_blank">here.</a> The completed form is to
-be submitted by 31/01/2025.
+be submitted by 31/01/2026.
 <br>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6291 2965 and speak to Ms Seow Shi Jin (Subject Head, Character &amp;
 Citizenship Education) or email at seow_shi_jin@moe.edu.sg for discussion
