@@ -82,8 +82,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Wong Wee Meng
-<br>Mr Pang Jeng Heng
-<br>Mr Khairul Anuar Bin Md Sidek</p>
+<br>Mr Pang Jeng Heng</p>
 </td>
 </tr>
 <tr>
@@ -265,8 +264,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mdm Shanmuga Sundaram Seetha Lakshmi
-<br>Mr Prabhu s/o Gobi Nathan</p>
-<p>Mr Suren G Gopalan (FAJT)</p>
+<br>Mr Prabhu s/o Gobi Nathan
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +278,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mr Saw Eh Tha Khu
 <br>Mr Edwin Lum Yik Long</p>
-<p>Ms Lim Ke Xin (FAJT)</p>
+<p>Mr Kwek En Hong Samuel (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -303,10 +302,9 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Danial Mazlan
-<br>Mr Tan Yim Siong</p>
-<p>Mr Muhamad Zahirrudin B Mohamad Ayub</p>
-<p>Mr Lee Boon Kee (FAJT)</p>
+<p>Mr Muhamad Zahirrudin B Mohamad Ayub
+<br>Mr Poh Lee Toon, Nordin
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -331,8 +329,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Atiqah Bte Ibrahim
-<br>Ms Wong Yim Nam
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Ho Ren An
+<br>Ms Wong Yim Nam</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +342,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Nur Fadhilah Binte Roslan Samat
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +382,7 @@ variant: tiptap
 <p>Mr Heng Yan Kai
 <br>Mr Lim Chee Keen Clarence
 <br>Ms Boey Peck Kay Peggy
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +394,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Chai Lee Wah Jaslyn
-<br>Mr Cao Jian Feng</p>
+<br>Mr Cao Jian Feng
+<br>Mr Ng Chee Siew (FAJT)</p>
 </td>
 </tr>
 <tr>
