@@ -45,8 +45,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Tan Yim Siong
-<br>Ms Marliana Bte Mohamed Ramli
-<br>Ms Lim In Siew</p>
+<br>Ms Lim In Siew
+<br>Ms Marliana Bte Mohamed Ramli</p>
 </td>
 </tr>
 <tr>
