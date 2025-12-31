@@ -44,8 +44,9 @@ variant: tiptap
 <p>Audio-Visual (AV) Club</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Poh Lee Toon Nordin
-<br>Ms Marliana Bte Mohamed Ramli</p>
+<p>Mr Tan Yim Siong
+<br>Ms Marliana Bte Mohamed Ramli
+<br>Ms Lim In Siew</p>
 </td>
 </tr>
 <tr>
@@ -100,8 +101,8 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mr Wong Liang Seng
 <br>Mdm Tan Ching Boon
-<br>Mdm Zhang Yongmei
-<br>Ms Lu Yan (FAJT)</p>
+<br>Ms Cheng Fang
+<br>Mdm Susan Chiong Soo Chien (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +128,8 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mrs Janice Chua Swee Ping
 <br>Ms Nur'Shifa Bte Mustafa
-<br>Ms Lo Mei Ee</p>
+<br>Mrs Lim-Lo Mei Ee Maggie
+<br>Mr Ng Boon Leng Jamie (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -167,8 +169,9 @@ variant: tiptap
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Rachel Tan
-<br>Mr Gordon Oei</p>
+<p>Ms Tan Yue Yin Rachel
+<br>Mr Oei Kian Tiong Gordon
+<br>Mr Tan Jie Jun Lester</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +252,8 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mr Kelvin Koh</p>
 <p>Ms Thng Kai Ting Vicki</p>
-<p>Mdm Norlinsah Bte Ismail</p>
+<p>Mdm Norlinsah Bte Ismail
+<br>Ms Lu Yan (FAJT)</p>
 </td>
 </tr>
 <tr>
