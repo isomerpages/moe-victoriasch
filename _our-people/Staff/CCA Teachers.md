@@ -44,7 +44,8 @@ variant: tiptap
 <p>Audio-Visual (AV) Club</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Poh Lee Toon Nordin
+<p>Mr Tan Yim Siong
+<br>Ms Lim In Siew
 <br>Ms Marliana Bte Mohamed Ramli</p>
 </td>
 </tr>
@@ -82,7 +83,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mr Wong Wee Meng
 <br>Mr Pang Jeng Heng
-<br>Mr Khairul Anuar Bin Md Sidek</p>
+<br>Ms Lee Siang Cheng (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -100,8 +101,8 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Mr Wong Liang Seng
 <br>Mdm Tan Ching Boon
-<br>Mdm Zhang Yongmei
-<br>Ms Lu Yan (FAJT)</p>
+<br>Ms Cheng Fang
+<br>Mdm Susan Chiong Soo Chien (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +113,8 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Nur Atika Binti Mohamed Naim</p>
-<p>Ms Lau Hui Bian
+<p>Ms Nur Atika Binti Mohamed Naim
+<br>Ms Lau Hui Bian
 <br>Mdm Choo Ai Lin Cynthia</p>
 </td>
 </tr>
@@ -125,9 +126,10 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs Janice Chua Swee Ping
+<p>Mrs Lim-Lo Mei Ee Maggie
+<br>Mrs Janice Chua Swee Ping
 <br>Ms Nur'Shifa Bte Mustafa
-<br>Ms Lo Mei Ee</p>
+<br>Mr Ng Boon Leng Jamie (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -167,8 +169,9 @@ variant: tiptap
 <p>Boys' Brigade</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Rachel Tan
-<br>Mr Gordon Oei</p>
+<p>Ms Tan Yue Yin Rachel
+<br>Mr Oei Kian Tiong Gordon
+<br>Mr Tan Jie Jun Lester</p>
 </td>
 </tr>
 <tr>
@@ -247,9 +250,10 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Kelvin Koh</p>
-<p>Ms Thng Kai Ting Vicki</p>
-<p>Mdm Norlinsah Bte Ismail</p>
+<p>Mr Kelvin Koh
+<br>Ms Thng Kai Ting Vicki
+<br>Mdm Norlinsah Bte Ismail
+<br>Ms Lu Yan (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -261,8 +265,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mdm Shanmuga Sundaram Seetha Lakshmi
-<br>Mr Prabhu s/o Gobi Nathan</p>
-<p>Mr Suren G Gopalan (FAJT)</p>
+<br>Mr Prabhu s/o Gobi Nathan
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -274,8 +278,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Saw Eh Tha Khu
-<br>Mr Edwin Lum Yik Long</p>
-<p>Ms Lim Ke Xin (FAJT)</p>
+<br>Mr Edwin Lum Yik Long
+<br>Mr Kwek En Hong Samuel (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -286,8 +290,8 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Lee Ren Ji Gerard David
-<br>Ms Mabel Sim Jia Hui
+<p>Ms Mabel Sim Jia Hui
+<br>Mr Lee Ren Ji Gerard David
 <br>Ms Tan Siew Ching</p>
 </td>
 </tr>
@@ -299,10 +303,10 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Danial Mazlan
-<br>Mr Tan Yim Siong</p>
-<p>Mr Muhamad Zahirrudin B Mohamad Ayub</p>
-<p>Mr Lee Boon Kee (FAJT)</p>
+<p>Mr Muhamad Zahirrudin B Mohamad Ayub
+<br>Mr Lee Ren Ji Gerard David
+<br>Mr Poh Lee Toon, Nordin
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -313,8 +317,8 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Seow Shi Jin</p>
-<p>Mr Leonard Lu Choun Hian
+<p>Ms Seow Shi Jin
+<br>Mr Leonard Lu Choun Hian
 <br>Mdm Ernie Bte Abdullah</p>
 </td>
 </tr>
@@ -328,7 +332,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Ms Atiqah Bte Ibrahim
 <br>Ms Wong Yim Nam
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Ho Ren An</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +344,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Nur Fadhilah Binte Roslan Samat
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -364,8 +368,8 @@ variant: tiptap
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Felicia Yeo Chiou Ming</p>
 <p>Mr Noor Sukhairan Bin Tugiran
+<br>Mdm Felicia Yeo Chiou Ming
 <br>Mr Khoo Kay Yong</p>
 </td>
 </tr>
@@ -380,7 +384,7 @@ variant: tiptap
 <p>Mr Heng Yan Kai
 <br>Mr Lim Chee Keen Clarence
 <br>Ms Boey Peck Kay Peggy
-<br>Mr Lee Boon Kee (FAJT)</p>
+<br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -392,7 +396,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Chai Lee Wah Jaslyn
-<br>Mr Cao Jian Feng</p>
+<br>Mr Cao Jian Feng
+<br>Mr Ng Chee Siew (FAJT)</p>
 </td>
 </tr>
 <tr>
