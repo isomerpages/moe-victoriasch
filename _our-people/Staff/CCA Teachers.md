@@ -82,7 +82,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Wong Wee Meng
-<br>Mr Pang Jeng Heng</p>
+<br>Mr Pang Jeng Heng
+<br>Ms Lee Siang Cheng (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +113,8 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Nur Atika Binti Mohamed Naim</p>
-<p>Ms Lau Hui Bian
+<p>Ms Nur Atika Binti Mohamed Naim
+<br>Ms Lau Hui Bian
 <br>Mdm Choo Ai Lin Cynthia</p>
 </td>
 </tr>
@@ -125,9 +126,9 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs Janice Chua Swee Ping
+<p>Mrs Lim-Lo Mei Ee Maggie
+<br>Mrs Janice Chua Swee Ping
 <br>Ms Nur'Shifa Bte Mustafa
-<br>Mrs Lim-Lo Mei Ee Maggie
 <br>Mr Ng Boon Leng Jamie (FAJT)</p>
 </td>
 </tr>
@@ -249,9 +250,9 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Kelvin Koh</p>
-<p>Ms Thng Kai Ting Vicki</p>
-<p>Mdm Norlinsah Bte Ismail
+<p>Mr Kelvin Koh
+<br>Ms Thng Kai Ting Vicki
+<br>Mdm Norlinsah Bte Ismail
 <br>Ms Lu Yan (FAJT)</p>
 </td>
 </tr>
@@ -277,8 +278,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Saw Eh Tha Khu
-<br>Mr Edwin Lum Yik Long</p>
-<p>Mr Kwek En Hong Samuel (FAJT)</p>
+<br>Mr Edwin Lum Yik Long
+<br>Mr Kwek En Hong Samuel (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -289,8 +290,8 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Lee Ren Ji Gerard David
-<br>Ms Mabel Sim Jia Hui
+<p>Ms Mabel Sim Jia Hui
+<br>Mr Lee Ren Ji Gerard David
 <br>Ms Tan Siew Ching</p>
 </td>
 </tr>
@@ -303,6 +304,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Mr Muhamad Zahirrudin B Mohamad Ayub
+<br>Mr Lee Ren Ji Gerard David
 <br>Mr Poh Lee Toon, Nordin
 <br>Mr Thirumaran s/o Velusamy (FAJT)</p>
 </td>
@@ -315,8 +317,8 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Ms Seow Shi Jin</p>
-<p>Mr Leonard Lu Choun Hian
+<p>Ms Seow Shi Jin
+<br>Mr Leonard Lu Choun Hian
 <br>Mdm Ernie Bte Abdullah</p>
 </td>
 </tr>
@@ -329,8 +331,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="5">
 <p>Ms Atiqah Bte Ibrahim
-<br>Mr Ho Ren An
-<br>Ms Wong Yim Nam</p>
+<br>Ms Wong Yim Nam
+<br>Mr Ho Ren An</p>
 </td>
 </tr>
 <tr>
@@ -366,8 +368,8 @@ variant: tiptap
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Felicia Yeo Chiou Ming</p>
 <p>Mr Noor Sukhairan Bin Tugiran
+<br>Mdm Felicia Yeo Chiou Ming
 <br>Mr Khoo Kay Yong</p>
 </td>
 </tr>
