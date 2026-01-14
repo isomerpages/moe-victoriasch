@@ -249,9 +249,8 @@ of weapons, and other actions listed in <strong>Annex B</strong>.</p>
 <p>5.6&nbsp;&nbsp;&nbsp;&nbsp; Criminal offences will be referred to the
 Police.</p>
 <h4>Annex A</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex_A___Full_Uniform.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Full_Uniform.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
