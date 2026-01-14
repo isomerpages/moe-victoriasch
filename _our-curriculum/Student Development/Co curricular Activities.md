@@ -11,7 +11,7 @@ variant: markdown
 
 
 ### Introduction
-Click [here](/files/2025_CCA_Deployment___Schedule_Semester_2.pdf) to view the 2025 list of CCA Teachers-in-charge and Schedule.
+Click [here](/files/2026_CCA_Deployment___Schedule_Semester_1_for_web.pdf) to view the 2026 list of CCA Teachers-in-charge and Schedule.
 
 **Cricket, NCC Sea and Sailing will not be offered as CCAs to incoming Sec 1 students from 2026 onwards. Shooting had stopped its intake since 2024.**
 

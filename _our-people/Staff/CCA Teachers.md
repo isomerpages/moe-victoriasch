@@ -115,7 +115,7 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Ms Nur Atika Binti Mohamed Naim
 <br>Ms Lau Hui Bian
-<br>Mdm Choo Ai Lin Cynthia</p>
+<br>Mdm Choo Ai Lin Cynthia (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +319,8 @@ variant: tiptap
 <td rowspan="1" colspan="5">
 <p>Ms Seow Shi Jin
 <br>Mr Leonard Lu Choun Hian
-<br>Mdm Ernie Bte Abdullah</p>
+<br>Mdm Ernie Bte Abdullah
+<br>Mr Firhad Rohani (FAJT)</p>
 </td>
 </tr>
 <tr>
