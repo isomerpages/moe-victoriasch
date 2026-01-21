@@ -12,9 +12,9 @@ variant: markdown
 
 **School fees and Financial Assistance Application**
 
-The Ministry of Education and the school provide financial assistance (MOE FAS) to Singaporean students to cover essential expenses such as fees, textbooks, and meals. Applications can be submitted online. 
-
 Regarding school fees, Victoria School’s autonomous school fee is $3 per month, in addition to the standard monthly fees and miscellaneous fees set by MOE. Use our fees checker to find out the amount and structure of monthly fees for Singapore Citizens, Permanent Residents or international students [here](https://www.moe.gov.sg/financial-matters/fees).
+
+The Ministry of Education and the school provide financial assistance (MOE FAS) to Singaporean students to cover essential expenses such as fees, textbooks, and meals. Applications can be submitted online. 
 
 The link to MOE FAS (Financial Assistance) is [here](https://www.moe.gov.sg/financial-matters/financial-assistance). The online application is [here](https://go.gov.sg/moe-efasggas). 
 
