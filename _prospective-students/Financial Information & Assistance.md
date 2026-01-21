@@ -10,35 +10,13 @@ variant: markdown
 
 ### Financial Information Assistance
 
-**Fees payable**
+**School fees and Financial Assistance Application**
 
-The monthly fees for Victoria School are the same for students in the ‘O’ Level Programme and the Integrated Programme. For 2023, the school fees are as follows:
+The Ministry of Education and the school provide financial assistance (MOE FAS) to Singaporean students to cover essential expenses such as fees, textbooks, and meals. Applications can be submitted online. 
 
-*   Singapore citizen: $28
-*   Permanent Resident: $583
-*   International Student (ASEAN): $993
-*   International Students: $1933
+Regarding school fees, Victoria School’s autonomous school fee is $3 per month, in addition to the standard monthly fees and miscellaneous fees set by MOE. Use our fees checker to find out the amount and structure of monthly fees for Singapore Citizens, Permanent Residents or international students [here](https://www.moe.gov.sg/financial-matters/fees).
 
-The fees payable include standard miscellaneous fees ($10), 2nd-tier miscellaneous fees ($10) and Autonomous School Fees ($3)
-
-**Financial assistance**
-
-VS is committed to ensuring that every student admitted into the school enjoys the benefits of the VS experience. Financial assistance is available to ensure that no deserving student is deprived of a high-quality education at VS.
-
-_MOE Financial Assistance_
-
-The Ministry of Education provides financial assistance to needy Singaporean students to pay for essential school expenses such as school fees, standard miscellaneous fees, textbooks and school attire.
-
-The eligibility criteria for MOE financial assistance are:
-
-*   The family’s Gross Household Income (GHI) does not exceed $3,000 per month; or
-*   The family’s Per Capita Income (PCI) does not exceed $750. PCI is computed based on GHI divided by the number of household members.
-
-Parents/guardians who wish to apply for MOE financial assistance can get the application form from the school’s General Office or download it from [here](/files/8b-MOE-FAS-Application-Form-1.pdf).
-
-_School-based Financial Assistance_
-
-VS students who are currently on the MOE FAS but require additional assistance (e.g. meal and/or transport subsidies), as well as those who are not eligible for MOE FAS but require assistance, may approach the school General Office for further information and assistance.
+The link to MOE FAS (Financial Assistance) is [here](https://www.moe.gov.sg/financial-matters/financial-assistance). The online application is [here](https://go.gov.sg/moe-efasggas). 
 
 ### Scholarships
 
