@@ -11,6 +11,6 @@ third_nav_title: Academic Learning
   <li type="a">If he failed to obtain at least a D7 or better, he would have to offer MTL instead of HMTL and sit for the GCE O Level MTL Examination of the following year. </li>
 </ol>
 <p>For Year 3 students offering MTL, NTIL or MT in lieu, they will sit for the GCE O Level MTL exams in June or November in Year 4. A minimum of D7 is required for them to proceed to Year 5 in VJC and continue offering H1 MTL in VJC.  </p>
-<p><img src="Do Not Leave Your Belongings Unattended.jpg"></p>
+<p><img src="images/Fig__1___Assessment_Policy.png"></p>
 <p style="text-align: center"><strong>Sec 4  </strong></p>
 <p>For Sec 4 HMTL students who did not meet the requirement of a minimum grade of B3 with their GCE O Level MTL exam result, they would have to offer MTL instead of HMTL after the release of the GCE O Level MTL exam result. </p>
