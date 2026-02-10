@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Code of Conduct.md
+      - Academic Learning/Assessment Policy.md
       - Academic Learning/.keep
       - Academic Learning/‘O’ Level Programme.md
       - Academic Learning/Integrated Programme.md
