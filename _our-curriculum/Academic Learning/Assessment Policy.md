@@ -5,6 +5,50 @@ variant: markdown
 description: ""
 third_nav_title: Academic Learning
 ---
+<style>
+  .grading-table {
+    border-collapse: collapse; 
+    width: 400px;
+    margin: 0 auto; /* This centers the table itself on the page */
+    font-family: Arial, sans-serif;
+  }
+  
+  .grading-table th, .grading-table td {
+    border: 1px solid black;
+    padding: 8px;
+    /* This centers the text inside both the header (th) and data (td) cells */
+    text-align: center; 
+  }
+
+  .grading-table th {
+    background-color: #D9D9D9;
+    /* Explicitly ensuring the header text is centered and bold */
+    text-align: center;
+    vertical-align: middle;
+  }
+</style>
+
+<table class="grading-table">
+  <thead>
+    <tr>
+      <th>Marks</th>
+      <th>Grade</th>
+      <th>Grade Point</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>% ≥ 75</td><td>A1</td><td>1</td></tr>
+    <tr><td>70 ≤ % &lt; 75</td><td>A2</td><td>2</td></tr>
+    <tr><td>65 ≤ % &lt; 70</td><td>B3</td><td>3</td></tr>
+    <tr><td>60 ≤ % &lt; 65</td><td>B4</td><td>4</td></tr>
+    <tr><td>55 ≤ % &lt; 60</td><td>C5</td><td>5</td></tr>
+    <tr><td>50 ≤ % &lt; 55</td><td>C6</td><td>6</td></tr>
+    <tr><td>45 ≤ % &lt; 50</td><td>D7</td><td>7</td></tr>
+    <tr><td>40 ≤ % &lt; 45</td><td>E8</td><td>8</td></tr>
+    <tr><td>% &lt; 40</td><td>F9</td><td>9</td></tr>
+  </tbody>
+</table>
+
 <ol>
   <li>Our Assessment Policy comprises  a learner-centred and balanced assessment (formative and summative) system that  supports quality teaching and learning, builds intrinsic motivation in students to learn,  and develops in them the capacity to learn for life.
     <ol>
