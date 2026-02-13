@@ -5,50 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Academic Learning
 ---
-<style>
-  .grading-table {
-    border-collapse: collapse; 
-    width: 400px;
-    margin: 0 auto; /* This centers the table itself on the page */
-    font-family: Arial, sans-serif;
-  }
-  
-  .grading-table th, .grading-table td {
-    border: 1px solid black;
-    padding: 8px;
-    /* This centers the text inside both the header (th) and data (td) cells */
-    text-align: center; 
-  }
-
-  .grading-table th {
-    background-color: #D9D9D9;
-    /* Explicitly ensuring the header text is centered and bold */
-    text-align: center;
-    vertical-align: middle;
-  }
-</style>
-
-<table class="grading-table">
-  <thead>
-    <tr>
-      <th>Marks</th>
-      <th>Grade</th>
-      <th>Grade Point</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>% ≥ 75</td><td>A1</td><td>1</td></tr>
-    <tr><td>70 ≤ % &lt; 75</td><td>A2</td><td>2</td></tr>
-    <tr><td>65 ≤ % &lt; 70</td><td>B3</td><td>3</td></tr>
-    <tr><td>60 ≤ % &lt; 65</td><td>B4</td><td>4</td></tr>
-    <tr><td>55 ≤ % &lt; 60</td><td>C5</td><td>5</td></tr>
-    <tr><td>50 ≤ % &lt; 55</td><td>C6</td><td>6</td></tr>
-    <tr><td>45 ≤ % &lt; 50</td><td>D7</td><td>7</td></tr>
-    <tr><td>40 ≤ % &lt; 45</td><td>E8</td><td>8</td></tr>
-    <tr><td>% &lt; 40</td><td>F9</td><td>9</td></tr>
-  </tbody>
-</table>
-
 <ol>
   <li>Our Assessment Policy comprises  a learner-centred and balanced assessment (formative and summative) system that  supports quality teaching and learning, builds intrinsic motivation in students to learn,  and develops in them the capacity to learn for life.
     <ol>
@@ -189,56 +145,55 @@ Assessments  are important milestone checks on students’ learning. Students ar
   </tr>
 </tbody></table>
 <p align="center"><strong>O-Level Grade Table</strong></p>
-	<table cellspacing="0" cellpadding="0" align="center" border="1">
-    <tbody><tr>
-	  <td bgcolor="#D9D9D9" width="151" style="border-style:solid;border-width:1px"><p align="center">Marks</p></td>
-      <td bgcolor="#D9D9D9" width="113" style="border-style:solid;border-width:1px"><p align="center">Grade</p></td>
-      <td bgcolor="#D9D9D9" width="113" style="border-style:solid;border-width:1px"><p align="center">Grade Point</p></td>
+<table cellspacing="0" cellpadding="0" align="center" border="1">
+  <tbody><tr>
+      <td width="151" style="border-style:solid;border-width:1px;text-align: center"><p>MARKS</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">GRADE </p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">GRADE POINT </p></td>
     </tr>
     <tr>
-      <td width="151" style="border-style:solid;border-width:1px"><p align="center">% ≥ 75</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">A1</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">1</p></td>
+      <td width="151" style="border-style:solid;border-width:1px"><p align="center">% ≥ 80 </p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">A+ </p></td>
+      <td rowspan="2" width="113" style="border-style:solid;border-width:1px"><p align="center">4.0 </p></td>
     </tr>
     <tr>
-      <td width="151" style="border-style:solid;border-width:1px"><p align="center">70 ≤ % &lt; 75</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">A2</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">2</p></td>
+      <td width="151" style="border-style:solid;border-width:1px"><p align="center">70 ≤ % &lt; 85</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">A</p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">65 ≤ % &lt; 70</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">B3</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">3</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">B+ </p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">3.5 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">60 ≤ % &lt; 65</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">B4</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">4</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">B</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">3.0 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">55 ≤ % &lt; 60</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">C5</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">5</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">C+ </p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">2.5 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">50 ≤ % &lt; 55</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">C6</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">6</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">C</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">2.0 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">45 ≤ % &lt; 50</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">D7</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">7</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">D+ </p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">1.5 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">40 ≤ % &lt; 45</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">E8</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">8</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">D</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">1.0 </p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">% &lt;40</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">F9</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">9</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">U</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">0.0 </p></td>
     </tr>
   </tbody></table>
 <p align="center"><strong>Promotion Criteria for IP Track</strong></p>
