@@ -145,7 +145,7 @@ Assessments  are important milestone checks on students’ learning. Students ar
   </tr>
 </tbody></table>
 <p align="center"><strong>O-Level Grade Table</strong></p>
-<table cellspacing="0" cellpadding="0" align="center" border="1">
+	<table cellspacing="0" cellpadding="0" align="center" border="1">
     <tbody><tr>
 	  <td width="151" style="border-style:solid;border-width:1px"><p align="center">Marks</p></td>
       <td width="113" style="border-style:solid;border-width:1px"><p align="center">Grade</p></td>
@@ -236,9 +236,9 @@ Assessments  are important milestone checks on students’ learning. Students ar
 <p align="center"><strong>IP Grade Value Table</strong> </p>
 <table cellspacing="0" cellpadding="0" align="center" border="1">
   <tbody><tr>
-      <td width="151" style="border-style:solid;border-width:1px;text-align: center"><p>MARKS</p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">GRADE </p></td>
-      <td width="113" style="border-style:solid;border-width:1px"><p align="center">GRADE POINT </p></td>
+      <td width="151" style="border-style:solid;border-width:1px;text-align: center"><p>Marks</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">Grade</p></td>
+      <td width="113" style="border-style:solid;border-width:1px"><p align="center">Grade Point</p></td>
     </tr>
     <tr>
       <td width="151" style="border-style:solid;border-width:1px"><p align="center">% ≥ 80 </p></td>
@@ -285,7 +285,7 @@ Assessments  are important milestone checks on students’ learning. Students ar
       <td width="113" style="border-style:solid;border-width:1px"><p align="center">0.0 </p></td>
     </tr>
   </tbody></table>
-	<p align="center"><strong>Calculation of GPA</strong></p>
+<p align="center"><strong>Calculation of GPA</strong> </p>
 <table cellspacing="0" cellpadding="0" align="center" border="1">
     <tbody><tr>
       <td valign="top" width="294" style="border-style:solid;border-width:1px"><p align="center"><strong>Year 1 to    Year 3</strong></p></td>
