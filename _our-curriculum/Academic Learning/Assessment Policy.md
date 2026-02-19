@@ -126,7 +126,6 @@ Assessments  are important milestone checks on students’ learning. Students ar
     </ul></td>
   </tr>
 </tbody></table>
-<p>&nbsp;</p>
 <ol start="5">
   <li>The promotion criteria for SEC/O-Level  and IP students are shown in the table below. The O-Level Grade Table and IP  Grade Value Table are also included below for reference.
 </li>
