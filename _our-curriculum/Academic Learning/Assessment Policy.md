@@ -216,7 +216,8 @@ Assessments  are important milestone checks on students’ learning. Students ar
       <ul>
         <li>Grade Value of 2.5 or better for English    Language, and</li>
         <li>Grade Point Average (GPA) 3.0 or better.</li>
-      </ul></td>
+      </ul>
+		      <p>Students may progress from Year 1 to Sec 2.</p></td>
   </tr>
   <tr>
     <td valign="top" width="113" style="border-style:solid;border-width:1px"><p>Year 2<br>
