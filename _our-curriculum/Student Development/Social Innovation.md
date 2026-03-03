@@ -3,6 +3,7 @@ title: Social Innovation
 permalink: /our-curriculum/student-development/social-innovation/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 # **Social Innovation**
 
@@ -46,7 +47,8 @@ Students are encouraged to initiate Social Innovation Projects based on their as
 
 ##### Submission of VIA Projects
 
-Students who have completed Social Innovation Projects are to download and submit the VIA Project Submission Form. Click [here](https://victoria.moe.edu.sg/wp-content/uploads/2018/10/04-VIA-Cockpit-Submission-Entry-Form-2019a.docx) - file in .docx format to download.
+Students who have completed Social Innovation Projects are to download and submit the DT Journal. Click [here](https://sites.google.com/moe.edu.sg/vsdesignthinkingguide/) to access the VS Design Thinking Hub to download the journal.
+
 
 ##### Community Partners for Social Innovation Programme
 
@@ -65,9 +67,6 @@ Our students are also encouraged to find community partners and work with them t
 
 
 
-<img src="/images/VC-Gifts-from-the-Heart.png" 
-     style="width:50%">
-<img src="/images/Student-Initiated-Project-at-Dover-Park-Hospice.png" 
-     style="width:50%">
-<img src="/images/VC-Food-from-the-Heart-at-Willing-Hearts.png" 
-     style="width:50%">
+<img src="/images/VC-Gifts-from-the-Heart.png" style="width:50%">
+<img src="/images/Student-Initiated-Project-at-Dover-Park-Hospice.png" style="width:50%">
+<img src="/images/VC-Food-from-the-Heart-at-Willing-Hearts.png" style="width:50%">
