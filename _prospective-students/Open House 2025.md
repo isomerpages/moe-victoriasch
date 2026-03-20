@@ -11,11 +11,6 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsma
 
 ![](/images/Open_House_Schedule_2026.png)
 
- 🤖 Your AI guide to Victoria School’s Open House 2025. Ask about our programmes, CCAs, admissions, and what makes VS unique. Click [here](https://for.edu.sg/vsguide) to access the AI Guide.
-
-### DSA Sharing
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2025 Open House DSA Sharing" src="https://www.youtube.com/embed/VxNaAVKB2Jw" height="315" width="560"></iframe>
-
 ### How To Get Here?
 We highly encourage you to make your way here using public&nbsp;transportation as there will be limited parking space. Victoria School is located beside Siglap MRT station. Please refer to the map for more information.
 ![](/images/Victoria_School_Location_Map.png)
