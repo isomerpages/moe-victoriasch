@@ -19,7 +19,7 @@ sections:
         - title: Follow us on Facebook
           description: ""
           url: https://www.facebook.com/victoriaschoolsingapore
-      url: /prospective-students/openhouse-2025/
+      url: /prospective-students/openhouse-2026/
       backgroundColor: gray
       size: sm
       alignment: right
