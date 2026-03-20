@@ -4,7 +4,7 @@ permalink: /prospective-students/openhouse-2025/
 variant: markdown
 description: ""
 ---
-
+![](/images/Open_House_2026_Banner.jpg)
 ### Welcome
 
 At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsman and Leader who makes tangible contributions to his family, work, community and nation.
