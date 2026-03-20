@@ -254,6 +254,8 @@ We highly encourage you to make your way here using public&nbsp;transportation a
 <br>
 <br>
 <h3><b><a name="FAQ"></a>FAQ</b></h3>
+ 🤖 Your AI guide to Victoria School’s Open House 2026. Ask about our programmes, CCAs, admissions, and what makes VS unique. Click [here](https://go.gov.sg/vsoh2026) to access the AI Guide.
+ 
 Need to clarify something? Check out this FAQ Sections and you will find most of your queries addressed.
 
 <ul class="jekyllcodex_accordion">
