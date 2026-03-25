@@ -10,16 +10,16 @@ sections:
       background: /images/VS_Open_House_2024_Banner_1920x720.jpg
       variant: center
       key_highlights:
-        - title: OPEN HOUSE 2025
-          description: 24 MAY 2025 (SAT)
-          url: /prospective-students/openhouse-2025/
+        - title: OPEN HOUSE 2026
+          description: 23 MAY 2026 (SAT)
+          url: /prospective-students/openhouse-2026/
         - title: Appeal for School Transfer (Primary 6 Students)
           description: ""
           url: https://www.victoria.moe.edu.sg/prospective-students/admission-to-VS/appeal-for-p6-students/
         - title: Follow us on Facebook
           description: ""
           url: https://www.facebook.com/victoriaschoolsingapore
-      url: /prospective-students/openhouse-2025/
+      url: /prospective-students/openhouse-2026/
       backgroundColor: gray
       size: sm
       alignment: right
