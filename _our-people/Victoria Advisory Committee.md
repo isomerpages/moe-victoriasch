@@ -25,19 +25,19 @@ Our VAC, which has served in an advisory and voluntary capacity since 1968, play
 <td width="57%" bgcolor="#CDCDCD">Chairman</td>
 </tr>
 <tr bgcolor="#CDCDCD">
-  <td bgcolor="#E1E1E1">Mr Tan Choon Seng</td>
-  <td bgcolor="#E1E1E1">Treasurer</td>
+  <td bgcolor="#E1E1E1">Mr Lim Han Feng</td>
+  <td bgcolor="#E1E1E1">Vice-Chairman</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-  <td bgcolor="#CDCDCD">Mr How Kwang Hwee</td>
-  <td bgcolor="#CDCDCD">Member</td>
+  <td bgcolor="#CDCDCD">Mr Tan Choon Seng</td>
+  <td bgcolor="#CDCDCD">Treasurer</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-  <td>Mr Kelvin Wong</td>
+  <td>Mr How Kwang Hwee</td>
   <td>Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td bgcolor="#CDCDCD">Mr Lim Han Feng</td>
+<td bgcolor="#CDCDCD">Mr Kelvin Wong</td>
 <td bgcolor="#CDCDCD">Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
@@ -57,12 +57,16 @@ Our VAC, which has served in an advisory and voluntary capacity since 1968, play
 <td bgcolor="#CDCDCD">Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-  <td>Mr Low Chun Meng</td>
-  <td>Secretary, Principal/Victoria School</td>
+  <td>Ms Cherine Fok</td>
+  <td>Member</td>
 </tr>
 <tr bgcolor="#E1E1E1">
-<td bgcolor="#CDCDCD">Mr Low Swee Heng Jeffrey</td>
-<td bgcolor="#CDCDCD">Secretary, Principal/Victoria Junior College</td>
+<td bgcolor="#CDCDCD">Mr Low Chun Meng</td>
+<td bgcolor="#CDCDCD">Secretary, Principal/Victoria School</td>
+</tr>
+<tr bgcolor="#E1E1E1">
+  <td>Mr Low Swee Heng Jeffrey</td>
+  <td>Secretary, Principal/Victoria Junior College</td>
 </tr>
 </tbody>
 </table>
