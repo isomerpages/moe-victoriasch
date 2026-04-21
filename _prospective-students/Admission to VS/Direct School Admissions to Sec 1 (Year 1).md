@@ -82,7 +82,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 18\.  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-19\.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+19\.  Some students may receive offers from DSA-Sec schools and SSP. Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer will be voided. Students who wish to accept the SSP offer will need to take part in the S1 Posting.
 
 20\.  **Flowchart of activities.**The timeline and process for VS are shown below:
 
