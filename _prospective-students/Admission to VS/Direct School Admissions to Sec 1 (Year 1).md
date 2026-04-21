@@ -76,7 +76,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 		
 15\.  **Notification of outcome by school (by Fri 28 Aug 2026)**. Applicants will be notified of the outcomes by Fri 28 Aug 2026.  The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
-16.\ **Exercise School Preference (19 Oct, 9:00am to 23 Oct 2026, 4:30pm – administered by MOE)**. Students who receive at least one DSA-Sec offer (including from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.
+16\. **Exercise School Preference (19 Oct, 9:00am to 23 Oct 2026, 4:30pm – administered by MOE)**. Students who receive at least one DSA-Sec offer (including from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.
 
 17\.  Only one parent is required to log in to the DSA-Sec Portal to submit school preferences. If parents are unable to submit online, they can approach primary school for assistance. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
 
