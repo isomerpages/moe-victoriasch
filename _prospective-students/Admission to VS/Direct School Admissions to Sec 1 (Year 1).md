@@ -86,7 +86,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 20\.  **Flowchart of activities.**The timeline and process for VS are shown below:
 
-[![](/images/2025_DSA_Image_2.jpg)](https://www.moe.gov.sg/secondary/dsa)
+[![](/images/2026_DSA_Image.jpg)](https://www.moe.gov.sg/secondary/dsa)
 
 21\.  For enquiries pertaining to DSA-Sec Exercise at Victoria School, please contact:  
 * Tel – 6291 2965 (General Office)   
