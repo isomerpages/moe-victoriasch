@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - Resources for Parents.md
       - Personal Data Privacy Act Policy.md
       - Location Map.md
+      - Resources for Parents.md
       - School & Office Opening Hours.md
       - Victoria Hall.md
       - faq.md
