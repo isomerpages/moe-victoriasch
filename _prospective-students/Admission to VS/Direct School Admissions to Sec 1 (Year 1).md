@@ -9,23 +9,23 @@ variant: markdown
 
 # **Direct School Admissions to Sec 1 (Year 1)**
 
-### Direct School Admission to 2026 Secondary 1
+### Direct School Admission to 2027 Secondary 1
 
 **Direct School Admission – Secondary (DSA-Sec) Exercise**
 
-1\.  The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
+1\.  Introduced in 2004, the Direct School Admission (DSA) provides a pathway for students to gain admission to secondary schools based on their interests, aptitude, and potential, beyond their performance at Primary School Leaving Examination (PSLE). The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes, strengths and potential, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 2\.  Primary 6 students have a choice of whether or not to participate in the DSA-Sec Exercise. If they choose not to participate in the DSA-Sec Exercise, they will continue to participate in the Secondary One Posting Exercise after the release of the PSLE results. For more information on the DSA-Sec Exercise, refer to:&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 **Victoria School: Dual-Track – SEC Programme and Victoria-Cedar Alliance Integrated Programme**
 
-3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Professionals and Sportsmen who make tangible contributions to their family, work, community and nation. Our students come from over 80 primary schools in Singapore.
+3\.  At Victoria School (VS), we nurture outstanding students into Gentlemen, Sportsmen and Leaders who lead and serve their families, communities and country. Our students come from over 80 primary schools in Singapore.
 
 4\.  As a dual-track school, students choose between our 4-year Secondary Education Certificate (SEC) Programme or the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly offered with Cedar Girls’ Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC).&nbsp; Students in the VCA IP will spend four years in VS and two years in VJC leading to the GCE ‘A’ Level Examinations.
 
 **DSA-Sec to Victoria School: Domains**
 
-5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2026.
+5\.  In line with the school’s focus on holistic development and to nurture diversity of talents, we are looking for promising Primary 6 boys who demonstrate talent and ability in Science, Technology, Engineering &amp; Mathematics (STEM), Leadership, Aesthetics or Sports. Successful applicants will join VS in January 2027.
 
 6\.  Students will be assessed on their ability in the talent area and academic ability so as to ensure that they benefit from the rigorous total curriculum offered at VS. Generally, students should have:   
     a.  High intellectual potential and ability,      
@@ -51,12 +51,14 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 \# Students with long-distance running experience, potential and ability may apply for Track &amp; Field. If found suitable, they will be offered a place through Track &amp; Field but will join Cross Country as their CCA instead upon successful admission.
 
-\# Students with gymnastics background may apply for Track &amp; Field too, as they will be considered strongly for the Pole Vault event.
+\# Students with gymnastics and sport climbing background may apply for Track &amp; Field too, as they will be considered strongly for the Pole Vault event.
 
 
 **Application Process**
 
-8\.  **Online application (7 May 2025, 11am to 3 June 2025, 3pm)**&nbsp;through the online DSA-Sec Portal. The application is free-of-charge and will be open from (7 May to 3 June).&nbsp; For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).&nbsp; Only one parent’s SingPass is needed to login to the portal. Find out&nbsp;[how to register for a SingPass](https://www.singpass.gov.sg/singpass/common/supportmain)&nbsp;if you don't have one -&nbsp;[https://www.singpass.gov.sg/singpass/common/supportmain](https://www.singpass.gov.sg/singpass/common/supportmain).&nbsp; Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at:&nbsp;[_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application).     
+8\.  **Online application (7 May 2025, 11am to 3 June 2025, 3pm)**&nbsp;through the online DSA-Sec Portal. The application is free-of-charge and will be open from (7 May to 3 June).&nbsp; For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).&nbsp; Only one parent’s SingPass is needed to login to the portal. Find out&nbsp;[how to register for a SingPass](https://www.singpass.gov.sg/singpass/common/supportmain)&nbsp;if you don't have one -&nbsp;[https://www.singpass.gov.sg/singpass/common/supportmain](https://www.singpass.gov.sg/singpass/common/supportmain).&nbsp; Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at:   
+
+8\. **Online application (6 May 2026, 11am to 2 June 2026, 4:30pm)** through the online DSA-Sec Portal. The application is free-of-charge and will be open from (6 May to 2 June).  For more details, please refer to MOE website – https://www.moe.gov.sg/secondary/dsa.  Parents may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents who are unable to apply online can approach their child’s/ward’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools, including Returning Singaporeans and International Students, will need to apply for a Registration Numbers (RGxxxxxxx) before they can apply through the DSA-Sec Portal – please refer to MOE website at:&nbsp;[_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application).  
 
 9\.  There is no need to submit any supporting documents during the online application stage. Your child's primary school records (for example, P5 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools. You may provide information for up to 10 non-school based activities and achievements which are related to your child's chosen talent areas.
 
