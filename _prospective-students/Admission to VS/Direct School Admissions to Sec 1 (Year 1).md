@@ -109,9 +109,9 @@ Important Notes to all DSA applicants:
 
 3\. Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.
 
-4\. Successful DSA-Sec students admitted to VS via the 4-year DSA /Sports are expected to honour their commitment to the CCA when they are in VS.
+4\. Successful DSA-Sec students admitted to VS via the 4-year DSA /Sports and DSA/Aesthetics are expected to honour their commitment to the CCA when they are in VS.
 
-5\. Successful DSA-Sec students admitted to the VCA IP via the 6-year DSA/Sports and DSA /Aesthetics are expected to honour their commitment to the CCA during their four-year course of study in VS.
+5\. Successful DSA-Sec students admitted to the VCA IP via the 6-year DSA/Sports and DSA /Aesthetics are expected to honour their commitment to the CCA when they are in VS, and encouraged to continue in the same CCA when they are in VJC.
 
 Applicants who are unsuccessful in the DSA Exercise or who did not take part in the DSA-Sec Exercise may still apply to the SEC Programme or Integrated Programme at VS using their PSLE results under MOE’s Secondary 1 Posting Exercise.
 
