@@ -66,8 +66,6 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**3 June (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-13\.  **Trials, auditions, selection tests and interviews (July to August).** You will receive notification from us by **Fri 25 Jul 2025**, if your child has been shortlisted to undergo Direct School Admission (DSA) selection trials/auditions/interviews. All applicants will receive their application outcomes by Thu 4 Sep 2025. Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants in&nbsp;July to August.&nbsp; Shortlisted applicants will be notified of the dates and timings.
-
 13\. **Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants from July to August.** You will receive notification from us by **Fri 24 Jul 2026** if your child has been shortlisted. All applicants will receive their application outcomes by Fri 28 Aug 2026.
 
 14\.  Shortlisted applicants will be informed if we need them to provide the following supporting documents:
@@ -76,9 +74,9 @@ Please note that meeting all the criteria does not guarantee the student will be
 * i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).
 * j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 		
-15\.  **Notification of outcome by school (by 4 September 2025).** Applicants will be notified of the outcomes by 4 September 2025.&nbsp; The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
+15\.  **Notification of outcome by school (by Fri 28 Aug 2026)**. Applicants will be notified of the outcomes by Fri 28 Aug 2026.  The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
-16\.  **Exercise School Preference (by 25 Oct,3pm – administered by MOE).** In October (date to be confirmed&nbsp;by MOE), all applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form by MOE through their primary schools. The form will include instructions on how to submit your child’s preferences.
+16.\ **Exercise School Preference (19 Oct, 9:00am to 23 Oct 2026, 4:30pm – administered by MOE)**. Students who receive at least one DSA-Sec offer (including from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.
 
 17\.  Fill out the School Preference Form with your child, listing a&nbsp;**maximum of 3 schools in order of preference**. Parents can submit their child’s school preference(s) either electronically via the DSA-Sec Internet System or physically at their child’s primary school. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
 
