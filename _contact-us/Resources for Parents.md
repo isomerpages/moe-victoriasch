@@ -9,7 +9,7 @@ description: ""
 while they are at the school premises, in Singapore or elsewhere, participating
 in school-related activities, including Co-Curricular Activities (CCA).</p>
 <p>You may refer to the factsheet which provides information on the benefit/sum
-assured, coverage and other details. The factsheet can be found <a href="https://www.fairfieldmethodistsec.moe.edu.sg/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank"><u>here</u></a>
+assured, coverage and other details. The factsheet can be found <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>All student accident insurance claims submission are to be submitted electronically.&nbsp;
 Parents/students are to submit their claims online and check the claims
@@ -17,7 +17,7 @@ status through the online portal.</p>
 <h3>Claim Procedures (Online)</h3>
 <ol>
 <li>
-<p>For eSubmission, parents can go to Income’s GPA portal&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg/#/</u></a>
+<p>For eSubmission, parents can go to Income’s GPA portal&nbsp;<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
 </p>
 </li>
 <li>
