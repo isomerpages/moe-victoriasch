@@ -64,7 +64,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 11\.  As Victoria School is a dual track school, applicants are to indicate a preference for SEC or Integrated Programme (IP) or no preference. We may offer applicants a track that is different from applicant’s indicated preference, based on school’s assessment of applicant’s suitability.
 
-12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**3 June (3pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+12\.  You can update, withdraw and re-submit your application during the application period. Application closes on&nbsp;**2 June (4.30pm)**.Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 13\. **Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants from July to August.** You will receive notification from us by **Fri 24 Jul 2026** if your child has been shortlisted. All applicants will receive their application outcomes by Fri 28 Aug 2026.
 
