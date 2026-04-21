@@ -68,6 +68,8 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 13\.  **Trials, auditions, selection tests and interviews (July to August).** You will receive notification from us by **Fri 25 Jul 2025**, if your child has been shortlisted to undergo Direct School Admission (DSA) selection trials/auditions/interviews. All applicants will receive their application outcomes by Thu 4 Sep 2025. Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants in&nbsp;July to August.&nbsp; Shortlisted applicants will be notified of the dates and timings.
 
+13\. **Trials, auditions, selection tests and interviews will be conducted for shortlisted applicants from July to August.** You will receive notification from us by **Fri 24 Jul 2026** if your child has been shortlisted. All applicants will receive their application outcomes by Fri 28 Aug 2026.
+
 14\.  Shortlisted applicants will be informed if we need them to provide the following supporting documents:
 
 * h.  Certified true copies or documentary proof of non-school based activities and achievements.
