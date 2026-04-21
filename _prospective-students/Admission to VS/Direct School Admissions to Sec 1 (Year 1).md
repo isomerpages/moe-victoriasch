@@ -78,7 +78,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 16.\ **Exercise School Preference (19 Oct, 9:00am to 23 Oct 2026, 4:30pm – administered by MOE)**. Students who receive at least one DSA-Sec offer (including from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.
 
-17\.  Fill out the School Preference Form with your child, listing a&nbsp;**maximum of 3 schools in order of preference**. Parents can submit their child’s school preference(s) either electronically via the DSA-Sec Internet System or physically at their child’s primary school. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
+17\.  Only one parent is required to log in to the DSA-Sec Portal to submit school preferences. If parents are unable to submit online, they can approach primary school for assistance. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage.
 
 18\.  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
