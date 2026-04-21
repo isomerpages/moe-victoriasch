@@ -70,9 +70,9 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 14\.  Shortlisted applicants will be informed if we need them to provide the following supporting documents:
 
-* h.  Certified true copies or documentary proof of non-school based activities and achievements.
-* i.  Portfolio of art works for students applying for DSA/Aesthetics (Art).
-* j.  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
+* Certified true copies or documentary proof of non-school based activities and achievements.
+* Portfolio of art works for students applying for DSA/Aesthetics (Art).
+* Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 		
 15\.  **Notification of outcome by school (by Fri 28 Aug 2026)**. Applicants will be notified of the outcomes by Fri 28 Aug 2026.  The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 

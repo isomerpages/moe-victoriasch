@@ -1,8 +1,9 @@
 ---
-title: Resources for Parents
-permalink: /contact-us/resources-for-parents/
+title: Group Personal Accident (GPA) Insurance for Students
+permalink: /contact-us/resources-for-parents/gpa-insurance/
 variant: tiptap
 description: ""
+third_nav_title: Resources for Parents
 ---
 <h3>Group Personal Accident (GPA) Insurance for Students</h3>
 <p>All students are covered under the GPA Insurance Plan which provides coverage
