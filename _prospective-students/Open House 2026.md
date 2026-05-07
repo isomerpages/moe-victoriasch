@@ -35,13 +35,6 @@ Please be informed that **visitor parking is not permitted within the school com
       <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web.pdf">view</a> the Prospectus.</p>
     </div>
   </li>
-	  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">IP HANDBOOK</label>
-    <div>
-     <p>Click here to <a target="_blank" href="https://drive.google.com/file/d/1l3sErzi5J1PIXML72dQRzLdhDEkUcC2l/view?usp=drive_link">view</a> the IP Handbook.</p>
-    </div>
-  </li>
 </ul>
 
 
