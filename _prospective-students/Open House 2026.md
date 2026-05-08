@@ -25,7 +25,7 @@ Please be informed that **visitor parking is not permitted within the school com
 * [FAQ](#FAQ)
 
 
-<h3><b><a name="Prospectus/IPHandbook"></a>Prospectus/IP Handbook</b></h3>
+<h3><b><a name="Prospectus/IPHandbook"></a>Prospectus</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
