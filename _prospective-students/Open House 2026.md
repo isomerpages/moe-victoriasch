@@ -32,7 +32,7 @@ Please be informed that **visitor parking is not permitted within the school com
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web.pdf">view</a> the Prospectus.</p>
+      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web_.pdf">view</a> the Prospectus.</p>
     </div>
   </li>
 </ul>
