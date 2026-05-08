@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main_Website_Banner_Wide_.jpg
+      background: /images/VS_Open_House_2024_Banner_1920x720b.jpg
       variant: center
       key_highlights:
         - title: OPEN HOUSE 2026
