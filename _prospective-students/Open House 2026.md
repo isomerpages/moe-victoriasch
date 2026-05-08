@@ -15,6 +15,12 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsma
 Please be informed that **visitor parking is not permitted within the school compound.** We strongly encourage the use of public transportation for your convenience. Victoria School is located beside Siglap MRT station. Please refer to the map for more information.
 ![](/images/Victoria_School_Location_Map.png)
 
+**Alternate parking for Victoria School Open House**
+![](/images/Alternate_parking_for_Victoria_School_Open_House.png)
+
+**Marine Terrace Estate**
+* Park the vehicle at Marine Terrace HDB Estate and take the MRT from Marine Terrace(TEL Line) to Siglap(2 Stops).
+
 ### The VS Experience
 
 * [Prospectus/IP Handbook](#Prospectus/IPHandbook)
@@ -25,14 +31,14 @@ Please be informed that **visitor parking is not permitted within the school com
 * [FAQ](#FAQ)
 
 
-<h3><b><a name="Prospectus/IPHandbook"></a>Prospectus/IP Handbook</b></h3>
+<h3><b><a name="Prospectus"></a>Prospectus</b></h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">PROSPECTUS</label>
     <div>
-      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web.pdf">view</a> the Prospectus.</p>
+      <p>Click here to <a target="_blank" href="https://www.victoria.moe.edu.sg/files/VS_Prospectus_2025_Web_.pdf">view</a> the Prospectus.</p>
     </div>
   </li>
 </ul>
