@@ -15,6 +15,12 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsma
 Please be informed that **visitor parking is not permitted within the school compound.** We strongly encourage the use of public transportation for your convenience. Victoria School is located beside Siglap MRT station. Please refer to the map for more information.
 ![](/images/Victoria_School_Location_Map.png)
 
+**Alternate parking for Victoria School Open House**
+![](/images/Alternate_parking_for_Victoria_School_Open_House.png)
+
+**Marine Terrace Estate**
+* Park the vehicle at Marine Terrace HDB Estate and take the MRT from Marine Terrace(TEL Line) to Siglap(2 Stops).
+
 ### The VS Experience
 
 * [Prospectus/IP Handbook](#Prospectus/IPHandbook)
