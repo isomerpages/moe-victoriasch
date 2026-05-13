@@ -6,8 +6,83 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h1><strong>Clubs &amp; Societies</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ach_clubs.jpg">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AV Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Copyright School Challenge Video Competition 2024/2025 - Top 10
+Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chess Club (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VJC Cup - 10th in Chinese Chess</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chess Club (International)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>76th National Schools Individual Chess Championships 2025</p>
+<p>
+<br>U14 Category - 5th &amp; 6th in East Zone</p>
+<p>
+<br>U16 Category - 3rd, 5th &amp; 6th in East Zone, 19th in National</p>
+<p>
+<br>U20 Category - 3rd in East Zone
+<br>
+<br>66th National Inter-School Team Chess Championships 2025</p>
+<p>
+<br>U14 Category - 2nd &amp; 3rd in East Zone</p>
+<p>
+<br>U16 Category - 1st in East Zone</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Olympiad in Informatics - 1 Silver, 4 Bronze</p>
+<p>
+<br>Drone Odyssey Challenge - Best Knowledge and Presentation Award</p>
+<p>
+<br>NUS NYJC CPIC - 1 Gold, 3 Silver, 2 Bronze</p>
+<p>
+<br>MakeX Formula X - 2nd &amp; 3rd</p>
+<p>
+<br>MakeX Tower League Challenge - Champion</p>
+<p>
+<br>Maze Master Challenge (Skilled Category) - 1st &amp; 3rd</p>
+<p>
+<br>AI Alliance Drone Challenge - 1st Runner-up, Best Knowledge Award</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
