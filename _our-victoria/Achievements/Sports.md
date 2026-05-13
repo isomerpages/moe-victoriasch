@@ -28,8 +28,7 @@ variant: tiptap
 <p>B Division (East Zone)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>
-</p>
+<p>3rd</p>
 </td>
 </tr>
 <tr>
@@ -37,11 +36,13 @@ variant: tiptap
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division (Nationals)</p>
+<p>B Division (Nationals)
+<br>C Division (Nationals)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
-</p>
+<p>4th
+<br>
+<br>3rd</p>
 </td>
 </tr>
 <tr>
@@ -53,10 +54,8 @@ variant: tiptap
 <p>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
-</p>
-<p>2<sup>nd</sup>
-</p>
+<p>4th</p>
+<p>2nd</p>
 </td>
 </tr>
 <tr>
@@ -64,22 +63,12 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division (National)</p>
+<p>B Division (National)
+<br>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division (National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p>1st
+<br>Lg 1 - 1st</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +76,10 @@ variant: tiptap
 <p>Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division (National)</p>
+<p>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 6</p>
+<p>Lg 1 - 2nd</p>
 </td>
 </tr>
 <tr>
@@ -102,22 +91,8 @@ variant: tiptap
 <p>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
-</p>
-<p>1<sup>st</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Shooting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division (National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
-</p>
+<p>4th</p>
+<p>1st</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +104,8 @@ variant: tiptap
 <p>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
-</p>
-<p>2<sup>nd</sup>
-</p>
+<p>4th</p>
+<p>Lg 1 - 2nd</p>
 </td>
 </tr>
 <tr>
@@ -140,11 +113,12 @@ variant: tiptap
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division (National)</p>
+<p>B Division (National)
+<br>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>
-</p>
+<p>3rd
+<br>Lg 1 - 4th</p>
 </td>
 </tr>
 <tr>
@@ -156,25 +130,8 @@ variant: tiptap
 <p>C Division (National)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>
-</p>
-<p>4<sup>th</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division (National)</p>
-<p>C Division (National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup>
-</p>
-<p>6<sup>th</sup>
-</p>
+<p>3rd</p>
+<p>4th</p>
 </td>
 </tr>
 </tbody>
