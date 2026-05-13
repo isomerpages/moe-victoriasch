@@ -79,12 +79,6 @@ variant: tiptap
 </table>
 </div>
 </details>
-<details class="isomer-details">
-<summary>2024</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
