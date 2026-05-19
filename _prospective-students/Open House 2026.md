@@ -11,6 +11,8 @@ At Victoria School (VS), we nurture every Victorian to be a Gentleman , Sportsma
 
 ![](/images/Open_House_Schedule_2026.png)
 
+![](/images/2026_Open_House_Booths__Website_.png)
+
 ### How To Get Here?
 Please be informed that **visitor parking is not permitted within the school compound.** We strongly encourage the use of public transportation for your convenience. Victoria School is located beside Siglap MRT station. Please refer to the map for more information.
 ![](/images/Victoria_School_Location_Map.png)
