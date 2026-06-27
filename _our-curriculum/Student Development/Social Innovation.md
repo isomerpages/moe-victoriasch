@@ -47,7 +47,7 @@ Students are encouraged to initiate Social Innovation Projects based on their as
 
 ##### Submission of VIA Projects
 
-Students who have completed Social Innovation Projects are to download and submit the DT Journal. Click [here](https://sites.google.com/moe.edu.sg/vsdesignthinkingguide/) to access the VS Design Thinking Hub to download the journal.
+Students who have completed Social Innovation Projects are to download and submit the DT Journal. Click [here](https://vs-dt-hub.netlify.app/) to access the VS Design Thinking Hub to download the journal.
 
 
 ##### Community Partners for Social Innovation Programme
