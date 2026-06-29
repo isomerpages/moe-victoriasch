@@ -260,7 +260,7 @@ Police.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex_A___PE_Attire.jpg">
 </div>
-<h4>Annex B Examples of Minor and Major Offences</h4>
+<h4>Annex B Examples of Minor and Serious Offences</h4>
 <h4><strong>Minor Offences</strong></h4>
 <p><em>Attendance</em>
 </p>
@@ -276,16 +276,18 @@ Disregarding school rules on attire, haircut, hairstyle etc. <em>Modification of
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Littering</strong>&nbsp;–
 Deliberate dropping or leaving rubbish within school premises or public
 places.
-<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Using of vulgar language</strong>&nbsp;–
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Not doing assignments</strong>&nbsp;–
+Failing to complete or submit assigned work without a valid reason.
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Using vulgar language</strong>&nbsp;–
 Verbalising coarse or abusive language (including online communications)
 against fellow Victorians and / or staff.
-<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Inconsiderate behaviour</strong>&nbsp;–
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Inconsiderate behaviour</strong>&nbsp;–
 Eating and drinking outside designated areas (school and in public), not
 following the rules of taking of lift, inconsiderate behaviour in public.
-<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sneaking into school after morning assembly</strong> –
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sneaking into school after morning assembly</strong> –
 Deliberately avoiding / reporting to designated school personnel in-charge
 of late-coming, Deceitfully evading detection by running away.</p>
-<h4><strong>Major Offences</strong></h4>
+<h4><strong>Serious Offences</strong></h4>
 <p><em>Attendance</em>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Truancy</strong>&nbsp;–
