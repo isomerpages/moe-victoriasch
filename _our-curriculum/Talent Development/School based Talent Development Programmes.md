@@ -3,6 +3,7 @@ title: School based Talent Development Programmes
 permalink: /our-curriculum/talent-programme/school-based-talent-development/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 # **School based Talent Development Programmes**
 
@@ -18,7 +19,7 @@ third_nav_title: Talent Development
     <input type="checkbox" id="accordion1">
     <label for="accordion1">English Talent Development Programme</label>
     <div>
-      <p>Victorians who excel in English are identified early by their teachers and mentored to develop their talents in writing and speaking. Talented students are selected to participate in various writing and oratorical programmes and contests, such as the Queen’s Commonwealth Essay Competition, Creative Arts Programme, YMCA Plain English Speaking Awards, and S Rajaratnam Leadership Series: Storytelling Competition. As part of their development, the students take on the role of emcees in school events and student journalists to cover major school or national events.</p>
+      <p>Victorians who excel in English are identified early by their teachers and mentored to develop their talents in writing and speaking. Talented students are selected to participate in various writing and oratorical programmes and contests, such as the Queen’s Commonwealth Essay Competition and Creative Arts Programme. As part of their development, the students take on the role of emcees in school events and student journalists to cover major school or national events.</p>
     </div>
 	</li>
 	  <li>
