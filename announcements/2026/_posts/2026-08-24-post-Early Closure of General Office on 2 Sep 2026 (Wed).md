@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please be informed that the General Office will be closed from 1pm onwards
+on Wednesday, 2&nbsp; September 2026 as all staff will be out for a school
+event.
+<br>We will resume operation on Thursday, 3 September 2026.&nbsp;</p>
